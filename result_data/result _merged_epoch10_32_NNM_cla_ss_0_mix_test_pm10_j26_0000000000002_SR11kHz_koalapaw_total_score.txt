@@ -1,0 +1,428 @@
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min
+Data : NNM_cla_ss_0_mix_test_pm10_j26_0000000000002_SR11kHz_koalapaw: test sets 1
+
+Sample Scores :
+0.506923079491
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.152077
+Average of the scores :0.0506923
+
+
+
+
+Major Voting Scores :
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.15
+Average of the scores :0.05
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :2 min

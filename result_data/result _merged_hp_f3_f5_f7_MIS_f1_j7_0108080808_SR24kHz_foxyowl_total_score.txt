@@ -1,0 +1,25 @@
+Data : MIS_f1_j7_0108080808_SR24kHz_foxyowl: test sets [1 2 3 4]
+
+Total scores :
+0.368421047926
+0.318181812763
+0.428571432829
+0.428571432829
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.191313
+Average of the scores :0.154375
+
+Patience :8
+Batch Size :64
+Last Node :512
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+Filter3 :[3, 3, 3, 3, 3, 3]
+filter4 :[4, 4, 4, 4, 4, 4]
+Filter5 :[5, 5, 5, 5, 5, 5]
+Optimizer :RMSprop
+

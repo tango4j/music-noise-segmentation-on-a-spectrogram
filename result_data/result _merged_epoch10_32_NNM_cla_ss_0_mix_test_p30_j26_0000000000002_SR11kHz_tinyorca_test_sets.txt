@@ -1,0 +1,570 @@
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.148745955843
+ Test accuracy:0.965384615385
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_500song#105_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_4']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_18']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_13']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#137_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#136_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_500song#133_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#149_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#131_J_0']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#114_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_8']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_15']- Label : 1 Prediction : 0
+['mix_dB_-30song#111_J_5']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#106_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_21']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_22']- Label : 1 Prediction : 0
+['mix_dB_-30song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_500song#117_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_12']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_24']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_24']- Label : 1 Prediction : 0
+['mix_dB_-30song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_500song#115_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#135_J_12']- Label : 1 Prediction : 0
+['mix_dB_-30song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#145_J_21']- Label : 0 Prediction : 1
+['mix_dB_500song#110_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#113_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#119_J_24']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+Majority Vote Score :0.91
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.148745955843
+ Test accuracy:0.965384615385
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_500song#105_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_4']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_18']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_13']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#137_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#136_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_500song#133_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#149_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#131_J_0']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#114_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_8']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_15']- Label : 1 Prediction : 0
+['mix_dB_-30song#111_J_5']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#106_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_21']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_22']- Label : 1 Prediction : 0
+['mix_dB_-30song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_500song#117_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_12']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_24']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_24']- Label : 1 Prediction : 0
+['mix_dB_-30song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_500song#115_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#135_J_12']- Label : 1 Prediction : 0
+['mix_dB_-30song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#145_J_21']- Label : 0 Prediction : 1
+['mix_dB_500song#110_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#113_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#119_J_24']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+Majority Vote Score :0.91
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.148745955843
+ Test accuracy:0.965384615385
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_500song#105_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_4']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_18']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_13']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#137_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#136_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_500song#133_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#149_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#131_J_0']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#114_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_8']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_15']- Label : 1 Prediction : 0
+['mix_dB_-30song#111_J_5']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#106_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_21']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_22']- Label : 1 Prediction : 0
+['mix_dB_-30song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_500song#117_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_12']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_24']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_24']- Label : 1 Prediction : 0
+['mix_dB_-30song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_500song#115_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#135_J_12']- Label : 1 Prediction : 0
+['mix_dB_-30song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#145_J_21']- Label : 0 Prediction : 1
+['mix_dB_500song#110_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#113_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#119_J_24']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+Majority Vote Score :0.91
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.148745955843
+ Test accuracy:0.965384615385
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_500song#105_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_4']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_18']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_13']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#137_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#136_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_500song#133_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#149_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#131_J_0']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#114_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_8']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_15']- Label : 1 Prediction : 0
+['mix_dB_-30song#111_J_5']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#106_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_21']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_22']- Label : 1 Prediction : 0
+['mix_dB_-30song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_500song#117_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_12']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_24']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_24']- Label : 1 Prediction : 0
+['mix_dB_-30song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_500song#115_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#135_J_12']- Label : 1 Prediction : 0
+['mix_dB_-30song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#145_J_21']- Label : 0 Prediction : 1
+['mix_dB_500song#110_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#113_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#119_J_24']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+Majority Vote Score :0.91
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.148745955843
+ Test accuracy:0.965384615385
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_500song#105_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_4']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#105_J_18']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_13']- Label : 1 Prediction : 0
+['mix_dB_500song#118_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#137_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#120_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#136_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#143_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_500song#133_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#149_J_25']- Label : 1 Prediction : 0
+['mix_dB_-30song#131_J_0']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-30song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#114_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_8']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#150_J_15']- Label : 1 Prediction : 0
+['mix_dB_-30song#111_J_5']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-30song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_500song#106_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#116_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_9']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_17']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_21']- Label : 1 Prediction : 0
+['mix_dB_500song#134_J_22']- Label : 1 Prediction : 0
+['mix_dB_-30song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_500song#117_J_0']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_1']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_2']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_3']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_5']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_7']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_11']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_12']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_15']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_16']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_22']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#117_J_24']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_19']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#145_J_24']- Label : 1 Prediction : 0
+['mix_dB_-30song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_500song#115_J_20']- Label : 1 Prediction : 0
+['mix_dB_500song#135_J_12']- Label : 1 Prediction : 0
+['mix_dB_-30song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-30song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-30song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-30song#145_J_21']- Label : 0 Prediction : 1
+['mix_dB_500song#110_J_10']- Label : 1 Prediction : 0
+['mix_dB_500song#113_J_14']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_6']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_23']- Label : 1 Prediction : 0
+['mix_dB_500song#130_J_25']- Label : 1 Prediction : 0
+['mix_dB_500song#119_J_24']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_0_mix_test_p30_j26_0000000000002_SR11kHz_tinyorca: test set 1
+Majority Vote Score :0.91
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+

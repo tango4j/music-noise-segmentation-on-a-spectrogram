@@ -1,0 +1,21 @@
+Data : data_j1_01010101_SR12kHz_New_onset_alg
+
+ Test score:0.162319222772
+ Test accuracy:0.924050632911
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.pp.C8_J_0']- Label : 0 Prediction : 2
+['TenorTrombone.ff.Bb4.stereo_J_0']- Label : 1 Prediction : 2
+['TenorTrombone.ff.Gb4.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulD.D4.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Ab6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.pizz.ff.sulA.Bb4.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.A3.stereo_J_0']- Label : 2 Prediction : 3
+['Bassoon.ff.Gb4.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Db6.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Eb4.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.924050632911

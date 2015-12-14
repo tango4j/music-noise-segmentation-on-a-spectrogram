@@ -1,0 +1,34 @@
+Data : MIS_f3_j5_0104040404_SR12kHz_redbunny: test sets [ 7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.666666686535
+0.673913061619
+0.479999989271
+0.555555582047
+Standard deviation of the scores :0.295473
+Average of the scores :0.237614
+
+
+Data : MIS_f3_j5_0104040404_SR12kHz_redbunny: test sets [1 2 3 4 5 6]
+
+Total scores :
+0.591836750507
+0.666666686535
+0.560000002384
+0.408163279295
+0.638297855854
+0.574468076229
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.28799
+Average of the scores :0.343943
+
+

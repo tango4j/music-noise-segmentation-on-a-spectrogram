@@ -1,0 +1,418 @@
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0377556532689
+ Test accuracy:0.989230769231
+
+Epoch :50
+List of the incorrect predictions 
+['mix_dB_-500song#134_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#139_J_5']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_13']- Label : 0 Prediction : 1
+['mix_dB_-500song#131_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_7']- Label : 0 Prediction : 1
+['mix_dB_-500song#111_J_25']- Label : 0 Prediction : 1
+['mix_dB_-500song#109_J_8']- Label : 0 Prediction : 1
+['mix_dB_-500song#144_J_24']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_2']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_10']- Label : 0 Prediction : 1
+['mix_dB_-500song#115_J_11']- Label : 0 Prediction : 1
+['mix_dB_-500song#124_J_3']- Label : 0 Prediction : 1
+['mix_dB_-500song#145_J_21']- Label : 0 Prediction : 1
+
+Data : NNM_cla_ss_0_mix_test_pinf_j26_0000000000002_SR11kHz_cyanshep: test set 1
+Majority Vote Score :0.82
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :0 min
+===================================================================
+

@@ -1,0 +1,43 @@
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.947058796883
+0.955555558205
+0.931428551674
+0.911111116409
+0.922222197056
+0.964705884457
+0.864705860615
+0.977777779102
+0.966666638851
+0.977142870426
+Standard deviation of the scores :0.0335851
+Average of the scores :0.941838
+
+
+
+
+Major Voting Scores :
+0.941176474094
+0.944444417953
+0.914285719395
+0.916666686535
+0.916666686535
+0.970588207245
+0.882352948189
+0.972222208977
+0.972222208977
+0.971428573132
+Standard deviation of the scores :0.0301562
+Average of the scores :0.940205
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f1910fa9250>
+
+Total Elapsed Time :56 min

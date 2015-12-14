@@ -1,0 +1,17 @@
+Data : MIS_f4_j13_0107070707_SR24kHz_bigorca: test sets [ 4  5  6  7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.810344815254
+0.802325606346
+0.828571438789
+0.839999973774
+0.839080452919
+0.79888266325
+0.831395328045
+Standard deviation of the scores :0.376705
+Average of the scores :0.57506
+
+

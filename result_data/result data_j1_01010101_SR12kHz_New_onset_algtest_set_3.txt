@@ -1,0 +1,13 @@
+Data : data_j1_01010101_SR12kHz_New_onset_alg
+
+ Test score:0.0900300269696
+ Test accuracy:0.970149253731
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.pp.Ab3_J_0']- Label : 0 Prediction : 2
+['Violin.arco.ff.sulA.D5.stereo_J_0']- Label : 2 Prediction : 3
+['Viola.pizz.ff.sulA.A4.stereo_J_0']- Label : 2 Prediction : 0
+['Viola.pizz.ff.sulG.A3.stereo_J_0']- Label : 2 Prediction : 0
+
+ Majority Vote Score :0.970149253731

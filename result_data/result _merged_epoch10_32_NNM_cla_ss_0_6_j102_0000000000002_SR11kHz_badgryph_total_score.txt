@@ -1,0 +1,43 @@
+Data : NNM_cla_ss_0_6_j102_0000000000002_SR11kHz_badgryph: test sets 1
+
+Sample Scores :
+0.841764688492
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.252529
+Average of the scores :0.0841765
+
+
+
+
+Major Voting Scores :
+0.0399999991059
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.012
+Average of the scores :0.004
+
+Patience :25
+Batch Size :32
+nb_epoch :25
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :82 min

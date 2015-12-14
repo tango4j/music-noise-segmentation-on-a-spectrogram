@@ -1,0 +1,52 @@
+Data : MIS_f4_j13_8000008080808_SR44kHz_redkoala: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Total scores :
+0.861271679401
+0.85795456171
+0.883720934391
+0.86206895113
+0.854651153088
+0.845714271069
+0.834285736084
+0.86206895113
+0.893854737282
+0.895348846912
+Standard deviation of the scores :0.0189925
+Average of the scores :0.865094
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f98d0a71e90>
+
+Total Elapsed Time :617 min
+Data : MIS_f4_j13_8000008080808_SR44kHz_redkoala: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Total scores :
+0.861271679401
+0.85795456171
+0.883720934391
+0.86206895113
+0.854651153088
+0.845714271069
+0.834285736084
+0.86206895113
+0.893854737282
+0.895348846912
+Standard deviation of the scores :0.0189925
+Average of the scores :0.865094
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f3b03d98150>
+
+Total Elapsed Time :618 min

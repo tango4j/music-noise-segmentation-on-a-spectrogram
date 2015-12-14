@@ -1,0 +1,43 @@
+Data : MIS_f5_j13_8080808080808_SR44kHz_sharpdog: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.97332149744
+0.974213302135
+0.980769217014
+0.975243151188
+0.962432920933
+0.98197799921
+0.96967035532
+0.976127326488
+0.962183058262
+0.971824705601
+Standard deviation of the scores :0.00630864
+Average of the scores :0.972776
+
+
+
+
+Major Voting Scores :
+0.965317904949
+0.977272748947
+0.976744174957
+0.959770143032
+0.959302306175
+0.982857167721
+0.971428573132
+0.971264362335
+0.966480433941
+0.970930218697
+Standard deviation of the scores :0.00722081
+Average of the scores :0.970137
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7ff7c6570890>
+
+Total Elapsed Time :754 min

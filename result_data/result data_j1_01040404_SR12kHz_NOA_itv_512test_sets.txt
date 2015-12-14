@@ -1,0 +1,20 @@
+Data : data_j1_01040404_SR12kHz_NOA_itv_512: test set 1
+
+ Test score:0.17922760812
+ Test accuracy:0.942675159236
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.pp.Db2_J_0']- Label : 0 Prediction : 2
+['Violin.arco.ff.sulE.Eb6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulG.A4.stereo_J_0']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.Ab4.stereo_J_0']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulA.G3.stereo_J_0']- Label : 2 Prediction : 0
+['AltoSax.NoVib.ff.Db5.stereo_J_0']- Label : 3 Prediction : 1
+['BassFlute.ff.Ab3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab6.stereo_J_0']- Label : 3 Prediction : 2
+['BbClarinet.ff.Bb6.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.942675159236
+===================================================================
+

@@ -1,0 +1,17 @@
+Data : MIS_f3_j23_0101010101_SR12kHz_foxwing: test sets [ 6  7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.638297855854
+0.647058844566
+0.673913061619
+0.439999997616
+0.644444465637
+Standard deviation of the scores :0.310283
+Average of the scores :0.304371
+
+

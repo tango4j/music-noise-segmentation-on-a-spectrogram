@@ -1,0 +1,11 @@
+Data : data_j1_01010101_SR12kHz_New_onset_alg
+
+ Test score:0.0236150039843
+ Test accuracy:0.985185185185
+
+Epoch :250
+List of the incorrect predictions 
+['Viola.arco.ff.sulA.Ab6.stereo_J_0']- Label : 2 Prediction : 3
+['BassFlute.ff.A5.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.985185185185

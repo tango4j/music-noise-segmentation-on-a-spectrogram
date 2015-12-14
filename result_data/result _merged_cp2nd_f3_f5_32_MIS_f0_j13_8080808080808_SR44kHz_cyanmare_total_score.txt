@@ -1,0 +1,37 @@
+Data : MIS_f0_j13_8080808080808_SR44kHz_cyanmare: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.916289567947
+0.876068353653
+0.892307698727
+0.854700863361
+0.880341887474
+0.893665134907
+0.701357483864
+0.89957267046
+0.891025662422
+0.874725282192
+Major Voting Scores :
+0.916289567947
+0.876068353653
+0.892307698727
+0.854700863361
+0.880341887474
+0.893665134907
+0.701357483864
+0.89957267046
+0.891025662422
+0.874725282192
+Standard deviation of the scores :0.0748896
+Average of the scores :0.826083
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f7e0ebd5310>
+
+Total Elapsed Time :213 min

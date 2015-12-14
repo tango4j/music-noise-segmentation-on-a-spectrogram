@@ -1,0 +1,17 @@
+Data : MIS_f2_j5_0104040404_SR12kHz_wetdog: test sets 10
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.962025344372
+Standard deviation of the scores :0.288608
+Average of the scores :0.0962025
+
+

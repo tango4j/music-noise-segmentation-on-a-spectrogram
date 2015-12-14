@@ -1,0 +1,644 @@
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0981891497128
+ Test accuracy:0.976433970654
+
+Epoch :10
+List of the incorrect predictions 
+['Piano.ff.A0_J_12']- Label : 0 Prediction : 3
+['Piano.ff.E2_J_12']- Label : 0 Prediction : 3
+['Piano.pp.G4_J_8']- Label : 0 Prediction : 3
+['Piano.pp.G4_J_9']- Label : 0 Prediction : 3
+['Piano.pp.G4_J_10']- Label : 0 Prediction : 3
+['Piano.pp.G4_J_11']- Label : 0 Prediction : 3
+['Piano.pp.G4_J_12']- Label : 0 Prediction : 3
+['Piano.pp.Gb3_J_3']- Label : 0 Prediction : 3
+['Horn.ff.E5.stereo_J_0']- Label : 1 Prediction : 3
+['Horn.ff.E5.stereo_J_4']- Label : 1 Prediction : 3
+['Horn.ff.E5.stereo_J_5']- Label : 1 Prediction : 3
+['Horn.ff.E5.stereo_J_9']- Label : 1 Prediction : 3
+['Horn.ff.E5.stereo_J_10']- Label : 1 Prediction : 3
+['Horn.ff.E5.stereo_J_12']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_0']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_1']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_2']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_3']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_4']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_5']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_6']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_7']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_8']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_9']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_10']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_11']- Label : 1 Prediction : 3
+['Horn.ff.F5.stereo_J_12']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_2']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_3']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_4']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_5']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_6']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_7']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_8']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_9']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_10']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_11']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.C6.stereo_J_12']- Label : 2 Prediction : 3
+['BassClarinet.ff.Eb5.stereo_J_0']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_1']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_2']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_3']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_4']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_5']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_6']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_7']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_8']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_9']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_10']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_11']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb5.stereo_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 1
+Majority Vote Score :0.953757225434
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f919f7b4250>
+
+The Elapsed Time for this test set :24 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 2
+
+Note : Valid set = Valid set version
+ Test score:0.0155861574903
+ Test accuracy:0.993444055944
+
+Epoch :10
+List of the incorrect predictions 
+['Oboe.ff.Bb3.stereo_J_1']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_3']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_4']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_5']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_6']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_8']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_9']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_10']- Label : 3 Prediction : 1
+['Oboe.ff.Bb3.stereo_J_11']- Label : 3 Prediction : 1
+['Oboe.ff.Db5.stereo_J_11']- Label : 3 Prediction : 1
+['BassFlute.ff.E3.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.E3.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.E3.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.E3.stereo_J_6']- Label : 3 Prediction : 2
+['BassFlute.ff.E3.stereo_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 2
+Majority Vote Score :1.0
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f9172b43150>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 3
+
+Note : Valid set = Valid set version
+ Test score:0.03182782436
+ Test accuracy:0.987924865832
+
+Epoch :10
+List of the incorrect predictions 
+['Cello.pizz.ff.sulD.Eb3.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_3']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_4']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_5']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_6']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_7']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_8']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_9']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_11']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulD.Eb3.stereo_J_12']- Label : 2 Prediction : 0
+['Bassoon.ff.A3.stereo_J_8']- Label : 3 Prediction : 1
+['Bassoon.ff.A3.stereo_J_9']- Label : 3 Prediction : 1
+['BassFlute.ff.B4.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_3']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_4']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_5']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_6']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_7']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_8']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_9']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_10']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_11']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 3
+Majority Vote Score :0.994186046512
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f9173f72ed0>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 4
+
+Note : Valid set = Valid set version
+ Test score:0.0714408544666
+ Test accuracy:0.979221927498
+
+Epoch :10
+List of the incorrect predictions 
+['Piano.ff.B0_J_5']- Label : 0 Prediction : 3
+['Piano.ff.B0_J_6']- Label : 0 Prediction : 3
+['Piano.ff.B0_J_7']- Label : 0 Prediction : 3
+['Piano.ff.B0_J_8']- Label : 0 Prediction : 3
+['Piano.ff.B0_J_9']- Label : 0 Prediction : 3
+['Piano.ff.B0_J_10']- Label : 0 Prediction : 3
+['Piano.ff.B0_J_11']- Label : 0 Prediction : 3
+['Trumpet.novib.ff.Eb6.stereo_J_0']- Label : 1 Prediction : 2
+['Trumpet.novib.ff.Eb6.stereo_J_1']- Label : 1 Prediction : 2
+['Trumpet.novib.ff.Eb6.stereo_J_12']- Label : 1 Prediction : 2
+['Viola.arco.ff.sulC.A3.stereo_J_0']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.A3.stereo_J_5']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.A3.stereo_J_6']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.A3.stereo_J_11']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.A3.stereo_J_12']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_4']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_5']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_6']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_7']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_8']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_9']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_10']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulG.G5.stereo_J_11']- Label : 2 Prediction : 3
+['Cello.pizz.ff.sulA.F5.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_3']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_4']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_5']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_6']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_7']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_8']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_9']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_12']- Label : 2 Prediction : 0
+['Bassoon.ff.C3.stereo_J_0']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_1']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_2']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_3']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_4']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_5']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_6']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_7']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_8']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_9']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_10']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_11']- Label : 3 Prediction : 0
+['Bassoon.ff.C3.stereo_J_12']- Label : 3 Prediction : 0
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 4
+Majority Vote Score :0.971264367816
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91c257cd50>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 5
+
+Note : Valid set = Valid set version
+ Test score:0.11844735036
+ Test accuracy:0.964221824687
+
+Epoch :10
+List of the incorrect predictions 
+['Piano.pp.Gb2_J_12']- Label : 0 Prediction : 2
+['BassTrombone.ff.Db1.stereo_J_0']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_1']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_2']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_3']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_4']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_5']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_6']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_7']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_8']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_9']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_10']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_11']- Label : 1 Prediction : 3
+['BassTrombone.ff.Db1.stereo_J_12']- Label : 1 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_0']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_1']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_2']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_3']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_4']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_5']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_6']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_9']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_11']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.B3.stereo_J_12']- Label : 2 Prediction : 3
+['SopSax.vib.ff.A5.stereo_J_6']- Label : 3 Prediction : 1
+['SopSax.vib.ff.A5.stereo_J_7']- Label : 3 Prediction : 1
+['SopSax.vib.ff.A5.stereo_J_8']- Label : 3 Prediction : 1
+['SopSax.vib.ff.A5.stereo_J_9']- Label : 3 Prediction : 1
+['SopSax.vib.ff.A5.stereo_J_10']- Label : 3 Prediction : 1
+['SopSax.vib.ff.A5.stereo_J_11']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_0']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_1']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_2']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_3']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_4']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_5']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_6']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_7']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_8']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_9']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_10']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_11']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.B3.stereo_J_12']- Label : 3 Prediction : 1
+['Flute.vib.ff.A5.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_3']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_4']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_5']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_6']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_7']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_8']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_9']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_10']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_11']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_12']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_3']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_4']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_5']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_6']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_7']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_8']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_9']- Label : 3 Prediction : 2
+['BassFlute.ff.A4.stereo_J_12']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_3']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_4']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_5']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_6']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_7']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_8']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_9']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_10']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_11']- Label : 3 Prediction : 2
+['BassFlute.ff.G3.stereo_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 5
+Majority Vote Score :0.96511627907
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91bb221ed0>
+
+The Elapsed Time for this test set :27 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 6
+
+Note : Valid set = Valid set version
+ Test score:0.0789265546311
+ Test accuracy:0.981538461538
+
+Epoch :10
+List of the incorrect predictions 
+['Trumpet.vib.ff.Bb4.stereo_J_8']- Label : 1 Prediction : 0
+['Trumpet.vib.ff.Bb4.stereo_J_9']- Label : 1 Prediction : 2
+['Trumpet.vib.ff.Bb4.stereo_J_10']- Label : 1 Prediction : 2
+['Trumpet.vib.ff.Bb4.stereo_J_11']- Label : 1 Prediction : 2
+['Violin.arco.ff.sulG.D4.stereo_J_12']- Label : 2 Prediction : 3
+['Flute.nonvib.ff.C4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_3']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_4']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_5']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_6']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_7']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_8']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_9']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_10']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_11']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_12']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_3']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_4']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_5']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_6']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_7']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_8']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_9']- Label : 3 Prediction : 2
+['Flute.vib.ff.B3.stereo_J_12']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_3']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_4']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_5']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_6']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_7']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_8']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_9']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_10']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_11']- Label : 3 Prediction : 2
+['BassFlute.ff.B5.stereo_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 6
+Majority Vote Score :0.977142857143
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91c9784690>
+
+The Elapsed Time for this test set :26 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 7
+
+Note : Valid set = Valid set version
+ Test score:0.101762498187
+ Test accuracy:0.977142857143
+
+Epoch :10
+List of the incorrect predictions 
+['Piano.pp.B4_J_0']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_1']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_2']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_3']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_4']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_5']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_6']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_7']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_8']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_9']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_10']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_11']- Label : 0 Prediction : 3
+['Piano.pp.B4_J_12']- Label : 0 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_3']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_4']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_5']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_6']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_7']- Label : 2 Prediction : 1
+['Cello.arco.ff.sulC.Bb3.stereo_J_8']- Label : 2 Prediction : 1
+['Cello.arco.ff.sulC.Bb3.stereo_J_9']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_10']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_11']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Bb3.stereo_J_12']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_3']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_4']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_5']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_6']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_7']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_8']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_9']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_10']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_11']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E3.stereo_J_12']- Label : 2 Prediction : 3
+['BassFlute.ff.Db3.stereo_J_0']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_1']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_2']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_3']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_4']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_5']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_6']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_7']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_8']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_9']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_10']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_11']- Label : 3 Prediction : 1
+['BassFlute.ff.Db3.stereo_J_12']- Label : 3 Prediction : 1
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 7
+Majority Vote Score :0.977142857143
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91c0c54c10>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 8
+
+Note : Valid set = Valid set version
+ Test score:0.027550636364
+ Test accuracy:0.993810786914
+
+Epoch :10
+List of the incorrect predictions 
+['Piano.ff.D5_J_12']- Label : 0 Prediction : 3
+['BassFlute.ff.C3.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_3']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_4']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_5']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_6']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_7']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_8']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_9']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_10']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_11']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 8
+Majority Vote Score :0.988505747126
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91c9d9ea90>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 9
+
+Note : Valid set = Valid set version
+ Test score:0.0961968463174
+ Test accuracy:0.987107864203
+
+Epoch :10
+List of the incorrect predictions 
+['Piano.ff.Bb0_J_0']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_1']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_2']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_3']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_4']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_5']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_6']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_7']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_8']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_9']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_10']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_11']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_12']- Label : 0 Prediction : 2
+['Bass.arco.ff.sulG.E4.stereo_J_7']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.E4.stereo_J_8']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.E4.stereo_J_9']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.E4.stereo_J_10']- Label : 2 Prediction : 3
+['Bass.arco.ff.sulG.E4.stereo_J_11']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Ab3.stereo_J_8']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_3']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_4']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_5']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_6']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_7']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_9']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_10']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_11']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.B3.stereo_J_12']- Label : 2 Prediction : 3
+['Oboe.ff.Eb4.stereo_J_9']- Label : 3 Prediction : 1
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 9
+Majority Vote Score :0.977653631285
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91c8d65d10>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 10
+
+Note : Valid set = Valid set version
+ Test score:0.0977238790142
+ Test accuracy:0.980322003578
+
+Epoch :10
+List of the incorrect predictions 
+['Violin.arco.ff.sulE.Eb6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_2']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_3']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_4']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_5']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_6']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_7']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_8']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_9']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_10']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_11']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_12']- Label : 2 Prediction : 3
+['Cello.pizz.ff.sulG.F4.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.F4.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.F4.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.F4.stereo_J_3']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.F4.stereo_J_7']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.F4.stereo_J_10']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.F4.stereo_J_12']- Label : 2 Prediction : 0
+['AltoSax.vib.ff.Db3.stereo_J_0']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Db3.stereo_J_1']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Db3.stereo_J_5']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Db3.stereo_J_6']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Db3.stereo_J_7']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Db3.stereo_J_8']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Db3.stereo_J_12']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_0']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_1']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_2']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_3']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_4']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_5']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_6']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_7']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_8']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_9']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_10']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_11']- Label : 3 Prediction : 1
+['AltoSax.vib.ff.Eb3.stereo_J_12']- Label : 3 Prediction : 1
+['Bassoon.ff.F2.stereo_J_12']- Label : 3 Prediction : 0
+['AltoFlute.vib.ff.A3.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.A3.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.A3.stereo_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test set 10
+Majority Vote Score :0.988372093023
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91c52960d0>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+

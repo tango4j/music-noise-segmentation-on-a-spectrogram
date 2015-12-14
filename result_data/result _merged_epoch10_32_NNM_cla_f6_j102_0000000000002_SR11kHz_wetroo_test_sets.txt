@@ -1,0 +1,69 @@
+Data : NNM_cla_f6_j102_0000000000002_SR11kHz_wetroo: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.127670155739
+ Test accuracy:0.966063348416
+
+Epoch :10
+List of the incorrect predictions 
+['song#001_J_1']- Label : 0 Prediction : 1
+['song#001_J_5']- Label : 0 Prediction : 1
+['song#001_J_23']- Label : 0 Prediction : 1
+['song#001_J_30']- Label : 0 Prediction : 1
+['song#001_J_41']- Label : 0 Prediction : 1
+['song#001_J_49']- Label : 0 Prediction : 1
+['song#001_J_63']- Label : 0 Prediction : 1
+['song#001_J_76']- Label : 0 Prediction : 1
+['song#001_J_78']- Label : 0 Prediction : 1
+['song#001_J_83']- Label : 0 Prediction : 1
+['song#022_J_0']- Label : 0 Prediction : 1
+['song#022_J_1']- Label : 0 Prediction : 1
+['song#022_J_2']- Label : 0 Prediction : 1
+['song#022_J_3']- Label : 0 Prediction : 1
+['song#022_J_4']- Label : 0 Prediction : 1
+['song#022_J_6']- Label : 0 Prediction : 1
+['song#022_J_8']- Label : 0 Prediction : 1
+['song#022_J_10']- Label : 0 Prediction : 1
+['song#022_J_12']- Label : 0 Prediction : 1
+['song#022_J_13']- Label : 0 Prediction : 1
+['song#022_J_14']- Label : 0 Prediction : 1
+['song#022_J_15']- Label : 0 Prediction : 1
+['song#022_J_16']- Label : 0 Prediction : 1
+['song#022_J_22']- Label : 0 Prediction : 1
+['song#022_J_37']- Label : 0 Prediction : 1
+['song#022_J_38']- Label : 0 Prediction : 1
+['song#022_J_39']- Label : 0 Prediction : 1
+['song#022_J_52']- Label : 0 Prediction : 1
+['song#022_J_53']- Label : 0 Prediction : 1
+['song#022_J_54']- Label : 0 Prediction : 1
+['song#022_J_55']- Label : 0 Prediction : 1
+['song#022_J_56']- Label : 0 Prediction : 1
+['song#022_J_57']- Label : 0 Prediction : 1
+['song#022_J_60']- Label : 0 Prediction : 1
+['song#022_J_62']- Label : 0 Prediction : 1
+['song#022_J_63']- Label : 0 Prediction : 1
+['song#022_J_64']- Label : 0 Prediction : 1
+['song#022_J_65']- Label : 0 Prediction : 1
+['song#022_J_67']- Label : 0 Prediction : 1
+['song#022_J_70']- Label : 0 Prediction : 1
+['song#022_J_79']- Label : 0 Prediction : 1
+['song#022_J_80']- Label : 0 Prediction : 1
+['song#022_J_81']- Label : 0 Prediction : 1
+['song#022_J_82']- Label : 0 Prediction : 1
+['song#022_J_101']- Label : 0 Prediction : 1
+
+Data : NNM_cla_f6_j102_0000000000002_SR11kHz_wetroo: test set 1
+Majority Vote Score :0.846153846154
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f12ba874990>
+
+The Elapsed Time for this test set :25 min
+===================================================================
+

@@ -1,0 +1,34 @@
+Data : data_j3_0202020202_SR12kHz_bigbunny: test sets [ 7  4 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.985185205936
+0.0
+0.0
+0.957055211067
+0.0
+0.0
+0.94482755661
+Standard deviation of the scores :0.441104
+Average of the scores :0.288707
+
+
+Data : data_j3_0202020202_SR12kHz_bigbunny: test sets 10
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.965517222881
+Standard deviation of the scores :0.289655
+Average of the scores :0.0965517
+
+

@@ -1,0 +1,45 @@
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_badshark: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0365142384161
+ Test accuracy:0.989705882353
+
+Epoch :10
+List of the incorrect predictions 
+['song#001_J_1']- Label : 0 Prediction : 1
+['song#001_J_5']- Label : 0 Prediction : 1
+['song#001_J_76']- Label : 0 Prediction : 1
+['song#050_J_21']- Label : 0 Prediction : 1
+['song#055_J_1']- Label : 0 Prediction : 1
+['song#055_J_26']- Label : 0 Prediction : 1
+['song#068_J_36']- Label : 0 Prediction : 1
+['bus08_J_15']- Label : 1 Prediction : 0
+['bus08_J_30']- Label : 1 Prediction : 0
+['bus08_J_31']- Label : 1 Prediction : 0
+['bus08_J_32']- Label : 1 Prediction : 0
+['bus08_J_44']- Label : 1 Prediction : 0
+['bus08_J_45']- Label : 1 Prediction : 0
+['openairmarket02_J_101']- Label : 1 Prediction : 0
+['restaurant05_J_10']- Label : 1 Prediction : 0
+['tubestation05_J_80']- Label : 1 Prediction : 0
+['tubestation05_J_81']- Label : 1 Prediction : 0
+['tubestation05_J_82']- Label : 1 Prediction : 0
+['tubestation05_J_97']- Label : 1 Prediction : 0
+['tubestation05_J_99']- Label : 1 Prediction : 0
+['tubestation05_J_100']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_badshark: test set 1
+Majority Vote Score :0.8
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :74 min
+===================================================================
+

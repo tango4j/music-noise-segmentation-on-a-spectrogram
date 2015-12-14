@@ -1,0 +1,43 @@
+Data : spg_MIS_f5_j13_0000000000008_SR44kHz_aquapuma: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.976433992386
+0.993444085121
+0.987924873829
+0.979221940041
+0.964221835136
+0.98153847456
+0.977142870426
+0.993810772896
+0.987107872963
+0.980322003365
+Standard deviation of the scores :0.00844335
+Average of the scores :0.982117
+
+
+
+
+Major Voting Scores :
+0.953757226467
+1.0
+0.994186043739
+0.971264362335
+0.965116262436
+0.977142870426
+0.977142870426
+0.988505721092
+0.977653622627
+0.988372087479
+Standard deviation of the scores :0.0132187
+Average of the scores :0.979314
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f91c52960d0>
+
+Total Elapsed Time :255 min

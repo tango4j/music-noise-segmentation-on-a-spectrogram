@@ -1,0 +1,852 @@
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 6
+
+Note : Valid set = Valid set version
+ Test score:0.418732472506
+ Test accuracy:0.91628959276
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_A1_J_12']- Label : 0 Prediction : 3
+['piano_gen_ff_C#4_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_C#4_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_C#4_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_C#4_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_C#4_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_C#4_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_C#4_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_C#4_J_12']- Label : 0 Prediction : 2
+['piano_mav_ff_G4_J_0']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_1']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_2']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_3']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_4']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_5']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_6']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_7']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_8']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_9']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_10']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_11']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_12']- Label : 2 Prediction : 1
+['piano_grd_ff_A1_J_0']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_1']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_2']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_3']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_4']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_5']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_6']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_7']- Label : 3 Prediction : 2
+['piano_grd_ff_A1_J_12']- Label : 3 Prediction : 2
+['piano_grd_ff_C#7_J_6']- Label : 3 Prediction : 0
+['piano_grd_ff_C#7_J_7']- Label : 3 Prediction : 0
+['piano_grd_ff_C#7_J_8']- Label : 3 Prediction : 0
+['piano_grd_ff_C#7_J_9']- Label : 3 Prediction : 0
+['piano_grd_ff_C#7_J_10']- Label : 3 Prediction : 0
+['piano_grd_ff_C#7_J_11']- Label : 3 Prediction : 0
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 6
+Majority Vote Score :0.911764705882
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fb5e108d4d0>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 7
+
+Note : Valid set = Valid set version
+ Test score:1.57443181385
+ Test accuracy:0.825791855204
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_A0_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_A0_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_A0_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_A0_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_D3_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_D6_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_D6_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_D6_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_D6_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_D6_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_F#7_J_0']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_1']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_2']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_3']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_4']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_5']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_6']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_7']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_8']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_9']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_10']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_11']- Label : 0 Prediction : 3
+['piano_gen_ff_F#7_J_12']- Label : 0 Prediction : 3
+['piano_gen_ff_F7_J_0']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_1']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_2']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_3']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_4']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_5']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_6']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_12']- Label : 0 Prediction : 1
+['piano_gia_ff_E5_J_0']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_1']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_2']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_3']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_4']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_5']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_6']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_7']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_8']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_9']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_10']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_11']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_12']- Label : 1 Prediction : 0
+['piano_mav_ff_C#3_J_0']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_1']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_2']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_3']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_4']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_5']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_6']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_7']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_8']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_9']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_10']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_11']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_12']- Label : 2 Prediction : 1
+['piano_mav_ff_F5_J_0']- Label : 2 Prediction : 1
+['piano_mav_ff_F5_J_5']- Label : 2 Prediction : 1
+['piano_mav_ff_F5_J_11']- Label : 2 Prediction : 0
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 7
+Majority Vote Score :0.794117647059
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fb5afa1b050>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 8
+
+Note : Valid set = Valid set version
+ Test score:0.666703646245
+ Test accuracy:0.891025641026
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_C#6_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_C#6_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_G4_J_0']- Label : 0 Prediction : 1
+['piano_gen_ff_G4_J_1']- Label : 0 Prediction : 1
+['piano_gen_ff_G4_J_2']- Label : 0 Prediction : 1
+['piano_gen_ff_G4_J_3']- Label : 0 Prediction : 1
+['piano_gen_ff_G4_J_4']- Label : 0 Prediction : 1
+['piano_gen_ff_G4_J_5']- Label : 0 Prediction : 1
+['piano_gen_ff_G4_J_6']- Label : 0 Prediction : 1
+['piano_gen_ff_G4_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_G4_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_G4_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_G4_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_G4_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_G4_J_12']- Label : 0 Prediction : 1
+['piano_gia_ff_B4_J_11']- Label : 1 Prediction : 2
+['piano_gia_ff_G4_J_7']- Label : 1 Prediction : 2
+['piano_gia_ff_G4_J_9']- Label : 1 Prediction : 2
+['piano_gia_ff_G4_J_10']- Label : 1 Prediction : 2
+['piano_gia_ff_G4_J_11']- Label : 1 Prediction : 2
+['piano_mav_ff_B4_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_B4_J_12']- Label : 2 Prediction : 0
+['piano_grd_ff_A#2_J_0']- Label : 3 Prediction : 2
+['piano_grd_ff_A#2_J_1']- Label : 3 Prediction : 2
+['piano_grd_ff_A#2_J_2']- Label : 3 Prediction : 2
+['piano_grd_ff_A#2_J_3']- Label : 3 Prediction : 2
+['piano_grd_ff_A#2_J_4']- Label : 3 Prediction : 2
+['piano_grd_ff_A#2_J_5']- Label : 3 Prediction : 2
+['piano_grd_ff_A#2_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 8
+Majority Vote Score :0.861111111111
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fb5b0d934d0>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 9
+
+Note : Valid set = Valid set version
+ Test score:0.409040646675
+ Test accuracy:0.933760683761
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_A#3_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_12']- Label : 0 Prediction : 2
+['piano_gia_ff_G7_J_10']- Label : 1 Prediction : 0
+['piano_gia_ff_G7_J_11']- Label : 1 Prediction : 0
+['piano_mav_ff_D#7_J_11']- Label : 2 Prediction : 0
+['piano_grd_ff_F#7_J_0']- Label : 3 Prediction : 2
+['piano_grd_ff_F#7_J_1']- Label : 3 Prediction : 2
+['piano_grd_ff_F#7_J_2']- Label : 3 Prediction : 2
+['piano_grd_ff_F#7_J_3']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_4']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_5']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_6']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_7']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_8']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_9']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_10']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_11']- Label : 3 Prediction : 0
+['piano_grd_ff_F#7_J_12']- Label : 3 Prediction : 2
+['piano_grd_ff_G7_J_7']- Label : 3 Prediction : 0
+['piano_grd_ff_G7_J_8']- Label : 3 Prediction : 0
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 9
+Majority Vote Score :0.944444444444
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fb5d3844b90>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 10
+
+Note : Valid set = Valid set version
+ Test score:0.967350526572
+ Test accuracy:0.793406593407
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_A3_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_A3_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_G#3_J_12']- Label : 0 Prediction : 2
+['piano_gia_ff_A4_J_0']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_1']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_2']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_3']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_4']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_5']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_6']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_7']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_8']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_9']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_10']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_11']- Label : 1 Prediction : 0
+['piano_gia_ff_A4_J_12']- Label : 1 Prediction : 0
+['piano_gia_ff_D5_J_11']- Label : 1 Prediction : 0
+['piano_mav_ff_A0_J_0']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_1']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_2']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_3']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_4']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_5']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_6']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_7']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_8']- Label : 2 Prediction : 3
+['piano_mav_ff_A0_J_12']- Label : 2 Prediction : 3
+['piano_mav_ff_B2_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_B2_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_B2_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_B2_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_B2_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_B2_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_B2_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_B2_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_D3_J_12']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_E5_J_12']- Label : 2 Prediction : 1
+['piano_mav_ff_F#5_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_F#5_J_11']- Label : 2 Prediction : 0
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 10
+Majority Vote Score :0.857142857143
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fb5b6d02f50>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.236821452619
+ Test accuracy:0.941176470588
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_F5_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_F5_J_12']- Label : 0 Prediction : 2
+['piano_gia_ff_C#5_J_4']- Label : 1 Prediction : 0
+['piano_gia_ff_C#5_J_5']- Label : 1 Prediction : 0
+['piano_gia_ff_C#5_J_6']- Label : 1 Prediction : 0
+['piano_gia_ff_C#5_J_7']- Label : 1 Prediction : 0
+['piano_gia_ff_C#5_J_8']- Label : 1 Prediction : 0
+['piano_gia_ff_C#5_J_9']- Label : 1 Prediction : 0
+['piano_gia_ff_C#5_J_10']- Label : 1 Prediction : 0
+['piano_gia_ff_C#5_J_11']- Label : 1 Prediction : 0
+['piano_grd_ff_F7_J_0']- Label : 3 Prediction : 1
+['piano_grd_ff_F7_J_1']- Label : 3 Prediction : 1
+['piano_grd_ff_F7_J_2']- Label : 3 Prediction : 1
+['piano_grd_ff_F7_J_3']- Label : 3 Prediction : 1
+['piano_grd_ff_F7_J_12']- Label : 3 Prediction : 1
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 1
+Majority Vote Score :0.970588235294
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7ff156101350>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 2
+
+Note : Valid set = Valid set version
+ Test score:0.248929438555
+ Test accuracy:0.929487179487
+
+Epoch :30
+List of the incorrect predictions 
+['piano_mav_ff_E1_J_11']- Label : 2 Prediction : 3
+['piano_mav_ff_F1_J_9']- Label : 2 Prediction : 3
+['piano_mav_ff_F1_J_10']- Label : 2 Prediction : 3
+['piano_mav_ff_F1_J_11']- Label : 2 Prediction : 3
+['piano_grd_ff_A7_J_3']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_4']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_5']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_6']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_7']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_8']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_9']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_10']- Label : 3 Prediction : 0
+['piano_grd_ff_A7_J_11']- Label : 3 Prediction : 0
+['piano_grd_ff_B7_J_8']- Label : 3 Prediction : 0
+['piano_grd_ff_B7_J_9']- Label : 3 Prediction : 0
+['piano_grd_ff_B7_J_11']- Label : 3 Prediction : 0
+['piano_grd_ff_C6_J_0']- Label : 3 Prediction : 1
+['piano_grd_ff_C6_J_1']- Label : 3 Prediction : 1
+['piano_grd_ff_C6_J_2']- Label : 3 Prediction : 1
+['piano_grd_ff_C6_J_12']- Label : 3 Prediction : 1
+['piano_grd_ff_F#6_J_0']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_1']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_2']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_3']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_4']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_5']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_6']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_7']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_8']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_9']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_10']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_11']- Label : 3 Prediction : 0
+['piano_grd_ff_F#6_J_12']- Label : 3 Prediction : 0
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 2
+Majority Vote Score :0.916666666667
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7ff12d9f6ed0>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 3
+
+Note : Valid set = Valid set version
+ Test score:0.97811294912
+ Test accuracy:0.821978021978
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_A#2_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_A#2_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_A#2_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_A#2_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_A#2_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_G#1_J_12']- Label : 0 Prediction : 2
+['piano_gia_ff_D7_J_0']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_1']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_2']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_3']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_4']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_5']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_6']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_7']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_8']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_9']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_10']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_11']- Label : 1 Prediction : 2
+['piano_gia_ff_D7_J_12']- Label : 1 Prediction : 2
+['piano_gia_ff_F#5_J_7']- Label : 1 Prediction : 0
+['piano_gia_ff_F#5_J_8']- Label : 1 Prediction : 0
+['piano_gia_ff_F#5_J_9']- Label : 1 Prediction : 0
+['piano_gia_ff_F#5_J_10']- Label : 1 Prediction : 0
+['piano_gia_ff_F#5_J_11']- Label : 1 Prediction : 0
+['piano_mav_ff_F#4_J_0']- Label : 2 Prediction : 1
+['piano_mav_ff_F#4_J_1']- Label : 2 Prediction : 1
+['piano_mav_ff_F#4_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_F#4_J_12']- Label : 2 Prediction : 1
+['piano_grd_ff_A#6_J_5']- Label : 3 Prediction : 0
+['piano_grd_ff_A#6_J_6']- Label : 3 Prediction : 0
+['piano_grd_ff_A#6_J_7']- Label : 3 Prediction : 0
+['piano_grd_ff_A#6_J_8']- Label : 3 Prediction : 0
+['piano_grd_ff_A#6_J_9']- Label : 3 Prediction : 0
+['piano_grd_ff_A#6_J_10']- Label : 3 Prediction : 0
+['piano_grd_ff_A#6_J_11']- Label : 3 Prediction : 0
+['piano_grd_ff_G5_J_0']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_1']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_2']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_3']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_4']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_5']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_6']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_7']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_8']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_9']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_10']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_11']- Label : 3 Prediction : 2
+['piano_grd_ff_G5_J_12']- Label : 3 Prediction : 2
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 3
+Majority Vote Score :0.828571428571
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7ff12ed9ed50>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 4
+
+Note : Valid set = Valid set version
+ Test score:1.06855116632
+ Test accuracy:0.858974358974
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_C8_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_C8_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_F#2_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_F4_J_12']- Label : 0 Prediction : 2
+['piano_mav_ff_A#3_J_12']- Label : 2 Prediction : 1
+['piano_mav_ff_C#6_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_12']- Label : 2 Prediction : 0
+['piano_grd_ff_C8_J_0']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_1']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_2']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_3']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_4']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_5']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_6']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_7']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_8']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_9']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_10']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_11']- Label : 3 Prediction : 1
+['piano_grd_ff_C8_J_12']- Label : 3 Prediction : 1
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 4
+Majority Vote Score :0.833333333333
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7ff15a530ed0>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 5
+
+Note : Valid set = Valid set version
+ Test score:1.00886582449
+ Test accuracy:0.752136752137
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_C#7_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_C#7_J_12']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_5']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_6']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_7']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_8']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_9']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_10']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_11']- Label : 0 Prediction : 2
+['piano_gen_ff_G7_J_12']- Label : 0 Prediction : 2
+['piano_gia_ff_B2_J_5']- Label : 1 Prediction : 2
+['piano_gia_ff_B2_J_6']- Label : 1 Prediction : 2
+['piano_gia_ff_B2_J_7']- Label : 1 Prediction : 2
+['piano_gia_ff_B2_J_8']- Label : 1 Prediction : 2
+['piano_gia_ff_B2_J_9']- Label : 1 Prediction : 2
+['piano_gia_ff_B2_J_10']- Label : 1 Prediction : 2
+['piano_gia_ff_B2_J_11']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_0']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_1']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_2']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_3']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_4']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_5']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_6']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_7']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_8']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_9']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_10']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_11']- Label : 1 Prediction : 2
+['piano_gia_ff_E4_J_12']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_1']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_2']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_3']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_5']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_6']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_7']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_8']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_9']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_10']- Label : 1 Prediction : 2
+['piano_gia_ff_F7_J_11']- Label : 1 Prediction : 2
+['piano_mav_ff_A#2_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_A#2_J_12']- Label : 2 Prediction : 0
+['piano_mav_ff_A3_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_A3_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_A3_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_A3_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_A3_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_C#4_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_C#4_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_C#4_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_C#4_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_C#4_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_C#4_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_C#4_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_D6_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_D6_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_F#2_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_F#2_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_F#2_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_F#2_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_F#2_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_F#2_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_F#2_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_5']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_6']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_7']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_8']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_9']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_10']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_11']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_12']- Label : 2 Prediction : 0
+['piano_grd_ff_B5_J_0']- Label : 3 Prediction : 1
+['piano_grd_ff_B5_J_1']- Label : 3 Prediction : 1
+['piano_grd_ff_B5_J_2']- Label : 3 Prediction : 1
+['piano_grd_ff_B5_J_3']- Label : 3 Prediction : 1
+['piano_grd_ff_B5_J_4']- Label : 3 Prediction : 1
+['piano_grd_ff_B5_J_5']- Label : 3 Prediction : 1
+['piano_grd_ff_B5_J_6']- Label : 3 Prediction : 2
+['piano_grd_ff_B5_J_7']- Label : 3 Prediction : 2
+['piano_grd_ff_B5_J_8']- Label : 3 Prediction : 2
+['piano_grd_ff_B5_J_9']- Label : 3 Prediction : 2
+['piano_grd_ff_B5_J_10']- Label : 3 Prediction : 2
+['piano_grd_ff_B5_J_11']- Label : 3 Prediction : 2
+['piano_grd_ff_B5_J_12']- Label : 3 Prediction : 1
+
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test set 5
+Majority Vote Score :0.777777777778
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7ff135598850>
+
+The Elapsed Time for this test set :16 min
+===================================================================
+

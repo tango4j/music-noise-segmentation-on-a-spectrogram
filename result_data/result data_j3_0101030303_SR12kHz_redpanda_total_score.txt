@@ -1,0 +1,34 @@
+Data : data_j3_0101030303_SR12kHz_redpanda: test sets [ 7 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.969325125217
+0.0
+0.0
+0.965517222881
+Standard deviation of the scores :0.386969
+Average of the scores :0.193484
+
+
+Data : data_j3_0101030303_SR12kHz_redpanda: test sets [3 4 5 8]
+
+Total scores :
+0.0
+0.0
+0.955223858356
+0.940740764141
+0.968503952026
+0.0
+0.0
+0.985915482044
+0.0
+0.0
+Standard deviation of the scores :0.471692
+Average of the scores :0.385038
+
+

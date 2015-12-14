@@ -1,0 +1,62 @@
+Data : data_j1_111111111_SR32kHz_pinkwolf: test set 6
+
+ Test score:0.222735529459
+ Test accuracy:0.905063291139
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.C8_J_0']- Label : 0 Prediction : 2
+['Piano.ff.E1_J_0']- Label : 0 Prediction : 3
+['Piano.pp.B3_J_0']- Label : 0 Prediction : 2
+['Piano.pp.C8_J_0']- Label : 0 Prediction : 2
+['Piano.pp.Gb1_J_0']- Label : 0 Prediction : 3
+['TenorTrombone.ff.Ab4.stereo_J_0']- Label : 1 Prediction : 2
+['Violin.pizz.ff.sulG.B3.stereo_J_0']- Label : 2 Prediction : 0
+['Bass.pizz.ff.sulG.E4.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.A5.stereo_J_0']- Label : 2 Prediction : 0
+['BassFlute.ff.C3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.B3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Eb4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Gb4.stereo_J_0']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.905063291139
+===================================================================
+
+Data : data_j1_111111111_SR32kHz_pinkwolf: test set 9
+
+ Test score:0.212365016341
+ Test accuracy:0.925619834711
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.Gb7_J_0']- Label : 0 Prediction : 2
+['Piano.pp.D1_J_0']- Label : 0 Prediction : 3
+['Piano.pp.D6_J_0']- Label : 0 Prediction : 1
+['Violin.arco.ff.sulG.D4.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.E2.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulC.C2.stereo_J_0']- Label : 2 Prediction : 0
+['Flute.nonvib.ff.C7.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.D4.stereo_J_0']- Label : 3 Prediction : 2
+['BassClarinet.ff.E2.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.925619834711
+===================================================================
+
+Data : data_j1_111111111_SR32kHz_pinkwolf: test set 1
+
+ Test score:0.107319861745
+ Test accuracy:0.968152866242
+
+Epoch :250
+List of the incorrect predictions 
+['Trumpet.vib.ff.Db5.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_0']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulD.Gb2.stereo_J_0']- Label : 2 Prediction : 0
+['AltoSax.NoVib.ff.Db5.stereo_J_0']- Label : 3 Prediction : 0
+['BbClarinet.ff.Bb6.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.968152866242
+===================================================================
+

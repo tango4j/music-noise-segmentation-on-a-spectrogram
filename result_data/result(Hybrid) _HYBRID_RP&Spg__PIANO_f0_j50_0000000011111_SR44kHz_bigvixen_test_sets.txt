@@ -1,0 +1,8 @@
+Data : PIANO_f0_j50_0000000011111_SR44kHz_bigvixen: test set 2
+
+Note : Valid set = Valid set version
+ Test score:1.65910288493
+ Test accuracy:0.636666666667
+
+Epoch :30
+List of the incorrect predictions 

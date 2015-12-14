@@ -1,0 +1,17 @@
+Data : data_j3_01010101_SR16kHz_NOA_dm200: test sets [1 2 3 4 5]
+
+Total scores :
+0.961783468723
+0.945121943951
+0.962686538696
+0.985185205936
+0.944881916046
+0.0
+0.0
+0.0
+0.0
+0.0
+Variance of the scores :0.230477
+Average of the scores :0.479966
+
+

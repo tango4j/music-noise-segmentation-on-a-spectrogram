@@ -1,0 +1,13 @@
+Total scores :
+0.955413997173
+0.0
+0.0
+0.0
+0.0
+0.93670886755
+0.0
+0.0
+0.958677709103
+0.0
+Variance of the scores :0.18966
+Average of the scores :0.28508

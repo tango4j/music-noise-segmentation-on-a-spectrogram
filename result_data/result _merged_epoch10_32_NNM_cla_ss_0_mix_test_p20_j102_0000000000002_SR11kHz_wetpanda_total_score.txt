@@ -1,0 +1,86 @@
+Data : NNM_cla_ss_0_mix_test_p20_j102_0000000000002_SR11kHz_wetpanda: test sets 1
+
+Sample Scores :
+0.937254905701
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.281176
+Average of the scores :0.0937255
+
+
+
+
+Major Voting Scores :
+0.159999996424
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.048
+Average of the scores :0.016
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :80 min
+Data : NNM_cla_ss_0_mix_test_p20_j102_0000000000002_SR11kHz_wetpanda: test sets 1
+
+Sample Scores :
+0.896274507046
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.268882
+Average of the scores :0.0896275
+
+
+
+
+Major Voting Scores :
+0.0599999986589
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.018
+Average of the scores :0.006
+
+Patience :5
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :119 min

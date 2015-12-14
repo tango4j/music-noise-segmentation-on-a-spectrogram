@@ -1,0 +1,27 @@
+Data : MIS_f0_j1_0000000001010100_SR16kHz_badlynx: test set 1
+
+Note : Valid set = Valid set version
+ Test score:1.5832695961
+ Test accuracy:0.25
+
+Epoch :30
+List of the incorrect predictions 
+['SA1_J_0']- Label : 0 Prediction : 2
+['SX146_J_0']- Label : 1 Prediction : 2
+['SA2_J_0']- Label : 4 Prediction : 2
+
+Data : MIS_f0_j1_0000000001010100_SR16kHz_badlynx: test set 1
+Majority Vote Score :0.25
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f2b78444890>
+
+The Elapsed Time for this test set :0 min
+===================================================================
+

@@ -1,0 +1,179 @@
+Data : MIS_f4_j1_8000008080808_SR44kHz_bigpig: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.696013501614
+ Test accuracy:0.774566473988
+
+Epoch :30
+List of the incorrect predictions 
+['Piano.ff.A0_J_0']- Label : 0 Prediction : 2
+['Trumpet.vib.ff.E4.stereo_J_0']- Label : 2 Prediction : 16
+['Violin.arco.ff.sulA.Eb6.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.arco.ff.sulE.Gb6.stereo_J_0']- Label : 6 Prediction : 10
+['Viola.arco.ff.sulD.Ab4.stereo_J_0']- Label : 7 Prediction : 9
+['Viola.pizz.ff.sulA.A4.stereo_J_0']- Label : 7 Prediction : 9
+['Viola.pizz.ff.sulC.Bb4.stereo_J_0']- Label : 7 Prediction : 6
+['Viola.pizz.ff.sulD.C6.stereo_J_0']- Label : 7 Prediction : 6
+['Cello.arco.ff.sulC.C3.stereo_J_0']- Label : 9 Prediction : 3
+['Cello.pizz.ff.sulA.G5.stereo_J_0']- Label : 9 Prediction : 6
+['Cello.pizz.ff.sulD.D3.stereo_J_0']- Label : 9 Prediction : 0
+['Cello.pizz.ff.sulG.C3.stereo_J_0']- Label : 9 Prediction : 0
+['Cello.pizz.ff.sulG.Eb3.stereo_J_0']- Label : 9 Prediction : 8
+['Cello.pizz.ff.sulG.G2.stereo_J_0']- Label : 9 Prediction : 0
+['SopSax.vib.ff.D6.stereo_J_0']- Label : 10 Prediction : 2
+['SopSax.vib.ff.E4.stereo_J_0']- Label : 10 Prediction : 15
+['AltoSax.NoVib.ff.Bb3.stereo_J_0']- Label : 11 Prediction : 3
+['AltoSax.NoVib.ff.E5.stereo_J_0']- Label : 11 Prediction : 10
+['AltoSax.vib.ff.Bb3.stereo_J_0']- Label : 11 Prediction : 6
+['AltoSax.vib.ff.C5.stereo_J_0']- Label : 11 Prediction : 10
+['AltoSax.vib.ff.Eb5.stereo_J_0']- Label : 11 Prediction : 10
+['AltoSax.vib.ff.Gb3.stereo_J_0']- Label : 11 Prediction : 16
+['Oboe.ff.A5.stereo_J_0']- Label : 12 Prediction : 6
+['Oboe.ff.Gb5.stereo_J_0']- Label : 12 Prediction : 6
+['Flute.nonvib.ff.Ab4.stereo_J_0']- Label : 14 Prediction : 17
+['Flute.nonvib.ff.E4.stereo_J_0']- Label : 14 Prediction : 16
+['Flute.nonvib.ff.F4.stereo_J_0']- Label : 14 Prediction : 16
+['AltoFlute.vib.ff.D5.stereo_J_0']- Label : 15 Prediction : 16
+['AltoFlute.vib.ff.F6.stereo_J_0']- Label : 15 Prediction : 16
+['BassFlute.ff.Ab5.stereo_J_0']- Label : 16 Prediction : 14
+['BassFlute.ff.E5.stereo_J_0']- Label : 16 Prediction : 7
+['BassFlute.ff.F4.stereo_J_0']- Label : 16 Prediction : 7
+['BassClarinet.ff.A4.stereo_J_0']- Label : 17 Prediction : 18
+['BassClarinet.ff.Eb5.stereo_J_0']- Label : 17 Prediction : 18
+['BassClarinet.ff.G5.stereo_J_0']- Label : 17 Prediction : 19
+['BbClarinet.ff.Eb3.stereo_J_0']- Label : 18 Prediction : 14
+['EbClarinet.ff.Ab6.stereo_J_0']- Label : 19 Prediction : 18
+['EbClarinet.ff.Bb3.stereo_J_0']- Label : 19 Prediction : 18
+['EbClarinet.ff.Db5.stereo_J_0']- Label : 19 Prediction : 14
+
+Data : MIS_f4_j1_8000008080808_SR44kHz_bigpig: test set 1
+Majority Vote Score :0.774566473988
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[16, 32, 16, 32, 16, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :14 min
+===================================================================
+
+Data : MIS_f4_j1_8000008080808_SR44kHz_bigpig: test set 1
+
+Note : Valid set = Valid set version
+ Test score:1.23744161005
+ Test accuracy:0.768786127168
+
+Epoch :100
+List of the incorrect predictions 
+['Piano.pp.B0_J_0']- Label : 0 Prediction : 13
+['Tuba.ff.Gb3.stereo_J_0']- Label : 1 Prediction : 8
+['Trumpet.novib.ff.A3.stereo_J_0']- Label : 2 Prediction : 0
+['Horn.ff.Bb3.stereo_J_0']- Label : 3 Prediction : 9
+['BassTrombone.ff.Db3.stereo_J_0']- Label : 5 Prediction : 4
+['Violin.arco.ff.sulA.Eb6.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.arco.ff.sulE.Gb6.stereo_J_0']- Label : 6 Prediction : 10
+['Violin.pizz.ff.sulA.C6.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulA.Eb6.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulD.D4.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulD.F5.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulE.D6.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulE.G6.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulG.Ab4.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulG.E5.stereo_J_0']- Label : 6 Prediction : 7
+['Viola.pizz.ff.sulA.A4.stereo_J_0']- Label : 7 Prediction : 9
+['Bass.pizz.ff.sulD.B3.stereo_J_0']- Label : 8 Prediction : 9
+['Cello.arco.ff.sulG.Eb3.stereo_J_0']- Label : 9 Prediction : 8
+['Cello.pizz.ff.sulG.Eb3.stereo_J_0']- Label : 9 Prediction : 8
+['SopSax.vib.ff.B3.stereo_J_0']- Label : 10 Prediction : 11
+['SopSax.vib.ff.E4.stereo_J_0']- Label : 10 Prediction : 11
+['AltoSax.NoVib.ff.Bb3.stereo_J_0']- Label : 11 Prediction : 3
+['AltoSax.NoVib.ff.E5.stereo_J_0']- Label : 11 Prediction : 10
+['AltoSax.NoVib.ff.Eb4.stereo_J_0']- Label : 11 Prediction : 10
+['AltoSax.vib.ff.C5.stereo_J_0']- Label : 11 Prediction : 10
+['AltoSax.vib.ff.Eb5.stereo_J_0']- Label : 11 Prediction : 10
+['Oboe.ff.Gb5.stereo_J_0']- Label : 12 Prediction : 6
+['Bassoon.ff.B4.stereo_J_0']- Label : 13 Prediction : 19
+['Bassoon.ff.D5.stereo_J_0']- Label : 13 Prediction : 14
+['AltoFlute.vib.ff.Ab3.stereo_J_0']- Label : 15 Prediction : 10
+['AltoFlute.vib.ff.D5.stereo_J_0']- Label : 15 Prediction : 16
+['BassFlute.ff.Ab5.stereo_J_0']- Label : 16 Prediction : 14
+['BassFlute.ff.D5.stereo_J_0']- Label : 16 Prediction : 14
+['BassFlute.ff.F4.stereo_J_0']- Label : 16 Prediction : 14
+['BassClarinet.ff.A4.stereo_J_0']- Label : 17 Prediction : 18
+['BassClarinet.ff.Eb5.stereo_J_0']- Label : 17 Prediction : 18
+['BassClarinet.ff.G5.stereo_J_0']- Label : 17 Prediction : 7
+['BbClarinet.ff.Ab5.stereo_J_0']- Label : 18 Prediction : 19
+['BbClarinet.ff.Eb3.stereo_J_0']- Label : 18 Prediction : 14
+['EbClarinet.ff.Bb3.stereo_J_0']- Label : 19 Prediction : 17
+
+Data : MIS_f4_j1_8000008080808_SR44kHz_bigpig: test set 1
+Majority Vote Score :0.768786127168
+
+Patience :15
+Batch Size :32
+nb_epoch :100
+Last Node :1024
+Units :[48, 48, 48, 48, 48, 48, 48, 48]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :30 min
+===================================================================
+
+Data : MIS_f4_j1_8000008080808_SR44kHz_bigpig: test set 2
+
+Note : Valid set = Valid set version
+ Test score:0.558580376885
+ Test accuracy:0.840909090909
+
+Epoch :100
+List of the incorrect predictions 
+['Trumpet.novib.ff.E3.stereo_J_0']- Label : 2 Prediction : 9
+['Horn.ff.Ab4.stereo_J_0']- Label : 3 Prediction : 4
+['Horn.ff.G3.stereo_J_0']- Label : 3 Prediction : 4
+['Violin.arco.ff.sulA.Gb5.stereo_J_0']- Label : 6 Prediction : 9
+['Violin.pizz.ff.sulD.Db5.stereo_J_0']- Label : 6 Prediction : 7
+['Violin.pizz.ff.sulG.G4.stereo_J_0']- Label : 6 Prediction : 7
+['Viola.pizz.ff.sulG.C5.stereo_J_0']- Label : 7 Prediction : 9
+['Cello.arco.ff.sulA.Gb5.stereo_J_0']- Label : 9 Prediction : 6
+['Cello.pizz.ff.sulA.A3.stereo_J_0']- Label : 9 Prediction : 8
+['Cello.pizz.ff.sulA.Bb4.stereo_J_0']- Label : 9 Prediction : 6
+['SopSax.nonvib.ff.E5.stereo_J_0']- Label : 10 Prediction : 11
+['SopSax.vib.ff.Gb4.stereo_J_0']- Label : 10 Prediction : 11
+['AltoSax.NoVib.ff.Eb3.stereo_J_0']- Label : 11 Prediction : 3
+['AltoSax.NoVib.ff.Gb5.stereo_J_0']- Label : 11 Prediction : 10
+['AltoSax.vib.ff.Db4.stereo_J_0']- Label : 11 Prediction : 15
+['Oboe.ff.Bb3.stereo_J_0']- Label : 12 Prediction : 19
+['Bassoon.ff.Eb2.stereo_J_0']- Label : 13 Prediction : 5
+['Bassoon.ff.F4.stereo_J_0']- Label : 13 Prediction : 14
+['Flute.nonvib.ff.D4.stereo_J_0']- Label : 14 Prediction : 17
+['AltoFlute.vib.ff.B4.stereo_J_0']- Label : 15 Prediction : 10
+['AltoFlute.vib.ff.E5.stereo_J_0']- Label : 15 Prediction : 16
+['BassFlute.ff.G4.stereo_J_0']- Label : 16 Prediction : 14
+['BassClarinet.ff.B4.stereo_J_0']- Label : 17 Prediction : 19
+['BassClarinet.ff.Eb3.stereo_J_0']- Label : 17 Prediction : 14
+['BbClarinet.ff.Ab6.stereo_J_0']- Label : 18 Prediction : 17
+['BbClarinet.ff.G3.stereo_J_0']- Label : 18 Prediction : 17
+['BbClarinet.ff.Gb6.stereo_J_0']- Label : 18 Prediction : 17
+['EbClarinet.ff.Gb6.stereo_J_0']- Label : 19 Prediction : 17
+
+Data : MIS_f4_j1_8000008080808_SR44kHz_bigpig: test set 2
+Majority Vote Score :0.840909090909
+
+Patience :15
+Batch Size :32
+nb_epoch :100
+Last Node :1024
+Units :[48, 48, 48, 48, 48, 48, 48, 48]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :25 min
+===================================================================
+

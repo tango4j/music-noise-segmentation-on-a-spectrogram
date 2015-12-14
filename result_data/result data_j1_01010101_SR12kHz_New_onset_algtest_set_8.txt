@@ -1,0 +1,14 @@
+Data : data_j1_01010101_SR12kHz_New_onset_alg
+
+ Test score:0.133042306209
+ Test accuracy:0.964788732394
+
+Epoch :250
+List of the incorrect predictions 
+['Tuba.ff.G2.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.C5.stereo_J_0']- Label : 1 Prediction : 2
+['Trumpet.vib.ff.C5.stereo_J_0']- Label : 1 Prediction : 2
+['Violin.arco.ff.sulE.D7.stereo_J_0']- Label : 2 Prediction : 0
+['BassFlute.ff.B4.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.964788732394

@@ -1,0 +1,34 @@
+Data : data_j3_0104040404_SR12kHz_cyanpup: test sets [ 6  7  8  9 10  1  2  3  4  5]
+
+Total scores :
+0.969696998596
+0.952380955219
+0.925000011921
+0.963917553425
+0.96875
+0.975609779358
+0.971631228924
+0.920731723309
+0.96273291111
+0.993197262287
+Standard deviation of the scores :0.0212088
+Average of the scores :0.960365
+
+
+Data : data_j3_0104040404_SR12kHz_cyanpup: test sets [3 8]
+
+Total scores :
+0.0
+0.0
+0.943750023842
+0.0
+0.0
+0.0
+0.0
+0.902438998222
+0.0
+0.0
+Standard deviation of the scores :0.369353
+Average of the scores :0.184619
+
+

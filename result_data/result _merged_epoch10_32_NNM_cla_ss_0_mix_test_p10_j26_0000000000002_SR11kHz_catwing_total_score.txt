@@ -1,0 +1,43 @@
+Data : NNM_cla_ss_0_mix_test_p10_j26_0000000000002_SR11kHz_catwing: test sets 1
+
+Sample Scores :
+0.822307705879
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.246692
+Average of the scores :0.0822308
+
+
+
+
+Major Voting Scores :
+0.280000001192
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.084
+Average of the scores :0.028
+
+Patience :50
+Batch Size :256
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :0 min

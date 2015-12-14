@@ -1,0 +1,342 @@
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.14718295522
+ Test accuracy:0.947058823529
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gia_ff_C#5_J_3']- Label : 1 Prediction : 0
+['piano_mav_ff_B6_J_4']- Label : 2 Prediction : 1
+['piano_mav_ff_D#2_J_1']- Label : 2 Prediction : 3
+['piano_mav_ff_D#2_J_2']- Label : 2 Prediction : 3
+['piano_mav_ff_D#2_J_3']- Label : 2 Prediction : 3
+['piano_mav_ff_F#1_J_0']- Label : 2 Prediction : 3
+['piano_mav_ff_F#1_J_1']- Label : 2 Prediction : 3
+['piano_mav_ff_F#1_J_2']- Label : 2 Prediction : 3
+['piano_mav_ff_F#1_J_3']- Label : 2 Prediction : 3
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 1
+Majority Vote Score :0.941176470588
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f19007ecf90>
+
+The Elapsed Time for this test set :4 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 2
+
+Note : Valid set = Valid set version
+ Test score:0.113999839458
+ Test accuracy:0.955555555556
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gia_ff_A#3_J_1']- Label : 1 Prediction : 2
+['piano_gia_ff_A#3_J_2']- Label : 1 Prediction : 2
+['piano_gia_ff_A#3_J_3']- Label : 1 Prediction : 2
+['piano_gia_ff_G#1_J_1']- Label : 1 Prediction : 2
+['piano_gia_ff_G#1_J_3']- Label : 1 Prediction : 2
+['piano_mav_ff_G3_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_G3_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_G3_J_3']- Label : 2 Prediction : 0
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 2
+Majority Vote Score :0.944444444444
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f18db46b1d0>
+
+The Elapsed Time for this test set :4 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 3
+
+Note : Valid set = Valid set version
+ Test score:0.357325907829
+ Test accuracy:0.931428571429
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_B3_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_B3_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_E6_J_0']- Label : 0 Prediction : 1
+['piano_gen_ff_E6_J_1']- Label : 0 Prediction : 1
+['piano_gen_ff_E6_J_2']- Label : 0 Prediction : 1
+['piano_gen_ff_E6_J_3']- Label : 0 Prediction : 1
+['piano_gen_ff_E6_J_4']- Label : 0 Prediction : 1
+['piano_mav_ff_B5_J_0']- Label : 2 Prediction : 3
+['piano_mav_ff_B5_J_1']- Label : 2 Prediction : 3
+['piano_mav_ff_B5_J_2']- Label : 2 Prediction : 3
+['piano_mav_ff_B5_J_4']- Label : 2 Prediction : 3
+['piano_mav_ff_F#4_J_3']- Label : 2 Prediction : 0
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 3
+Majority Vote Score :0.914285714286
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f18e06586d0>
+
+The Elapsed Time for this test set :4 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 4
+
+Note : Valid set = Valid set version
+ Test score:0.459831247727
+ Test accuracy:0.911111111111
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_D#4_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_D#4_J_4']- Label : 0 Prediction : 2
+['piano_mav_ff_D7_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_D7_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_D7_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_D7_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_D7_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_F4_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_G1_J_0']- Label : 2 Prediction : 3
+['piano_mav_ff_G1_J_1']- Label : 2 Prediction : 3
+['piano_mav_ff_G1_J_2']- Label : 2 Prediction : 3
+['piano_mav_ff_G1_J_3']- Label : 2 Prediction : 3
+['piano_grd_ff_C8_J_3']- Label : 3 Prediction : 2
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 4
+Majority Vote Score :0.916666666667
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f190e405f50>
+
+The Elapsed Time for this test set :4 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 5
+
+Note : Valid set = Valid set version
+ Test score:0.220784955223
+ Test accuracy:0.922222222222
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_G#2_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_G#2_J_3']- Label : 0 Prediction : 2
+['piano_mav_ff_C7_J_4']- Label : 2 Prediction : 1
+['piano_mav_ff_D6_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_D6_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_D6_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_D6_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_D6_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_F6_J_0']- Label : 2 Prediction : 0
+['piano_mav_ff_F6_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_F6_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_F6_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_F6_J_4']- Label : 2 Prediction : 0
+['piano_mav_ff_G2_J_3']- Label : 2 Prediction : 0
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 5
+Majority Vote Score :0.916666666667
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f18dd287590>
+
+The Elapsed Time for this test set :5 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 6
+
+Note : Valid set = Valid set version
+ Test score:0.0733066980453
+ Test accuracy:0.964705882353
+
+Epoch :30
+List of the incorrect predictions 
+['piano_mav_ff_C#5_J_4']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_0']- Label : 2 Prediction : 1
+['piano_mav_ff_G4_J_1']- Label : 2 Prediction : 0
+['piano_mav_ff_G4_J_2']- Label : 2 Prediction : 0
+['piano_mav_ff_G4_J_3']- Label : 2 Prediction : 0
+['piano_mav_ff_G4_J_4']- Label : 2 Prediction : 1
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 6
+Majority Vote Score :0.970588235294
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f18db6fc710>
+
+The Elapsed Time for this test set :4 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 7
+
+Note : Valid set = Valid set version
+ Test score:1.08257817091
+ Test accuracy:0.864705882353
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_D6_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_D6_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_D6_J_4']- Label : 0 Prediction : 2
+['piano_gen_ff_F#7_J_0']- Label : 0 Prediction : 1
+['piano_gen_ff_F#7_J_1']- Label : 0 Prediction : 1
+['piano_gen_ff_F#7_J_2']- Label : 0 Prediction : 1
+['piano_gen_ff_F#7_J_3']- Label : 0 Prediction : 1
+['piano_gen_ff_F#7_J_4']- Label : 0 Prediction : 1
+['piano_gen_ff_F7_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_F7_J_4']- Label : 0 Prediction : 2
+['piano_gia_ff_E5_J_2']- Label : 1 Prediction : 0
+['piano_gia_ff_E5_J_3']- Label : 1 Prediction : 0
+['piano_mav_ff_A#5_J_4']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_0']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_1']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_2']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_3']- Label : 2 Prediction : 1
+['piano_mav_ff_C#3_J_4']- Label : 2 Prediction : 1
+['piano_grd_ff_E2_J_0']- Label : 3 Prediction : 2
+['piano_grd_ff_E2_J_1']- Label : 3 Prediction : 2
+['piano_grd_ff_E2_J_4']- Label : 3 Prediction : 2
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 7
+Majority Vote Score :0.882352941176
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f18e4ab2450>
+
+The Elapsed Time for this test set :4 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 8
+
+Note : Valid set = Valid set version
+ Test score:0.151835943179
+ Test accuracy:0.977777777778
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_G#4_J_0']- Label : 0 Prediction : 1
+['piano_gen_ff_G#4_J_1']- Label : 0 Prediction : 1
+['piano_gen_ff_G#4_J_4']- Label : 0 Prediction : 1
+['piano_grd_ff_A6_J_4']- Label : 3 Prediction : 1
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 8
+Majority Vote Score :0.972222222222
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f19060fa7d0>
+
+The Elapsed Time for this test set :5 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 9
+
+Note : Valid set = Valid set version
+ Test score:0.102103279919
+ Test accuracy:0.966666666667
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gen_ff_A#3_J_0']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_1']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_2']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_3']- Label : 0 Prediction : 2
+['piano_gen_ff_A#3_J_4']- Label : 0 Prediction : 2
+['piano_gia_ff_E6_J_3']- Label : 1 Prediction : 0
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 9
+Majority Vote Score :0.972222222222
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f18db3b9610>
+
+The Elapsed Time for this test set :8 min
+===================================================================
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 10
+
+Note : Valid set = Valid set version
+ Test score:0.0825115453784
+ Test accuracy:0.977142857143
+
+Epoch :30
+List of the incorrect predictions 
+['piano_gia_ff_A4_J_1']- Label : 1 Prediction : 2
+['piano_gia_ff_A4_J_2']- Label : 1 Prediction : 2
+['piano_gia_ff_A4_J_3']- Label : 1 Prediction : 2
+['piano_mav_ff_B2_J_3']- Label : 2 Prediction : 0
+
+Data : MIS_f0_j5_08080808_SR44kHz_ragelynx: test set 10
+Majority Vote Score :0.971428571429
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f1910fa9250>
+
+The Elapsed Time for this test set :7 min
+===================================================================
+

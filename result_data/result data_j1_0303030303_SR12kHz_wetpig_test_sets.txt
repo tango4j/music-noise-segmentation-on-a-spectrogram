@@ -1,0 +1,23 @@
+Data : data_j1_0303030303_SR12kHz_wetpig: test set 6
+
+ Test score:0.19911995002
+ Test accuracy:0.924050632911
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.E1_J_0']- Label : 0 Prediction : 1
+['Piano.pp.C8_J_0']- Label : 0 Prediction : 2
+['Violin.arco.ff.sulA.Gb6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Ab6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.pizz.ff.sulG.B3.stereo_J_0']- Label : 2 Prediction : 0
+['Viola.pizz.ff.sulC.E4.stereo_J_0']- Label : 2 Prediction : 0
+['Oboe.ff.D4.stereo_J_0']- Label : 3 Prediction : 1
+['Oboe.ff.Db5.stereo_J_0']- Label : 3 Prediction : 1
+['AltoFlute.vib.ff.Db6.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Eb4.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.924050632911
+===================================================================
+

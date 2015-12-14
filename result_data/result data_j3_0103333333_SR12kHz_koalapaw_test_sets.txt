@@ -1,0 +1,32 @@
+Data : data_j3_0103333333_SR12kHz_koalapaw: test set 10
+
+ Test score:0.10115581333
+ Test accuracy:0.951724137931
+
+Epoch :100
+List of the incorrect predictions 
+['Piano.pp.A6_J_1']- Label : 0 Prediction : 2
+['Piano.pp.A6_J_2']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.D6.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.D6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.D6.stereo_J_2']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Eb6.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Eb6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Eb6.stereo_J_2']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulA.F5.stereo_J_2']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.Bb5.stereo_J_1']- Label : 2 Prediction : 1
+['Violin.arco.ff.sulD.Bb5.stereo_J_2']- Label : 2 Prediction : 1
+['Cello.arco.ff.sulD.D3.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulD.D3.stereo_J_2']- Label : 2 Prediction : 3
+['AltoFlute.vib.ff.Bb3.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Bb3.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Bb3.stereo_J_2']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.G6.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.G6.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.G6.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.Eb6.stereo_J_1']- Label : 3 Prediction : 0
+['Flute.nonvib.ff.Eb6.stereo_J_2']- Label : 3 Prediction : 0
+
+ Majority Vote Score :0.944827586207
+===================================================================
+

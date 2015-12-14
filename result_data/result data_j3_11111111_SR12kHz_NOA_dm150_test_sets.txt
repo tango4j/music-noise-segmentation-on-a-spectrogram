@@ -1,0 +1,307 @@
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 1
+
+ Test score:0.14834883556
+ Test accuracy:0.951167728238
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.Bb0_J_0']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_1']- Label : 0 Prediction : 2
+['Piano.ff.Bb0_J_2']- Label : 0 Prediction : 2
+['Piano.pp.Db2_J_2']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.Bb4.stereo_J_2']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.Db5.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.Db5.stereo_J_2']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulD.F4.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Eb6.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.pizz.ff.sulG.E4.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.F3.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.F3.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulG.D3.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulG.D3.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.pizz.ff.sulA.G4.stereo_J_1']- Label : 2 Prediction : 0
+['AltoSax.vib.ff.Eb5.stereo_J_2']- Label : 3 Prediction : 1
+['SopSax.vib.ff.D5.stereo_J_2']- Label : 3 Prediction : 1
+['SopSax.vib.ff.Gb5.stereo_J_2']- Label : 3 Prediction : 1
+['Oboe.ff.Gb6.stereo_J_1']- Label : 3 Prediction : 1
+['BassFlute.ff.Ab3.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.Ab3.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.Ab3.stereo_J_2']- Label : 3 Prediction : 2
+['BbClarinet.ff.Bb6.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.968152866242
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 2
+
+ Test score:0.159767116594
+ Test accuracy:0.936991869919
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.pp.Ab7_J_1']- Label : 0 Prediction : 2
+['Piano.pp.Gb4_J_0']- Label : 0 Prediction : 2
+['Piano.pp.Gb4_J_1']- Label : 0 Prediction : 2
+['Piano.pp.Gb4_J_2']- Label : 0 Prediction : 2
+['Tuba.ff.G3.stereo_J_1']- Label : 1 Prediction : 3
+['TenorTrombone.ff.E2.stereo_J_2']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulG.A3.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulG.A3.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.pizz.ff.sulE.E5.stereo_J_0']- Label : 2 Prediction : 0
+['Violin.pizz.ff.sulE.E5.stereo_J_1']- Label : 2 Prediction : 0
+['Violin.pizz.ff.sulE.E5.stereo_J_2']- Label : 2 Prediction : 0
+['Viola.arco.ff.sulC.C5.stereo_J_0']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.C5.stereo_J_1']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.C5.stereo_J_2']- Label : 2 Prediction : 3
+['Viola.pizz.ff.sulA.D5.stereo_J_0']- Label : 2 Prediction : 0
+['Viola.pizz.ff.sulA.E5.stereo_J_2']- Label : 2 Prediction : 0
+['Viola.pizz.ff.sulG.G3.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulA.Ab5.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulA.Ab5.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulA.Ab5.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulA.Gb4.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.G3.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.G3.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.G3.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulG.Db3.stereo_J_2']- Label : 2 Prediction : 0
+['Flute.vib.ff.A5.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.vib.ff.A5.stereo_J_2']- Label : 3 Prediction : 2
+['BbClarinet.ff.B6.stereo_J_0']- Label : 3 Prediction : 2
+['BbClarinet.ff.B6.stereo_J_1']- Label : 3 Prediction : 2
+['BbClarinet.ff.B6.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.951219512195
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 3
+
+ Test score:0.0982432666313
+ Test accuracy:0.962686567164
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.pp.Ab3_J_2']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.G5.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.D6.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.D6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.D6.stereo_J_2']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.F5.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.G4.stereo_J_2']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulA.Ab6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulA.Ab6.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulG.Db4.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulG.Db4.stereo_J_1']- Label : 2 Prediction : 0
+['Bassoon.ff.F4.stereo_J_2']- Label : 3 Prediction : 1
+['BassFlute.ff.Bb4.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.Bb4.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.Bb4.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.970149253731
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 4
+
+ Test score:0.0361739375698
+ Test accuracy:0.98024691358
+
+Epoch :250
+List of the incorrect predictions 
+['Viola.arco.ff.sulA.Ab6.stereo_J_0']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulA.Ab6.stereo_J_1']- Label : 2 Prediction : 3
+['Viola.pizz.ff.sulD.A4.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.B3.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulG.Eb3.stereo_J_2']- Label : 2 Prediction : 1
+['BassFlute.ff.A5.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.A5.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.A5.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.985185185185
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 5
+
+ Test score:0.0527735992758
+ Test accuracy:0.979002624672
+
+Epoch :250
+List of the incorrect predictions 
+['Violin.arco.ff.sulA.Ab5.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulA.Ab5.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulA.A5.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulA.A5.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.F5.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.G2.stereo_J_2']- Label : 2 Prediction : 0
+['AltoFlute.vib.ff.B5.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.G3.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.984251968504
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 6
+
+ Test score:0.209108548074
+ Test accuracy:0.930379746835
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.E1_J_1']- Label : 0 Prediction : 3
+['Piano.pp.C8_J_2']- Label : 0 Prediction : 2
+['Piano.pp.Gb1_J_1']- Label : 0 Prediction : 2
+['TenorTrombone.ff.Ab4.stereo_J_0']- Label : 1 Prediction : 2
+['TenorTrombone.ff.Ab4.stereo_J_1']- Label : 1 Prediction : 3
+['TenorTrombone.ff.Ab4.stereo_J_2']- Label : 1 Prediction : 2
+['TenorTrombone.ff.Bb4.stereo_J_0']- Label : 1 Prediction : 2
+['TenorTrombone.ff.Bb4.stereo_J_2']- Label : 1 Prediction : 2
+['Bass.pizz.ff.sulG.E4.stereo_J_0']- Label : 2 Prediction : 0
+['Bass.pizz.ff.sulG.E4.stereo_J_1']- Label : 2 Prediction : 0
+['AltoFlute.vib.ff.Db6.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Db6.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Db6.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.B3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.B3.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.B3.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.Db4.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab4.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab4.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.vib.ff.Eb4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Eb4.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.vib.ff.Gb4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Gb4.stereo_J_1']- Label : 3 Prediction : 2
+['Flute.vib.ff.Gb4.stereo_J_2']- Label : 3 Prediction : 2
+['BassClarinet.ff.D3.stereo_J_1']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb2.stereo_J_2']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.936708860759
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 7
+
+ Test score:0.174296872138
+ Test accuracy:0.959100204499
+
+Epoch :250
+List of the incorrect predictions 
+['Trumpet.novib.ff.Db6.stereo_J_0']- Label : 1 Prediction : 2
+['Trumpet.novib.ff.Db6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Db6.stereo_J_2']- Label : 1 Prediction : 2
+['Violin.arco.ff.sulD.A4.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.A4.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulD.Eb4.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.C7.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.C7.stereo_J_1']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.Db3.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.Eb3.stereo_J_0']- Label : 2 Prediction : 3
+['AltoFlute.vib.ff.Gb6.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Gb6.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Gb6.stereo_J_2']- Label : 3 Prediction : 2
+['BassFlute.ff.E5.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.E5.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.E5.stereo_J_2']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.Eb5.stereo_J_0']- Label : 3 Prediction : 1
+['Flute.nonvib.ff.Eb5.stereo_J_2']- Label : 3 Prediction : 1
+['Flute.vib.ff.Gb5.stereo_J_1']- Label : 3 Prediction : 2
+['EbClarinet.ff.Gb6.stereo_J_1']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.963190184049
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 8
+
+ Test score:0.165288927287
+ Test accuracy:0.950704225352
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.B0_J_1']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.B3.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.B3.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.Db6.stereo_J_1']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulA.A5.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulA.A5.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulA.A5.stereo_J_2']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.D7.stereo_J_0']- Label : 2 Prediction : 1
+['Violin.arco.ff.sulE.D7.stereo_J_1']- Label : 2 Prediction : 1
+['Violin.arco.ff.sulE.D7.stereo_J_2']- Label : 2 Prediction : 1
+['Violin.arco.ff.sulG.Bb4.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulA.B3.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulA.B3.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulA.G5.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulG.B3.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulG.B3.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.Db5.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulA.Db5.stereo_J_1']- Label : 2 Prediction : 0
+['BassFlute.ff.B4.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_1']- Label : 3 Prediction : 2
+['BassFlute.ff.B4.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.950704225352
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 9
+
+ Test score:0.21843660824
+ Test accuracy:0.942148760331
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.Gb7_J_0']- Label : 0 Prediction : 2
+['Piano.ff.Gb7_J_1']- Label : 0 Prediction : 2
+['Piano.ff.Gb7_J_2']- Label : 0 Prediction : 2
+['Piano.pp.Ab6_J_0']- Label : 0 Prediction : 2
+['Piano.pp.Ab6_J_1']- Label : 0 Prediction : 2
+['Violin.arco.ff.sulE.B6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.B6.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.B6.stereo_J_2']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulG.D4.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulG.D4.stereo_J_2']- Label : 2 Prediction : 3
+['Violin.pizz.ff.sulD.E4.stereo_J_0']- Label : 2 Prediction : 0
+['Violin.pizz.ff.sulD.E4.stereo_J_1']- Label : 2 Prediction : 0
+['Violin.pizz.ff.sulD.E4.stereo_J_2']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.E2.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.E2.stereo_J_1']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.E2.stereo_J_2']- Label : 2 Prediction : 0
+['AltoSax.vib.ff.Ab5.stereo_J_1']- Label : 3 Prediction : 1
+['Bassoon.ff.G3.stereo_J_0']- Label : 3 Prediction : 1
+['Bassoon.ff.G3.stereo_J_2']- Label : 3 Prediction : 1
+['BassFlute.ff.F4.stereo_J_1']- Label : 3 Prediction : 2
+['BassClarinet.ff.E2.stereo_J_2']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.942148760331
+===================================================================
+
+Data : data_j3_11111111_SR12kHz_NOA_dm150: test set 10
+
+ Test score:0.0950244172637
+ Test accuracy:0.96091954023
+
+Epoch :250
+List of the incorrect predictions 
+['Trumpet.novib.ff.C6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Eb6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Eb6.stereo_J_2']- Label : 1 Prediction : 2
+['Trumpet.novib.ff.Gb5.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.E5.stereo_J_1']- Label : 1 Prediction : 3
+['TenorTrombone.ff.A4.stereo_J_1']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulA.C5.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulA.C5.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.A5.stereo_J_1']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulA.F5.stereo_J_1']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulD.D2.stereo_J_0']- Label : 2 Prediction : 0
+['Bass.pizz.ff.sulD.D2.stereo_J_1']- Label : 2 Prediction : 0
+['Bass.pizz.ff.sulD.D2.stereo_J_2']- Label : 2 Prediction : 0
+['Bassoon.ff.Ab3.stereo_J_2']- Label : 3 Prediction : 1
+['AltoFlute.vib.ff.Bb3.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Bb3.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Bb3.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.979310344828
+===================================================================
+

@@ -1,0 +1,43 @@
+Data : spg_MIS_f4_j5_08080808_SR44kHz_tinypuma: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.899421989918
+0.946590900421
+0.949999988079
+0.91724139452
+0.909302353859
+0.948571443558
+0.910857141018
+0.933333337307
+0.907262563705
+0.915116250515
+Standard deviation of the scores :0.0180949
+Average of the scores :0.92377
+
+
+
+
+Major Voting Scores :
+0.890173435211
+0.9375
+0.947674393654
+0.925287365913
+0.883720934391
+0.948571443558
+0.914285719395
+0.91954022646
+0.916201114655
+0.906976759434
+Standard deviation of the scores :0.0208062
+Average of the scores :0.918993
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f9209c16b90>
+
+Total Elapsed Time :231 min

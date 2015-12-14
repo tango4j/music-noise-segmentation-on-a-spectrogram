@@ -1,0 +1,28 @@
+Data : data_j3_0103030303_SR12kHz_sharktoy: test set 7
+
+ Test score:0.103425363224
+ Test accuracy:0.966067864271
+
+Epoch :200
+List of the incorrect predictions 
+['Piano.ff.Ab7_J_1']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.Db6.stereo_J_0']- Label : 1 Prediction : 2
+['Trumpet.novib.ff.Db6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Db6.stereo_J_2']- Label : 1 Prediction : 2
+['Horn.ff.F3.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulG.Db4.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulG.Db4.stereo_J_1']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulG.Db4.stereo_J_2']- Label : 2 Prediction : 3
+['Oboe.ff.Ab6.stereo_J_0']- Label : 3 Prediction : 1
+['Oboe.ff.Ab6.stereo_J_1']- Label : 3 Prediction : 1
+['Oboe.ff.Ab6.stereo_J_2']- Label : 3 Prediction : 1
+['AltoFlute.vib.ff.D6.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.D6.stereo_J_1']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.D6.stereo_J_2']- Label : 3 Prediction : 2
+['BbClarinet.ff.B6.stereo_J_0']- Label : 3 Prediction : 2
+['BbClarinet.ff.B6.stereo_J_1']- Label : 3 Prediction : 2
+['BbClarinet.ff.B6.stereo_J_2']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.97005988024
+===================================================================
+

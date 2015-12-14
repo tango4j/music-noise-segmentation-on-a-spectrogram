@@ -1,0 +1,102 @@
+Data : data_j3_0104040404_SR12kHz_wetfox: test sets [6 9]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.949367105961
+0.0
+0.0
+0.975206613541
+0.0
+Standard deviation of the scores :0.384958
+Average of the scores :0.192457
+
+
+Data : data_j3_0104040404_SR12kHz_wetfox: test sets [ 7 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.944785296917
+0.0
+0.0
+0.94482755661
+Standard deviation of the scores :0.377923
+Average of the scores :0.188961
+
+
+Data : data_j3_0104040404_SR12kHz_wetfox: test sets [8 9]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.971830964088
+0.933884322643
+0.0
+Standard deviation of the scores :0.381237
+Average of the scores :0.190572
+
+
+Data : data_j3_0104040404_SR12kHz_wetfox: test sets 9
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.958677709103
+0.0
+Standard deviation of the scores :0.287603
+Average of the scores :0.0958678
+
+
+Data : data_j3_0104040404_SR12kHz_wetfox: test sets 9
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.966942131519
+0.0
+Standard deviation of the scores :0.290083
+Average of the scores :0.0966942
+
+
+Data : data_j3_0104040404_SR12kHz_wetfox: test sets [ 7 10  4]
+
+Total scores :
+0.0
+0.0
+0.0
+0.962962985039
+0.0
+0.0
+0.95092022419
+0.0
+0.0
+0.94482755661
+Standard deviation of the scores :0.436695
+Average of the scores :0.285871
+
+

@@ -1,0 +1,86 @@
+Data : MIS_f5_j13_8080808080808_SR44kHz_sharpdog: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.985326826572
+0.997814714909
+0.994186043739
+0.985411167145
+0.976296961308
+0.992527484894
+0.996923089027
+0.984526991844
+0.971637308598
+0.987030386925
+Standard deviation of the scores :0.00812
+Average of the scores :0.987168
+
+
+
+
+Major Voting Scores :
+0.982658982277
+1.0
+0.994186043739
+0.988505721092
+0.976744174957
+0.994285702705
+0.994285702705
+0.982758641243
+0.966480433941
+0.988372087479
+Standard deviation of the scores :0.00945369
+Average of the scores :0.986828
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fd3c56b0410>
+
+Total Elapsed Time :822 min
+Data : MIS_f5_j13_8080808080808_SR44kHz_sharpdog: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.980435729027
+0.998251736164
+0.990608215332
+0.988063633442
+0.983005344868
+0.994285702705
+0.983736276627
+0.980106115341
+0.979802310467
+0.991055428982
+Standard deviation of the scores :0.00615848
+Average of the scores :0.986935
+
+
+
+
+Major Voting Scores :
+0.982658982277
+1.0
+0.988372087479
+0.982758641243
+0.988372087479
+0.994285702705
+0.982857167721
+0.977011501789
+0.977653622627
+0.988372087479
+Standard deviation of the scores :0.00680431
+Average of the scores :0.986234
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fd092af27d0>
+
+Total Elapsed Time :278 min

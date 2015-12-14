@@ -1,0 +1,34 @@
+Data : MIS_f3_j5_0104040404_SR12kHz_wetbunny: test sets [ 7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.72549021244
+0.652173936367
+0.479999989271
+0.71111112833
+Standard deviation of the scores :0.320606
+Average of the scores :0.256878
+
+
+Data : MIS_f3_j5_0104040404_SR12kHz_wetbunny: test sets [ 7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.588235318661
+0.478260874748
+0.379999995232
+0.644444465637
+Standard deviation of the scores :0.264057
+Average of the scores :0.209094
+
+

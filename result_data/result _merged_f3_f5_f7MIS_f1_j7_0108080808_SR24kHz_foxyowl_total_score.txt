@@ -1,0 +1,16 @@
+Data : MIS_f1_j7_0108080808_SR24kHz_foxyowl: test sets [1 2 3 4 5]
+
+Total scores :
+0.89473682642
+0.863636374474
+1.0
+0.952380955219
+0.857142865658
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.45843
+Average of the scores :0.45679
+

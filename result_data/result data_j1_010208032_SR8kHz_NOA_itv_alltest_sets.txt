@@ -1,0 +1,56 @@
+Data : data_j1_010208032_SR8kHz_NOA_itv_all: test set 1
+
+ Test score:0.18771246778
+ Test accuracy:0.936305732484
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.Bb0_J_0']- Label : 0 Prediction : 2
+['Piano.pp.Db2_J_0']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.Bb4.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.F5.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulG.A4.stereo_J_0']- Label : 2 Prediction : 0
+['Bass.pizz.ff.sulD.Gb2.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.D2.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.pizz.ff.sulG.F4.stereo_J_0']- Label : 2 Prediction : 0
+['BassFlute.ff.A3.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.Ab3.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.936305732484
+===================================================================
+
+Data : data_j1_010208032_SR8kHz_NOA_itv_all: test set 6
+
+ Test score:0.213534822192
+ Test accuracy:0.936708860759
+
+Epoch :250
+List of the incorrect predictions 
+['TenorTrombone.ff.Gb4.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulA.Gb6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Ab6.stereo_J_0']- Label : 2 Prediction : 3
+['AltoFlute.vib.ff.Db6.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.B3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.nonvib.ff.C4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab4.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Eb4.stereo_J_0']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb2.stereo_J_0']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.936708860759
+===================================================================
+
+Data : data_j1_010208032_SR8kHz_NOA_itv_all: test set 9
+
+ Test score:0.101380497217
+ Test accuracy:0.97520661157
+
+Epoch :250
+List of the incorrect predictions 
+['Tuba.ff.A3.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulG.D4.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.pizz.ff.sulD.D3.stereo_J_0']- Label : 2 Prediction : 0
+
+ Majority Vote Score :0.97520661157
+===================================================================
+

@@ -1,0 +1,34 @@
+Data : MIS_f4_j9_0105050505_SR24kHz_cyanwolf: test sets [1 2 3 4 5]
+
+Total scores :
+0.843930661678
+0.789772748947
+0.819767415524
+0.787356317043
+0.779069781303
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.402356
+Average of the scores :0.40199
+
+
+Data : MIS_f4_j9_0105050505_SR24kHz_cyanwolf: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Total scores :
+0.872832357883
+0.846590936184
+0.831395328045
+0.821839094162
+0.808139562607
+0.868571400642
+0.868571400642
+0.879310369492
+0.815642476082
+0.843023240566
+Standard deviation of the scores :0.0245114
+Average of the scores :0.845592
+
+

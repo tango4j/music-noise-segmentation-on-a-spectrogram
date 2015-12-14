@@ -1,0 +1,17 @@
+Data : data_j3_01020202_SR12kHz_NOA_itv512: test sets [1 2 3 4 5]
+
+Total scores :
+0.936305761337
+0.926829278469
+0.932835817337
+0.977777779102
+0.905511796474
+0.0
+0.0
+0.0
+0.0
+0.0
+Variance of the scores :0.219232
+Average of the scores :0.467926
+
+

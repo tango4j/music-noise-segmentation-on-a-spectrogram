@@ -1,0 +1,135 @@
+Data : MIS_f5_j13_0107070707_SR24kHz_orcapaw: test sets 10
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.982558131218
+Standard deviation of the scores :0.294767
+Average of the scores :0.0982558
+
+Patience :7
+Batch Size :32
+nb_epoch :80
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+Filter3 :[3, 3, 3, 3, 3, 3]
+filter4 :[4, 4, 4, 4, 4, 4]
+Filter5 :[5, 5, 5, 5, 5, 5]
+Optimizer :RMSprop
+
+Total Elapsed Time :70 min
+Data : MIS_f5_j13_0107070707_SR24kHz_orcapaw: test sets [4 5]
+
+Total scores :
+0.0
+0.0
+0.0
+0.954023003578
+0.970930218697
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.385009
+Average of the scores :0.192495
+
+Patience :7
+Batch Size :32
+nb_epoch :80
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+Filter3 :[3, 3, 3, 3, 3, 3]
+filter4 :[4, 4, 4, 4, 4, 4]
+Filter5 :[5, 5, 5, 5, 5, 5]
+Optimizer :RMSprop
+
+Total Elapsed Time :118 min
+Data : MIS_f5_j13_0107070707_SR24kHz_orcapaw: test sets [2 3]
+
+Total scores :
+0.0
+0.960227251053
+0.988372087479
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.389771
+Average of the scores :0.19486
+
+Patience :7
+Batch Size :32
+nb_epoch :80
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+Filter3 :[3, 3, 3, 3, 3, 3]
+filter4 :[4, 4, 4, 4, 4, 4]
+Filter5 :[5, 5, 5, 5, 5, 5]
+Optimizer :RMSprop
+
+Total Elapsed Time :61 min
+Data : MIS_f5_j13_0107070707_SR24kHz_orcapaw: test sets [1 2 3]
+
+Total scores :
+0.97109824419
+0.988636374474
+0.970930218697
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.44769
+Average of the scores :0.293067
+
+Patience :7
+Batch Size :32
+nb_epoch :80
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+Filter3 :[3, 3, 3, 3, 3, 3]
+filter4 :[4, 4, 4, 4, 4, 4]
+Filter5 :[5, 5, 5, 5, 5, 5]
+Optimizer :RMSprop
+
+Total Elapsed Time :119 min
+Data : MIS_f5_j13_0107070707_SR24kHz_orcapaw: test sets [ 6  7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.965714275837
+0.977142870426
+0.994252860546
+0.966480433941
+0.982558131218
+Standard deviation of the scores :0.488673
+Average of the scores :0.488615
+
+Patience :7
+Batch Size :32
+nb_epoch :80
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[4, 4, 4, 4, 4, 4]
+filter_C :[5, 5, 5, 5, 5, 5]
+Optimizer :RMSprop
+
+Total Elapsed Time :260 min

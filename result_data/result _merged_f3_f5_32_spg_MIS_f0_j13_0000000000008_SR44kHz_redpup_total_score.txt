@@ -1,0 +1,86 @@
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test sets [ 6  7  8  9 10]
+
+Sample Scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.916289567947
+0.825791835785
+0.891025662422
+0.93376070261
+0.793406605721
+Standard deviation of the scores :0.437681
+Average of the scores :0.436027
+
+
+
+
+Major Voting Scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.911764681339
+0.794117629528
+0.861111104488
+0.944444417953
+0.857142865658
+Standard deviation of the scores :0.438369
+Average of the scores :0.436858
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fb5b6d02f50>
+
+Total Elapsed Time :82 min
+Data : spg_MIS_f0_j13_0000000000008_SR44kHz_redpup: test sets [1 2 3 4 5]
+
+Sample Scores :
+0.941176474094
+0.929487168789
+0.821978032589
+0.858974337578
+0.752136766911
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.433212
+Average of the scores :0.430375
+
+
+
+
+Major Voting Scores :
+0.970588207245
+0.916666686535
+0.828571438789
+0.833333313465
+0.777777791023
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.43543
+Average of the scores :0.432694
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7ff135598850>
+
+Total Elapsed Time :82 min

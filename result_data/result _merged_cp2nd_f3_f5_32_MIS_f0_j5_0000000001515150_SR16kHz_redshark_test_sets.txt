@@ -1,0 +1,432 @@
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 1
+
+Note : Valid set = Valid set version
+ Test score:2.9148235321
+ Test accuracy:0.15
+
+Epoch :30
+List of the incorrect predictions 
+['SA1_J_0']- Label : 0 Prediction : 2
+['SA1_J_3']- Label : 0 Prediction : 2
+['SX146_J_0']- Label : 1 Prediction : 2
+['SX146_J_1']- Label : 1 Prediction : 2
+['SX146_J_2']- Label : 1 Prediction : 2
+['SX146_J_3']- Label : 1 Prediction : 2
+['SX146_J_4']- Label : 1 Prediction : 2
+['SA2_J_0']- Label : 2 Prediction : 0
+['SA2_J_1']- Label : 2 Prediction : 0
+['SA2_J_2']- Label : 2 Prediction : 0
+['SA2_J_3']- Label : 2 Prediction : 0
+['SA2_J_4']- Label : 2 Prediction : 0
+['SA2_J_0']- Label : 4 Prediction : 0
+['SA2_J_1']- Label : 4 Prediction : 2
+['SA2_J_2']- Label : 4 Prediction : 0
+['SA2_J_3']- Label : 4 Prediction : 2
+['SA2_J_4']- Label : 4 Prediction : 2
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 1
+Majority Vote Score :0.0
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f148670a7d0>
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 2
+
+Note : Valid set = Valid set version
+ Test score:1.53813111782
+ Test accuracy:0.32
+
+Epoch :30
+List of the incorrect predictions 
+['SX217_J_0']- Label : 0 Prediction : 4
+['SX217_J_1']- Label : 0 Prediction : 2
+['SX217_J_2']- Label : 0 Prediction : 2
+['SX217_J_3']- Label : 0 Prediction : 4
+['SX217_J_4']- Label : 0 Prediction : 2
+['SI1779_J_2']- Label : 2 Prediction : 0
+['SI1779_J_4']- Label : 2 Prediction : 0
+['SI788_J_0']- Label : 3 Prediction : 1
+['SI788_J_1']- Label : 3 Prediction : 1
+['SI788_J_2']- Label : 3 Prediction : 1
+['SI788_J_3']- Label : 3 Prediction : 1
+['SI788_J_4']- Label : 3 Prediction : 1
+['SX338_J_0']- Label : 4 Prediction : 2
+['SX338_J_1']- Label : 4 Prediction : 0
+['SX338_J_2']- Label : 4 Prediction : 0
+['SX338_J_3']- Label : 4 Prediction : 0
+['SX338_J_4']- Label : 4 Prediction : 0
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 2
+Majority Vote Score :0.4
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f145ce5a050>
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 3
+
+Note : Valid set = Valid set version
+ Test score:1.8543292284
+ Test accuracy:0.2
+
+Epoch :30
+List of the incorrect predictions 
+['SI1027_J_0']- Label : 0 Prediction : 2
+['SI1027_J_2']- Label : 0 Prediction : 2
+['SI1027_J_4']- Label : 0 Prediction : 2
+['SX416_J_0']- Label : 1 Prediction : 0
+['SX416_J_4']- Label : 1 Prediction : 2
+['SI1149_J_0']- Label : 2 Prediction : 3
+['SI1149_J_1']- Label : 2 Prediction : 3
+['SI1149_J_2']- Label : 2 Prediction : 3
+['SI1149_J_3']- Label : 2 Prediction : 3
+['SI1149_J_4']- Label : 2 Prediction : 1
+['SI2048_J_0']- Label : 3 Prediction : 4
+['SI2048_J_1']- Label : 3 Prediction : 4
+['SI2048_J_2']- Label : 3 Prediction : 4
+['SI2048_J_3']- Label : 3 Prediction : 4
+['SI2048_J_4']- Label : 3 Prediction : 1
+['SX428_J_0']- Label : 4 Prediction : 1
+['SX428_J_1']- Label : 4 Prediction : 1
+['SX428_J_2']- Label : 4 Prediction : 1
+['SX428_J_3']- Label : 4 Prediction : 1
+['SX428_J_4']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 3
+Majority Vote Score :0.0
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f1454944fd0>
+
+The Elapsed Time for this test set :0 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 4
+
+Note : Valid set = Valid set version
+ Test score:1.66801154613
+ Test accuracy:0.0
+
+Epoch :30
+List of the incorrect predictions 
+['SX307_J_0']- Label : 0 Prediction : 3
+['SX307_J_1']- Label : 0 Prediction : 3
+['SX307_J_2']- Label : 0 Prediction : 1
+['SX307_J_3']- Label : 0 Prediction : 1
+['SX307_J_4']- Label : 0 Prediction : 1
+['SA1_J_0']- Label : 2 Prediction : 3
+['SA1_J_1']- Label : 2 Prediction : 3
+['SA1_J_2']- Label : 2 Prediction : 3
+['SA1_J_3']- Label : 2 Prediction : 3
+['SA1_J_4']- Label : 2 Prediction : 3
+['SX248_J_0']- Label : 3 Prediction : 1
+['SX248_J_1']- Label : 3 Prediction : 1
+['SX248_J_2']- Label : 3 Prediction : 1
+['SX248_J_3']- Label : 3 Prediction : 1
+['SX248_J_4']- Label : 3 Prediction : 1
+['SI1778_J_0']- Label : 4 Prediction : 3
+['SI1778_J_1']- Label : 4 Prediction : 1
+['SI1778_J_2']- Label : 4 Prediction : 1
+['SI1778_J_3']- Label : 4 Prediction : 1
+['SI1778_J_4']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 4
+Majority Vote Score :0.0
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f145a5fb910>
+
+The Elapsed Time for this test set :1 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 5
+
+Note : Valid set = Valid set version
+ Test score:2.54326343536
+ Test accuracy:0.08
+
+Epoch :30
+List of the incorrect predictions 
+['SA2_J_0']- Label : 0 Prediction : 4
+['SA2_J_1']- Label : 0 Prediction : 4
+['SA2_J_2']- Label : 0 Prediction : 4
+['SA2_J_3']- Label : 0 Prediction : 4
+['SA2_J_4']- Label : 0 Prediction : 4
+['SX326_J_0']- Label : 1 Prediction : 4
+['SX326_J_1']- Label : 1 Prediction : 0
+['SX326_J_2']- Label : 1 Prediction : 4
+['SX326_J_3']- Label : 1 Prediction : 4
+['SX249_J_0']- Label : 2 Prediction : 0
+['SX249_J_1']- Label : 2 Prediction : 0
+['SX249_J_2']- Label : 2 Prediction : 0
+['SX249_J_3']- Label : 2 Prediction : 0
+['SX249_J_4']- Label : 2 Prediction : 0
+['SA2_J_0']- Label : 3 Prediction : 2
+['SA2_J_1']- Label : 3 Prediction : 0
+['SA2_J_2']- Label : 3 Prediction : 2
+['SA2_J_3']- Label : 3 Prediction : 0
+['SA2_J_4']- Label : 3 Prediction : 0
+['SX68_J_0']- Label : 4 Prediction : 1
+['SX68_J_1']- Label : 4 Prediction : 1
+['SX68_J_3']- Label : 4 Prediction : 1
+['SX68_J_4']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 5
+Majority Vote Score :0.2
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f146269a1d0>
+
+The Elapsed Time for this test set :1 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 6
+
+Note : Valid set = Valid set version
+ Test score:1.63746583462
+ Test accuracy:0.25
+
+Epoch :30
+List of the incorrect predictions 
+['SI2036_J_0']- Label : 1 Prediction : 4
+['SI2036_J_1']- Label : 1 Prediction : 4
+['SI2036_J_2']- Label : 1 Prediction : 4
+['SI2036_J_3']- Label : 1 Prediction : 4
+['SI2036_J_4']- Label : 1 Prediction : 4
+['SX339_J_0']- Label : 2 Prediction : 4
+['SX339_J_1']- Label : 2 Prediction : 4
+['SX339_J_2']- Label : 2 Prediction : 4
+['SX339_J_3']- Label : 2 Prediction : 4
+['SX339_J_4']- Label : 2 Prediction : 4
+['SI1418_J_0']- Label : 3 Prediction : 4
+['SI1418_J_1']- Label : 3 Prediction : 4
+['SI1418_J_2']- Label : 3 Prediction : 4
+['SI1418_J_3']- Label : 3 Prediction : 4
+['SI1418_J_4']- Label : 3 Prediction : 4
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 6
+Majority Vote Score :0.25
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f147f01b790>
+
+The Elapsed Time for this test set :1 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 7
+
+Note : Valid set = Valid set version
+ Test score:2.51405787468
+ Test accuracy:0.0
+
+Epoch :30
+List of the incorrect predictions 
+['SX397_J_0']- Label : 0 Prediction : 1
+['SX397_J_1']- Label : 0 Prediction : 2
+['SX397_J_2']- Label : 0 Prediction : 2
+['SX397_J_3']- Label : 0 Prediction : 2
+['SX397_J_4']- Label : 0 Prediction : 2
+['SX56_J_0']- Label : 1 Prediction : 0
+['SX56_J_1']- Label : 1 Prediction : 0
+['SX56_J_2']- Label : 1 Prediction : 0
+['SX56_J_3']- Label : 1 Prediction : 0
+['SX56_J_4']- Label : 1 Prediction : 2
+['SX69_J_0']- Label : 2 Prediction : 0
+['SX69_J_1']- Label : 2 Prediction : 0
+['SX69_J_2']- Label : 2 Prediction : 0
+['SX69_J_3']- Label : 2 Prediction : 0
+['SX69_J_4']- Label : 2 Prediction : 0
+['SI1148_J_0']- Label : 4 Prediction : 1
+['SI1148_J_1']- Label : 4 Prediction : 1
+['SI1148_J_2']- Label : 4 Prediction : 1
+['SI1148_J_3']- Label : 4 Prediction : 1
+['SI1148_J_4']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 7
+Majority Vote Score :0.0
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f145e44bed0>
+
+The Elapsed Time for this test set :1 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 8
+
+Note : Valid set = Valid set version
+ Test score:2.09766721725
+ Test accuracy:0.0
+
+Epoch :30
+List of the incorrect predictions 
+['SX127_J_0']- Label : 0 Prediction : 1
+['SX127_J_1']- Label : 0 Prediction : 1
+['SX127_J_2']- Label : 0 Prediction : 1
+['SX127_J_3']- Label : 0 Prediction : 1
+['SX127_J_4']- Label : 0 Prediction : 1
+['SI2075_J_0']- Label : 2 Prediction : 1
+['SI2075_J_1']- Label : 2 Prediction : 1
+['SI2075_J_2']- Label : 2 Prediction : 1
+['SI2075_J_3']- Label : 2 Prediction : 1
+['SI2075_J_4']- Label : 2 Prediction : 1
+['SA1_J_0']- Label : 4 Prediction : 1
+['SA1_J_1']- Label : 4 Prediction : 1
+['SA1_J_2']- Label : 4 Prediction : 1
+['SA1_J_3']- Label : 4 Prediction : 1
+['SA1_J_4']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 8
+Majority Vote Score :0.0
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f1452fb2390>
+
+The Elapsed Time for this test set :1 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 9
+
+Note : Valid set = Valid set version
+ Test score:1.60257458687
+ Test accuracy:0.0
+
+Epoch :30
+List of the incorrect predictions 
+['SI648_J_0']- Label : 0 Prediction : 2
+['SI648_J_1']- Label : 0 Prediction : 2
+['SI648_J_2']- Label : 0 Prediction : 4
+['SI648_J_3']- Label : 0 Prediction : 4
+['SI648_J_4']- Label : 0 Prediction : 2
+['SX236_J_0']- Label : 1 Prediction : 4
+['SX236_J_1']- Label : 1 Prediction : 4
+['SX236_J_2']- Label : 1 Prediction : 4
+['SX236_J_3']- Label : 1 Prediction : 4
+['SX236_J_4']- Label : 1 Prediction : 4
+['SX429_J_0']- Label : 2 Prediction : 1
+['SX429_J_1']- Label : 2 Prediction : 4
+['SX429_J_2']- Label : 2 Prediction : 1
+['SX429_J_3']- Label : 2 Prediction : 4
+['SX429_J_4']- Label : 2 Prediction : 1
+['SX428_J_0']- Label : 3 Prediction : 1
+['SX428_J_1']- Label : 3 Prediction : 1
+['SX428_J_2']- Label : 3 Prediction : 1
+['SX428_J_3']- Label : 3 Prediction : 1
+['SX428_J_4']- Label : 3 Prediction : 1
+['SX248_J_0']- Label : 4 Prediction : 1
+['SX248_J_1']- Label : 4 Prediction : 1
+['SX248_J_2']- Label : 4 Prediction : 1
+['SX248_J_3']- Label : 4 Prediction : 1
+['SX248_J_4']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 9
+Majority Vote Score :0.0
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f1455b18750>
+
+The Elapsed Time for this test set :1 min
+===================================================================
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 10
+
+Note : Valid set = Valid set version
+ Test score:1.72971594334
+ Test accuracy:0.0
+
+Epoch :30
+List of the incorrect predictions 
+['SX37_J_0']- Label : 0 Prediction : 3
+['SX37_J_1']- Label : 0 Prediction : 3
+['SX37_J_2']- Label : 0 Prediction : 3
+['SX37_J_3']- Label : 0 Prediction : 3
+['SX37_J_4']- Label : 0 Prediction : 3
+['SI1406_J_0']- Label : 1 Prediction : 3
+['SI1406_J_1']- Label : 1 Prediction : 3
+['SI1406_J_2']- Label : 1 Prediction : 3
+['SI1406_J_3']- Label : 1 Prediction : 3
+['SI1406_J_4']- Label : 1 Prediction : 3
+['SX159_J_0']- Label : 2 Prediction : 3
+['SX159_J_1']- Label : 2 Prediction : 3
+['SX159_J_2']- Label : 2 Prediction : 3
+['SX159_J_3']- Label : 2 Prediction : 3
+['SX159_J_4']- Label : 2 Prediction : 3
+['SX158_J_0']- Label : 4 Prediction : 0
+['SX158_J_1']- Label : 4 Prediction : 0
+['SX158_J_2']- Label : 4 Prediction : 0
+['SX158_J_3']- Label : 4 Prediction : 0
+['SX158_J_4']- Label : 4 Prediction : 2
+
+Data : MIS_f0_j5_0000000001515150_SR16kHz_redshark: test set 10
+Majority Vote Score :0.0
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f1453266c90>
+
+The Elapsed Time for this test set :1 min
+===================================================================
+

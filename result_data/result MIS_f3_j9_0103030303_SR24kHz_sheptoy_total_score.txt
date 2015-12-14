@@ -1,0 +1,17 @@
+Data : MIS_f3_j9_0103030303_SR24kHz_sheptoy: test sets [4 5]
+
+Total scores :
+0.0
+0.0
+0.0
+0.551020383835
+0.639999985695
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.239034
+Average of the scores :0.119102
+
+

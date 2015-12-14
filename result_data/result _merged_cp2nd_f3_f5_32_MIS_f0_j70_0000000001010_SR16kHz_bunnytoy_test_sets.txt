@@ -1,0 +1,2117 @@
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 1
+
+Note : Valid set = Valid set version
+ Test score:1.68077304023
+ Test accuracy:0.385714285714
+
+Epoch :30
+List of the incorrect predictions 
+['SA1_J_0']- Label : 0 Prediction : 4
+['SA1_J_1']- Label : 0 Prediction : 4
+['SA1_J_2']- Label : 0 Prediction : 4
+['SA1_J_3']- Label : 0 Prediction : 4
+['SA1_J_4']- Label : 0 Prediction : 2
+['SA1_J_5']- Label : 0 Prediction : 4
+['SA1_J_6']- Label : 0 Prediction : 4
+['SA1_J_10']- Label : 0 Prediction : 1
+['SA1_J_19']- Label : 0 Prediction : 2
+['SA1_J_20']- Label : 0 Prediction : 4
+['SA1_J_21']- Label : 0 Prediction : 4
+['SA1_J_22']- Label : 0 Prediction : 1
+['SA1_J_23']- Label : 0 Prediction : 4
+['SA1_J_24']- Label : 0 Prediction : 1
+['SA1_J_25']- Label : 0 Prediction : 1
+['SA1_J_26']- Label : 0 Prediction : 4
+['SA1_J_29']- Label : 0 Prediction : 4
+['SA1_J_30']- Label : 0 Prediction : 4
+['SA1_J_31']- Label : 0 Prediction : 4
+['SA1_J_32']- Label : 0 Prediction : 4
+['SA1_J_33']- Label : 0 Prediction : 4
+['SA1_J_34']- Label : 0 Prediction : 3
+['SA1_J_35']- Label : 0 Prediction : 2
+['SA1_J_36']- Label : 0 Prediction : 3
+['SA1_J_37']- Label : 0 Prediction : 1
+['SA1_J_39']- Label : 0 Prediction : 1
+['SA1_J_43']- Label : 0 Prediction : 3
+['SA1_J_44']- Label : 0 Prediction : 4
+['SA1_J_47']- Label : 0 Prediction : 4
+['SA1_J_49']- Label : 0 Prediction : 2
+['SA1_J_50']- Label : 0 Prediction : 2
+['SA1_J_51']- Label : 0 Prediction : 4
+['SA1_J_53']- Label : 0 Prediction : 2
+['SA1_J_54']- Label : 0 Prediction : 1
+['SA1_J_55']- Label : 0 Prediction : 1
+['SA1_J_56']- Label : 0 Prediction : 1
+['SA1_J_57']- Label : 0 Prediction : 4
+['SA1_J_58']- Label : 0 Prediction : 1
+['SA1_J_59']- Label : 0 Prediction : 4
+['SA1_J_60']- Label : 0 Prediction : 4
+['SA1_J_61']- Label : 0 Prediction : 4
+['SA1_J_62']- Label : 0 Prediction : 1
+['SA1_J_63']- Label : 0 Prediction : 2
+['SA1_J_64']- Label : 0 Prediction : 1
+['SA1_J_69']- Label : 0 Prediction : 4
+['SX146_J_7']- Label : 1 Prediction : 4
+['SX146_J_8']- Label : 1 Prediction : 2
+['SX146_J_9']- Label : 1 Prediction : 4
+['SX146_J_12']- Label : 1 Prediction : 0
+['SX146_J_13']- Label : 1 Prediction : 0
+['SX146_J_14']- Label : 1 Prediction : 0
+['SX146_J_15']- Label : 1 Prediction : 0
+['SX146_J_16']- Label : 1 Prediction : 0
+['SX146_J_17']- Label : 1 Prediction : 0
+['SX146_J_18']- Label : 1 Prediction : 0
+['SX146_J_19']- Label : 1 Prediction : 0
+['SX146_J_20']- Label : 1 Prediction : 0
+['SX146_J_21']- Label : 1 Prediction : 0
+['SX146_J_22']- Label : 1 Prediction : 4
+['SX146_J_23']- Label : 1 Prediction : 4
+['SX146_J_24']- Label : 1 Prediction : 2
+['SX146_J_25']- Label : 1 Prediction : 2
+['SX146_J_26']- Label : 1 Prediction : 3
+['SX146_J_27']- Label : 1 Prediction : 3
+['SX146_J_28']- Label : 1 Prediction : 2
+['SX146_J_29']- Label : 1 Prediction : 2
+['SX146_J_30']- Label : 1 Prediction : 4
+['SX146_J_32']- Label : 1 Prediction : 4
+['SX146_J_35']- Label : 1 Prediction : 0
+['SX146_J_36']- Label : 1 Prediction : 4
+['SX146_J_37']- Label : 1 Prediction : 0
+['SX146_J_38']- Label : 1 Prediction : 3
+['SX146_J_39']- Label : 1 Prediction : 0
+['SX146_J_40']- Label : 1 Prediction : 4
+['SX146_J_41']- Label : 1 Prediction : 0
+['SX146_J_42']- Label : 1 Prediction : 0
+['SX146_J_43']- Label : 1 Prediction : 0
+['SX146_J_44']- Label : 1 Prediction : 0
+['SX146_J_47']- Label : 1 Prediction : 2
+['SX146_J_48']- Label : 1 Prediction : 2
+['SX146_J_49']- Label : 1 Prediction : 2
+['SX146_J_50']- Label : 1 Prediction : 4
+['SX146_J_51']- Label : 1 Prediction : 2
+['SX146_J_52']- Label : 1 Prediction : 4
+['SX146_J_53']- Label : 1 Prediction : 3
+['SX146_J_54']- Label : 1 Prediction : 3
+['SX146_J_55']- Label : 1 Prediction : 2
+['SX146_J_56']- Label : 1 Prediction : 3
+['SX146_J_62']- Label : 1 Prediction : 0
+['SX146_J_63']- Label : 1 Prediction : 4
+['SX146_J_64']- Label : 1 Prediction : 3
+['SX146_J_65']- Label : 1 Prediction : 3
+['SX146_J_66']- Label : 1 Prediction : 0
+['SX146_J_67']- Label : 1 Prediction : 0
+['SX146_J_68']- Label : 1 Prediction : 0
+['SX146_J_69']- Label : 1 Prediction : 4
+['SA2_J_0']- Label : 2 Prediction : 4
+['SA2_J_1']- Label : 2 Prediction : 1
+['SA2_J_3']- Label : 2 Prediction : 0
+['SA2_J_4']- Label : 2 Prediction : 0
+['SA2_J_5']- Label : 2 Prediction : 0
+['SA2_J_7']- Label : 2 Prediction : 0
+['SA2_J_8']- Label : 2 Prediction : 0
+['SA2_J_9']- Label : 2 Prediction : 0
+['SA2_J_10']- Label : 2 Prediction : 4
+['SA2_J_11']- Label : 2 Prediction : 4
+['SA2_J_12']- Label : 2 Prediction : 4
+['SA2_J_13']- Label : 2 Prediction : 4
+['SA2_J_14']- Label : 2 Prediction : 0
+['SA2_J_15']- Label : 2 Prediction : 0
+['SA2_J_16']- Label : 2 Prediction : 0
+['SA2_J_17']- Label : 2 Prediction : 0
+['SA2_J_18']- Label : 2 Prediction : 0
+['SA2_J_19']- Label : 2 Prediction : 0
+['SA2_J_20']- Label : 2 Prediction : 1
+['SA2_J_21']- Label : 2 Prediction : 1
+['SA2_J_22']- Label : 2 Prediction : 1
+['SA2_J_23']- Label : 2 Prediction : 1
+['SA2_J_24']- Label : 2 Prediction : 0
+['SA2_J_25']- Label : 2 Prediction : 0
+['SA2_J_26']- Label : 2 Prediction : 0
+['SA2_J_27']- Label : 2 Prediction : 0
+['SA2_J_28']- Label : 2 Prediction : 0
+['SA2_J_29']- Label : 2 Prediction : 0
+['SA2_J_30']- Label : 2 Prediction : 0
+['SA2_J_31']- Label : 2 Prediction : 4
+['SA2_J_32']- Label : 2 Prediction : 0
+['SA2_J_33']- Label : 2 Prediction : 0
+['SA2_J_34']- Label : 2 Prediction : 4
+['SA2_J_35']- Label : 2 Prediction : 0
+['SA2_J_36']- Label : 2 Prediction : 0
+['SA2_J_37']- Label : 2 Prediction : 0
+['SA2_J_38']- Label : 2 Prediction : 0
+['SA2_J_39']- Label : 2 Prediction : 0
+['SA2_J_40']- Label : 2 Prediction : 1
+['SA2_J_41']- Label : 2 Prediction : 1
+['SA2_J_43']- Label : 2 Prediction : 1
+['SA2_J_44']- Label : 2 Prediction : 1
+['SA2_J_45']- Label : 2 Prediction : 4
+['SA2_J_46']- Label : 2 Prediction : 4
+['SA2_J_47']- Label : 2 Prediction : 1
+['SA2_J_48']- Label : 2 Prediction : 1
+['SA2_J_49']- Label : 2 Prediction : 1
+['SA2_J_50']- Label : 2 Prediction : 1
+['SA2_J_51']- Label : 2 Prediction : 1
+['SA2_J_52']- Label : 2 Prediction : 1
+['SA2_J_53']- Label : 2 Prediction : 1
+['SA2_J_56']- Label : 2 Prediction : 4
+['SA2_J_58']- Label : 2 Prediction : 4
+['SA2_J_60']- Label : 2 Prediction : 4
+['SA2_J_63']- Label : 2 Prediction : 4
+['SA2_J_64']- Label : 2 Prediction : 0
+['SA2_J_65']- Label : 2 Prediction : 1
+['SA2_J_66']- Label : 2 Prediction : 0
+['SA2_J_67']- Label : 2 Prediction : 0
+['SA2_J_68']- Label : 2 Prediction : 0
+['SA2_J_69']- Label : 2 Prediction : 1
+['SA2_J_49']- Label : 4 Prediction : 0
+['SA2_J_51']- Label : 4 Prediction : 0
+['SA2_J_52']- Label : 4 Prediction : 1
+['SA2_J_53']- Label : 4 Prediction : 0
+['SA2_J_54']- Label : 4 Prediction : 1
+['SA2_J_55']- Label : 4 Prediction : 1
+['SA2_J_56']- Label : 4 Prediction : 1
+['SA2_J_57']- Label : 4 Prediction : 1
+['SA2_J_58']- Label : 4 Prediction : 1
+['SA2_J_59']- Label : 4 Prediction : 1
+['SA2_J_60']- Label : 4 Prediction : 1
+['SA2_J_61']- Label : 4 Prediction : 1
+['SA2_J_63']- Label : 4 Prediction : 1
+['SA2_J_66']- Label : 4 Prediction : 1
+['SA2_J_67']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 1
+Majority Vote Score :0.25
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 2
+
+Note : Valid set = Valid set version
+ Test score:2.57936470168
+ Test accuracy:0.362857142857
+
+Epoch :30
+List of the incorrect predictions 
+['SX217_J_0']- Label : 0 Prediction : 2
+['SX217_J_2']- Label : 0 Prediction : 2
+['SX217_J_3']- Label : 0 Prediction : 3
+['SX217_J_4']- Label : 0 Prediction : 2
+['SX217_J_8']- Label : 0 Prediction : 1
+['SX217_J_9']- Label : 0 Prediction : 4
+['SX217_J_10']- Label : 0 Prediction : 3
+['SX217_J_11']- Label : 0 Prediction : 3
+['SX217_J_12']- Label : 0 Prediction : 1
+['SX217_J_13']- Label : 0 Prediction : 1
+['SX217_J_14']- Label : 0 Prediction : 1
+['SX217_J_15']- Label : 0 Prediction : 4
+['SX217_J_16']- Label : 0 Prediction : 2
+['SX217_J_17']- Label : 0 Prediction : 1
+['SX217_J_18']- Label : 0 Prediction : 1
+['SX217_J_19']- Label : 0 Prediction : 2
+['SX217_J_20']- Label : 0 Prediction : 2
+['SX217_J_21']- Label : 0 Prediction : 1
+['SX217_J_23']- Label : 0 Prediction : 2
+['SX217_J_24']- Label : 0 Prediction : 1
+['SX217_J_47']- Label : 0 Prediction : 2
+['SX217_J_56']- Label : 0 Prediction : 2
+['SX217_J_58']- Label : 0 Prediction : 2
+['SX217_J_59']- Label : 0 Prediction : 2
+['SX217_J_60']- Label : 0 Prediction : 2
+['SX217_J_61']- Label : 0 Prediction : 2
+['SX217_J_62']- Label : 0 Prediction : 2
+['SX217_J_63']- Label : 0 Prediction : 2
+['SX217_J_69']- Label : 0 Prediction : 2
+['SI1271_J_0']- Label : 1 Prediction : 0
+['SI1271_J_1']- Label : 1 Prediction : 0
+['SI1271_J_2']- Label : 1 Prediction : 0
+['SI1271_J_3']- Label : 1 Prediction : 0
+['SI1271_J_4']- Label : 1 Prediction : 0
+['SI1271_J_5']- Label : 1 Prediction : 0
+['SI1271_J_6']- Label : 1 Prediction : 0
+['SI1271_J_7']- Label : 1 Prediction : 0
+['SI1271_J_8']- Label : 1 Prediction : 0
+['SI1271_J_9']- Label : 1 Prediction : 0
+['SI1271_J_10']- Label : 1 Prediction : 0
+['SI1271_J_11']- Label : 1 Prediction : 0
+['SI1271_J_12']- Label : 1 Prediction : 0
+['SI1271_J_13']- Label : 1 Prediction : 0
+['SI1271_J_14']- Label : 1 Prediction : 0
+['SI1271_J_15']- Label : 1 Prediction : 4
+['SI1271_J_16']- Label : 1 Prediction : 4
+['SI1271_J_18']- Label : 1 Prediction : 2
+['SI1271_J_22']- Label : 1 Prediction : 2
+['SI1271_J_26']- Label : 1 Prediction : 2
+['SI1271_J_27']- Label : 1 Prediction : 4
+['SI1271_J_29']- Label : 1 Prediction : 2
+['SI1271_J_32']- Label : 1 Prediction : 4
+['SI1271_J_33']- Label : 1 Prediction : 0
+['SI1271_J_34']- Label : 1 Prediction : 2
+['SI1271_J_35']- Label : 1 Prediction : 0
+['SI1271_J_36']- Label : 1 Prediction : 0
+['SI1271_J_37']- Label : 1 Prediction : 0
+['SI1271_J_38']- Label : 1 Prediction : 4
+['SI1271_J_39']- Label : 1 Prediction : 4
+['SI1271_J_40']- Label : 1 Prediction : 0
+['SI1271_J_41']- Label : 1 Prediction : 0
+['SI1271_J_42']- Label : 1 Prediction : 0
+['SI1271_J_43']- Label : 1 Prediction : 0
+['SI1271_J_44']- Label : 1 Prediction : 2
+['SI1271_J_45']- Label : 1 Prediction : 2
+['SI1271_J_46']- Label : 1 Prediction : 0
+['SI1271_J_47']- Label : 1 Prediction : 0
+['SI1271_J_48']- Label : 1 Prediction : 2
+['SI1271_J_49']- Label : 1 Prediction : 2
+['SI1271_J_50']- Label : 1 Prediction : 0
+['SI1271_J_51']- Label : 1 Prediction : 0
+['SI1271_J_52']- Label : 1 Prediction : 2
+['SI1271_J_53']- Label : 1 Prediction : 2
+['SI1271_J_55']- Label : 1 Prediction : 4
+['SI1271_J_59']- Label : 1 Prediction : 2
+['SI1271_J_61']- Label : 1 Prediction : 4
+['SI1271_J_65']- Label : 1 Prediction : 2
+['SI1271_J_67']- Label : 1 Prediction : 4
+['SI1271_J_69']- Label : 1 Prediction : 0
+['SI1779_J_18']- Label : 2 Prediction : 0
+['SI1779_J_19']- Label : 2 Prediction : 0
+['SI1779_J_20']- Label : 2 Prediction : 0
+['SI1779_J_21']- Label : 2 Prediction : 0
+['SI1779_J_22']- Label : 2 Prediction : 0
+['SI1779_J_23']- Label : 2 Prediction : 0
+['SI1779_J_24']- Label : 2 Prediction : 0
+['SI1779_J_25']- Label : 2 Prediction : 0
+['SI1779_J_27']- Label : 2 Prediction : 0
+['SI1779_J_30']- Label : 2 Prediction : 0
+['SI1779_J_31']- Label : 2 Prediction : 0
+['SI1779_J_32']- Label : 2 Prediction : 0
+['SI1779_J_33']- Label : 2 Prediction : 0
+['SI1779_J_45']- Label : 2 Prediction : 0
+['SI1779_J_46']- Label : 2 Prediction : 0
+['SI1779_J_47']- Label : 2 Prediction : 1
+['SI1779_J_48']- Label : 2 Prediction : 1
+['SI1779_J_49']- Label : 2 Prediction : 4
+['SI1779_J_50']- Label : 2 Prediction : 1
+['SI1779_J_51']- Label : 2 Prediction : 4
+['SI1779_J_52']- Label : 2 Prediction : 1
+['SI1779_J_53']- Label : 2 Prediction : 1
+['SI1779_J_54']- Label : 2 Prediction : 3
+['SI1779_J_55']- Label : 2 Prediction : 3
+['SI1779_J_56']- Label : 2 Prediction : 1
+['SI1779_J_57']- Label : 2 Prediction : 4
+['SI1779_J_61']- Label : 2 Prediction : 1
+['SI1779_J_66']- Label : 2 Prediction : 0
+['SI788_J_0']- Label : 3 Prediction : 4
+['SI788_J_1']- Label : 3 Prediction : 0
+['SI788_J_2']- Label : 3 Prediction : 2
+['SI788_J_3']- Label : 3 Prediction : 2
+['SI788_J_4']- Label : 3 Prediction : 2
+['SI788_J_5']- Label : 3 Prediction : 2
+['SI788_J_6']- Label : 3 Prediction : 0
+['SI788_J_7']- Label : 3 Prediction : 2
+['SI788_J_8']- Label : 3 Prediction : 2
+['SI788_J_9']- Label : 3 Prediction : 2
+['SI788_J_10']- Label : 3 Prediction : 2
+['SI788_J_11']- Label : 3 Prediction : 1
+['SI788_J_12']- Label : 3 Prediction : 2
+['SI788_J_13']- Label : 3 Prediction : 2
+['SI788_J_14']- Label : 3 Prediction : 2
+['SI788_J_15']- Label : 3 Prediction : 2
+['SI788_J_16']- Label : 3 Prediction : 2
+['SI788_J_17']- Label : 3 Prediction : 2
+['SI788_J_18']- Label : 3 Prediction : 0
+['SI788_J_19']- Label : 3 Prediction : 2
+['SI788_J_20']- Label : 3 Prediction : 2
+['SI788_J_21']- Label : 3 Prediction : 2
+['SI788_J_22']- Label : 3 Prediction : 1
+['SI788_J_23']- Label : 3 Prediction : 1
+['SI788_J_24']- Label : 3 Prediction : 0
+['SI788_J_25']- Label : 3 Prediction : 0
+['SI788_J_26']- Label : 3 Prediction : 0
+['SI788_J_27']- Label : 3 Prediction : 2
+['SI788_J_28']- Label : 3 Prediction : 2
+['SI788_J_29']- Label : 3 Prediction : 2
+['SI788_J_30']- Label : 3 Prediction : 2
+['SI788_J_31']- Label : 3 Prediction : 2
+['SI788_J_32']- Label : 3 Prediction : 1
+['SI788_J_33']- Label : 3 Prediction : 1
+['SI788_J_34']- Label : 3 Prediction : 4
+['SI788_J_35']- Label : 3 Prediction : 1
+['SI788_J_36']- Label : 3 Prediction : 0
+['SI788_J_37']- Label : 3 Prediction : 2
+['SI788_J_38']- Label : 3 Prediction : 0
+['SI788_J_39']- Label : 3 Prediction : 2
+['SI788_J_40']- Label : 3 Prediction : 2
+['SI788_J_41']- Label : 3 Prediction : 2
+['SI788_J_42']- Label : 3 Prediction : 1
+['SI788_J_48']- Label : 3 Prediction : 2
+['SI788_J_49']- Label : 3 Prediction : 1
+['SI788_J_50']- Label : 3 Prediction : 4
+['SI788_J_51']- Label : 3 Prediction : 2
+['SI788_J_52']- Label : 3 Prediction : 1
+['SI788_J_53']- Label : 3 Prediction : 1
+['SI788_J_54']- Label : 3 Prediction : 1
+['SI788_J_56']- Label : 3 Prediction : 1
+['SI788_J_60']- Label : 3 Prediction : 2
+['SI788_J_61']- Label : 3 Prediction : 2
+['SI788_J_62']- Label : 3 Prediction : 2
+['SI788_J_63']- Label : 3 Prediction : 1
+['SI788_J_64']- Label : 3 Prediction : 1
+['SI788_J_65']- Label : 3 Prediction : 0
+['SI788_J_66']- Label : 3 Prediction : 0
+['SI788_J_67']- Label : 3 Prediction : 0
+['SI788_J_68']- Label : 3 Prediction : 0
+['SI788_J_69']- Label : 3 Prediction : 4
+['SX338_J_0']- Label : 4 Prediction : 2
+['SX338_J_1']- Label : 4 Prediction : 2
+['SX338_J_2']- Label : 4 Prediction : 2
+['SX338_J_3']- Label : 4 Prediction : 2
+['SX338_J_4']- Label : 4 Prediction : 2
+['SX338_J_5']- Label : 4 Prediction : 2
+['SX338_J_6']- Label : 4 Prediction : 2
+['SX338_J_7']- Label : 4 Prediction : 1
+['SX338_J_8']- Label : 4 Prediction : 1
+['SX338_J_9']- Label : 4 Prediction : 2
+['SX338_J_10']- Label : 4 Prediction : 1
+['SX338_J_11']- Label : 4 Prediction : 2
+['SX338_J_12']- Label : 4 Prediction : 1
+['SX338_J_13']- Label : 4 Prediction : 1
+['SX338_J_14']- Label : 4 Prediction : 3
+['SX338_J_16']- Label : 4 Prediction : 3
+['SX338_J_17']- Label : 4 Prediction : 1
+['SX338_J_18']- Label : 4 Prediction : 2
+['SX338_J_19']- Label : 4 Prediction : 2
+['SX338_J_21']- Label : 4 Prediction : 2
+['SX338_J_22']- Label : 4 Prediction : 2
+['SX338_J_23']- Label : 4 Prediction : 0
+['SX338_J_24']- Label : 4 Prediction : 2
+['SX338_J_25']- Label : 4 Prediction : 2
+['SX338_J_26']- Label : 4 Prediction : 2
+['SX338_J_27']- Label : 4 Prediction : 2
+['SX338_J_29']- Label : 4 Prediction : 2
+['SX338_J_30']- Label : 4 Prediction : 0
+['SX338_J_32']- Label : 4 Prediction : 2
+['SX338_J_33']- Label : 4 Prediction : 0
+['SX338_J_35']- Label : 4 Prediction : 0
+['SX338_J_36']- Label : 4 Prediction : 3
+['SX338_J_44']- Label : 4 Prediction : 3
+['SX338_J_47']- Label : 4 Prediction : 1
+['SX338_J_48']- Label : 4 Prediction : 1
+['SX338_J_49']- Label : 4 Prediction : 2
+['SX338_J_50']- Label : 4 Prediction : 1
+['SX338_J_51']- Label : 4 Prediction : 1
+['SX338_J_52']- Label : 4 Prediction : 2
+['SX338_J_53']- Label : 4 Prediction : 2
+['SX338_J_54']- Label : 4 Prediction : 1
+['SX338_J_55']- Label : 4 Prediction : 2
+['SX338_J_56']- Label : 4 Prediction : 1
+['SX338_J_57']- Label : 4 Prediction : 1
+['SX338_J_58']- Label : 4 Prediction : 1
+['SX338_J_59']- Label : 4 Prediction : 1
+['SX338_J_60']- Label : 4 Prediction : 2
+['SX338_J_61']- Label : 4 Prediction : 1
+['SX338_J_62']- Label : 4 Prediction : 1
+['SX338_J_63']- Label : 4 Prediction : 2
+['SX338_J_64']- Label : 4 Prediction : 1
+['SX338_J_65']- Label : 4 Prediction : 2
+['SX338_J_66']- Label : 4 Prediction : 2
+['SX338_J_67']- Label : 4 Prediction : 2
+['SX338_J_69']- Label : 4 Prediction : 2
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 2
+Majority Vote Score :0.2
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 3
+
+Note : Valid set = Valid set version
+ Test score:3.30629869461
+ Test accuracy:0.317142857143
+
+Epoch :30
+List of the incorrect predictions 
+['SI1027_J_4']- Label : 0 Prediction : 2
+['SI1027_J_5']- Label : 0 Prediction : 1
+['SI1027_J_6']- Label : 0 Prediction : 2
+['SI1027_J_7']- Label : 0 Prediction : 1
+['SI1027_J_8']- Label : 0 Prediction : 1
+['SI1027_J_9']- Label : 0 Prediction : 1
+['SI1027_J_10']- Label : 0 Prediction : 2
+['SI1027_J_11']- Label : 0 Prediction : 1
+['SI1027_J_13']- Label : 0 Prediction : 2
+['SI1027_J_14']- Label : 0 Prediction : 1
+['SI1027_J_15']- Label : 0 Prediction : 1
+['SI1027_J_17']- Label : 0 Prediction : 1
+['SI1027_J_18']- Label : 0 Prediction : 1
+['SI1027_J_19']- Label : 0 Prediction : 1
+['SI1027_J_20']- Label : 0 Prediction : 1
+['SI1027_J_21']- Label : 0 Prediction : 1
+['SI1027_J_22']- Label : 0 Prediction : 1
+['SI1027_J_23']- Label : 0 Prediction : 1
+['SI1027_J_24']- Label : 0 Prediction : 1
+['SI1027_J_25']- Label : 0 Prediction : 1
+['SI1027_J_27']- Label : 0 Prediction : 1
+['SI1027_J_29']- Label : 0 Prediction : 1
+['SI1027_J_30']- Label : 0 Prediction : 1
+['SI1027_J_41']- Label : 0 Prediction : 2
+['SI1027_J_42']- Label : 0 Prediction : 2
+['SI1027_J_44']- Label : 0 Prediction : 2
+['SI1027_J_45']- Label : 0 Prediction : 2
+['SI1027_J_46']- Label : 0 Prediction : 2
+['SI1027_J_47']- Label : 0 Prediction : 2
+['SI1027_J_48']- Label : 0 Prediction : 2
+['SI1027_J_49']- Label : 0 Prediction : 2
+['SI1027_J_50']- Label : 0 Prediction : 2
+['SI1027_J_51']- Label : 0 Prediction : 2
+['SI1027_J_52']- Label : 0 Prediction : 2
+['SI1027_J_53']- Label : 0 Prediction : 2
+['SI1027_J_54']- Label : 0 Prediction : 2
+['SI1027_J_55']- Label : 0 Prediction : 3
+['SI1027_J_56']- Label : 0 Prediction : 3
+['SI1027_J_57']- Label : 0 Prediction : 2
+['SI1027_J_59']- Label : 0 Prediction : 3
+['SI1027_J_60']- Label : 0 Prediction : 2
+['SI1027_J_61']- Label : 0 Prediction : 2
+['SI1027_J_63']- Label : 0 Prediction : 1
+['SI1027_J_64']- Label : 0 Prediction : 2
+['SI1027_J_65']- Label : 0 Prediction : 2
+['SI1027_J_66']- Label : 0 Prediction : 2
+['SI1027_J_67']- Label : 0 Prediction : 2
+['SI1027_J_68']- Label : 0 Prediction : 2
+['SX416_J_0']- Label : 1 Prediction : 2
+['SX416_J_1']- Label : 1 Prediction : 2
+['SX416_J_2']- Label : 1 Prediction : 2
+['SX416_J_3']- Label : 1 Prediction : 0
+['SX416_J_4']- Label : 1 Prediction : 2
+['SX416_J_5']- Label : 1 Prediction : 0
+['SX416_J_6']- Label : 1 Prediction : 2
+['SX416_J_7']- Label : 1 Prediction : 2
+['SX416_J_8']- Label : 1 Prediction : 2
+['SX416_J_9']- Label : 1 Prediction : 2
+['SX416_J_10']- Label : 1 Prediction : 2
+['SX416_J_11']- Label : 1 Prediction : 2
+['SX416_J_12']- Label : 1 Prediction : 0
+['SX416_J_17']- Label : 1 Prediction : 0
+['SX416_J_18']- Label : 1 Prediction : 2
+['SX416_J_19']- Label : 1 Prediction : 2
+['SX416_J_20']- Label : 1 Prediction : 2
+['SX416_J_21']- Label : 1 Prediction : 2
+['SX416_J_22']- Label : 1 Prediction : 2
+['SX416_J_23']- Label : 1 Prediction : 2
+['SX416_J_24']- Label : 1 Prediction : 2
+['SX416_J_25']- Label : 1 Prediction : 2
+['SX416_J_27']- Label : 1 Prediction : 2
+['SX416_J_41']- Label : 1 Prediction : 4
+['SX416_J_45']- Label : 1 Prediction : 4
+['SX416_J_49']- Label : 1 Prediction : 3
+['SX416_J_50']- Label : 1 Prediction : 3
+['SX416_J_51']- Label : 1 Prediction : 3
+['SX416_J_53']- Label : 1 Prediction : 2
+['SX416_J_54']- Label : 1 Prediction : 2
+['SX416_J_55']- Label : 1 Prediction : 2
+['SX416_J_56']- Label : 1 Prediction : 2
+['SX416_J_58']- Label : 1 Prediction : 2
+['SX416_J_59']- Label : 1 Prediction : 2
+['SX416_J_60']- Label : 1 Prediction : 2
+['SX416_J_61']- Label : 1 Prediction : 2
+['SX416_J_62']- Label : 1 Prediction : 2
+['SX416_J_63']- Label : 1 Prediction : 0
+['SX416_J_64']- Label : 1 Prediction : 4
+['SX416_J_65']- Label : 1 Prediction : 4
+['SX416_J_66']- Label : 1 Prediction : 2
+['SX416_J_68']- Label : 1 Prediction : 2
+['SX416_J_69']- Label : 1 Prediction : 2
+['SI1149_J_0']- Label : 2 Prediction : 0
+['SI1149_J_4']- Label : 2 Prediction : 0
+['SI1149_J_17']- Label : 2 Prediction : 0
+['SI1149_J_18']- Label : 2 Prediction : 0
+['SI1149_J_19']- Label : 2 Prediction : 0
+['SI1149_J_20']- Label : 2 Prediction : 1
+['SI1149_J_21']- Label : 2 Prediction : 3
+['SI1149_J_22']- Label : 2 Prediction : 1
+['SI1149_J_23']- Label : 2 Prediction : 1
+['SI1149_J_24']- Label : 2 Prediction : 1
+['SI1149_J_25']- Label : 2 Prediction : 1
+['SI1149_J_26']- Label : 2 Prediction : 1
+['SI1149_J_27']- Label : 2 Prediction : 1
+['SI1149_J_28']- Label : 2 Prediction : 1
+['SI1149_J_29']- Label : 2 Prediction : 1
+['SI1149_J_30']- Label : 2 Prediction : 1
+['SI1149_J_32']- Label : 2 Prediction : 1
+['SI1149_J_33']- Label : 2 Prediction : 3
+['SI1149_J_34']- Label : 2 Prediction : 3
+['SI1149_J_35']- Label : 2 Prediction : 1
+['SI1149_J_36']- Label : 2 Prediction : 1
+['SI1149_J_37']- Label : 2 Prediction : 1
+['SI1149_J_38']- Label : 2 Prediction : 3
+['SI1149_J_39']- Label : 2 Prediction : 1
+['SI1149_J_40']- Label : 2 Prediction : 1
+['SI1149_J_41']- Label : 2 Prediction : 1
+['SI1149_J_43']- Label : 2 Prediction : 3
+['SI1149_J_47']- Label : 2 Prediction : 0
+['SI1149_J_48']- Label : 2 Prediction : 0
+['SI1149_J_49']- Label : 2 Prediction : 0
+['SI1149_J_50']- Label : 2 Prediction : 0
+['SI1149_J_51']- Label : 2 Prediction : 0
+['SI1149_J_52']- Label : 2 Prediction : 0
+['SI1149_J_53']- Label : 2 Prediction : 0
+['SI1149_J_54']- Label : 2 Prediction : 4
+['SI1149_J_55']- Label : 2 Prediction : 0
+['SI1149_J_56']- Label : 2 Prediction : 4
+['SI1149_J_57']- Label : 2 Prediction : 4
+['SI1149_J_58']- Label : 2 Prediction : 0
+['SI1149_J_60']- Label : 2 Prediction : 0
+['SI1149_J_61']- Label : 2 Prediction : 4
+['SI1149_J_62']- Label : 2 Prediction : 0
+['SI1149_J_63']- Label : 2 Prediction : 0
+['SI1149_J_64']- Label : 2 Prediction : 0
+['SI1149_J_66']- Label : 2 Prediction : 3
+['SI1149_J_67']- Label : 2 Prediction : 4
+['SI1149_J_68']- Label : 2 Prediction : 4
+['SI1149_J_69']- Label : 2 Prediction : 0
+['SI2048_J_0']- Label : 3 Prediction : 2
+['SI2048_J_1']- Label : 3 Prediction : 2
+['SI2048_J_2']- Label : 3 Prediction : 2
+['SI2048_J_3']- Label : 3 Prediction : 2
+['SI2048_J_4']- Label : 3 Prediction : 0
+['SI2048_J_6']- Label : 3 Prediction : 4
+['SI2048_J_8']- Label : 3 Prediction : 2
+['SI2048_J_9']- Label : 3 Prediction : 2
+['SI2048_J_11']- Label : 3 Prediction : 1
+['SI2048_J_12']- Label : 3 Prediction : 1
+['SI2048_J_13']- Label : 3 Prediction : 1
+['SI2048_J_14']- Label : 3 Prediction : 1
+['SI2048_J_15']- Label : 3 Prediction : 2
+['SI2048_J_17']- Label : 3 Prediction : 4
+['SI2048_J_18']- Label : 3 Prediction : 4
+['SI2048_J_20']- Label : 3 Prediction : 4
+['SI2048_J_22']- Label : 3 Prediction : 2
+['SI2048_J_23']- Label : 3 Prediction : 2
+['SI2048_J_24']- Label : 3 Prediction : 2
+['SI2048_J_25']- Label : 3 Prediction : 0
+['SI2048_J_26']- Label : 3 Prediction : 2
+['SI2048_J_27']- Label : 3 Prediction : 4
+['SI2048_J_28']- Label : 3 Prediction : 1
+['SI2048_J_29']- Label : 3 Prediction : 4
+['SI2048_J_30']- Label : 3 Prediction : 2
+['SI2048_J_32']- Label : 3 Prediction : 2
+['SI2048_J_33']- Label : 3 Prediction : 4
+['SI2048_J_35']- Label : 3 Prediction : 4
+['SI2048_J_36']- Label : 3 Prediction : 4
+['SI2048_J_48']- Label : 3 Prediction : 0
+['SI2048_J_49']- Label : 3 Prediction : 0
+['SI2048_J_50']- Label : 3 Prediction : 0
+['SI2048_J_51']- Label : 3 Prediction : 0
+['SI2048_J_52']- Label : 3 Prediction : 0
+['SI2048_J_53']- Label : 3 Prediction : 0
+['SI2048_J_54']- Label : 3 Prediction : 2
+['SI2048_J_55']- Label : 3 Prediction : 2
+['SI2048_J_56']- Label : 3 Prediction : 2
+['SI2048_J_57']- Label : 3 Prediction : 2
+['SI2048_J_58']- Label : 3 Prediction : 2
+['SI2048_J_59']- Label : 3 Prediction : 2
+['SI2048_J_60']- Label : 3 Prediction : 2
+['SI2048_J_61']- Label : 3 Prediction : 2
+['SI2048_J_62']- Label : 3 Prediction : 2
+['SI2048_J_63']- Label : 3 Prediction : 2
+['SI2048_J_64']- Label : 3 Prediction : 2
+['SI2048_J_65']- Label : 3 Prediction : 2
+['SI2048_J_66']- Label : 3 Prediction : 0
+['SI2048_J_67']- Label : 3 Prediction : 4
+['SI2048_J_68']- Label : 3 Prediction : 1
+['SI2048_J_69']- Label : 3 Prediction : 2
+['SX428_J_1']- Label : 4 Prediction : 3
+['SX428_J_2']- Label : 4 Prediction : 3
+['SX428_J_3']- Label : 4 Prediction : 0
+['SX428_J_4']- Label : 4 Prediction : 1
+['SX428_J_5']- Label : 4 Prediction : 1
+['SX428_J_6']- Label : 4 Prediction : 2
+['SX428_J_8']- Label : 4 Prediction : 2
+['SX428_J_9']- Label : 4 Prediction : 2
+['SX428_J_10']- Label : 4 Prediction : 1
+['SX428_J_11']- Label : 4 Prediction : 1
+['SX428_J_12']- Label : 4 Prediction : 3
+['SX428_J_13']- Label : 4 Prediction : 1
+['SX428_J_14']- Label : 4 Prediction : 3
+['SX428_J_15']- Label : 4 Prediction : 1
+['SX428_J_16']- Label : 4 Prediction : 1
+['SX428_J_17']- Label : 4 Prediction : 3
+['SX428_J_18']- Label : 4 Prediction : 1
+['SX428_J_20']- Label : 4 Prediction : 2
+['SX428_J_22']- Label : 4 Prediction : 1
+['SX428_J_24']- Label : 4 Prediction : 1
+['SX428_J_25']- Label : 4 Prediction : 3
+['SX428_J_26']- Label : 4 Prediction : 3
+['SX428_J_27']- Label : 4 Prediction : 3
+['SX428_J_30']- Label : 4 Prediction : 3
+['SX428_J_33']- Label : 4 Prediction : 2
+['SX428_J_35']- Label : 4 Prediction : 3
+['SX428_J_38']- Label : 4 Prediction : 3
+['SX428_J_44']- Label : 4 Prediction : 3
+['SX428_J_46']- Label : 4 Prediction : 3
+['SX428_J_47']- Label : 4 Prediction : 3
+['SX428_J_48']- Label : 4 Prediction : 3
+['SX428_J_49']- Label : 4 Prediction : 3
+['SX428_J_50']- Label : 4 Prediction : 3
+['SX428_J_51']- Label : 4 Prediction : 3
+['SX428_J_52']- Label : 4 Prediction : 3
+['SX428_J_56']- Label : 4 Prediction : 3
+['SX428_J_57']- Label : 4 Prediction : 3
+['SX428_J_58']- Label : 4 Prediction : 3
+['SX428_J_59']- Label : 4 Prediction : 3
+['SX428_J_60']- Label : 4 Prediction : 3
+['SX428_J_61']- Label : 4 Prediction : 3
+['SX428_J_62']- Label : 4 Prediction : 3
+['SX428_J_63']- Label : 4 Prediction : 3
+['SX428_J_64']- Label : 4 Prediction : 3
+['SX428_J_65']- Label : 4 Prediction : 1
+['SX428_J_66']- Label : 4 Prediction : 1
+['SX428_J_67']- Label : 4 Prediction : 1
+['SX428_J_68']- Label : 4 Prediction : 1
+['SX428_J_69']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 3
+Majority Vote Score :0.2
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 4
+
+Note : Valid set = Valid set version
+ Test score:2.65397622926
+ Test accuracy:0.4
+
+Epoch :30
+List of the incorrect predictions 
+['SX307_J_0']- Label : 0 Prediction : 2
+['SX307_J_1']- Label : 0 Prediction : 2
+['SX307_J_2']- Label : 0 Prediction : 2
+['SX307_J_3']- Label : 0 Prediction : 2
+['SX307_J_4']- Label : 0 Prediction : 2
+['SX307_J_5']- Label : 0 Prediction : 1
+['SX307_J_6']- Label : 0 Prediction : 2
+['SX307_J_7']- Label : 0 Prediction : 2
+['SX307_J_8']- Label : 0 Prediction : 2
+['SX307_J_9']- Label : 0 Prediction : 2
+['SX307_J_10']- Label : 0 Prediction : 2
+['SX307_J_11']- Label : 0 Prediction : 2
+['SX307_J_12']- Label : 0 Prediction : 2
+['SX307_J_13']- Label : 0 Prediction : 2
+['SX307_J_14']- Label : 0 Prediction : 2
+['SX307_J_15']- Label : 0 Prediction : 1
+['SX307_J_16']- Label : 0 Prediction : 1
+['SX307_J_17']- Label : 0 Prediction : 1
+['SX307_J_18']- Label : 0 Prediction : 1
+['SX307_J_19']- Label : 0 Prediction : 1
+['SX307_J_20']- Label : 0 Prediction : 1
+['SX307_J_21']- Label : 0 Prediction : 2
+['SX307_J_22']- Label : 0 Prediction : 2
+['SX307_J_23']- Label : 0 Prediction : 2
+['SX307_J_24']- Label : 0 Prediction : 1
+['SX307_J_25']- Label : 0 Prediction : 2
+['SX307_J_26']- Label : 0 Prediction : 1
+['SX307_J_27']- Label : 0 Prediction : 2
+['SX307_J_28']- Label : 0 Prediction : 2
+['SX307_J_30']- Label : 0 Prediction : 2
+['SX307_J_31']- Label : 0 Prediction : 1
+['SX307_J_33']- Label : 0 Prediction : 2
+['SX307_J_34']- Label : 0 Prediction : 2
+['SX307_J_35']- Label : 0 Prediction : 2
+['SX307_J_36']- Label : 0 Prediction : 2
+['SX307_J_37']- Label : 0 Prediction : 1
+['SX307_J_38']- Label : 0 Prediction : 1
+['SX307_J_39']- Label : 0 Prediction : 1
+['SX307_J_40']- Label : 0 Prediction : 1
+['SX307_J_41']- Label : 0 Prediction : 1
+['SX307_J_42']- Label : 0 Prediction : 1
+['SX307_J_43']- Label : 0 Prediction : 1
+['SX307_J_44']- Label : 0 Prediction : 1
+['SX307_J_46']- Label : 0 Prediction : 1
+['SX307_J_47']- Label : 0 Prediction : 2
+['SX307_J_51']- Label : 0 Prediction : 2
+['SX307_J_54']- Label : 0 Prediction : 2
+['SX307_J_55']- Label : 0 Prediction : 2
+['SX307_J_57']- Label : 0 Prediction : 2
+['SX307_J_59']- Label : 0 Prediction : 2
+['SX307_J_60']- Label : 0 Prediction : 2
+['SX307_J_62']- Label : 0 Prediction : 2
+['SX307_J_63']- Label : 0 Prediction : 2
+['SX307_J_64']- Label : 0 Prediction : 2
+['SX307_J_65']- Label : 0 Prediction : 2
+['SX307_J_66']- Label : 0 Prediction : 2
+['SX307_J_67']- Label : 0 Prediction : 2
+['SX307_J_68']- Label : 0 Prediction : 1
+['SX307_J_69']- Label : 0 Prediction : 2
+['SA1_J_0']- Label : 2 Prediction : 1
+['SA1_J_2']- Label : 2 Prediction : 4
+['SA1_J_3']- Label : 2 Prediction : 1
+['SA1_J_4']- Label : 2 Prediction : 1
+['SA1_J_5']- Label : 2 Prediction : 1
+['SA1_J_6']- Label : 2 Prediction : 1
+['SA1_J_8']- Label : 2 Prediction : 4
+['SA1_J_9']- Label : 2 Prediction : 4
+['SA1_J_10']- Label : 2 Prediction : 0
+['SA1_J_22']- Label : 2 Prediction : 0
+['SA1_J_23']- Label : 2 Prediction : 0
+['SA1_J_24']- Label : 2 Prediction : 0
+['SA1_J_25']- Label : 2 Prediction : 0
+['SA1_J_26']- Label : 2 Prediction : 0
+['SA1_J_27']- Label : 2 Prediction : 4
+['SA1_J_28']- Label : 2 Prediction : 0
+['SA1_J_29']- Label : 2 Prediction : 4
+['SA1_J_30']- Label : 2 Prediction : 4
+['SA1_J_33']- Label : 2 Prediction : 0
+['SA1_J_36']- Label : 2 Prediction : 0
+['SA1_J_38']- Label : 2 Prediction : 0
+['SA1_J_42']- Label : 2 Prediction : 1
+['SA1_J_43']- Label : 2 Prediction : 1
+['SA1_J_44']- Label : 2 Prediction : 4
+['SA1_J_45']- Label : 2 Prediction : 4
+['SA1_J_47']- Label : 2 Prediction : 4
+['SA1_J_50']- Label : 2 Prediction : 1
+['SA1_J_51']- Label : 2 Prediction : 1
+['SA1_J_52']- Label : 2 Prediction : 1
+['SA1_J_53']- Label : 2 Prediction : 3
+['SA1_J_54']- Label : 2 Prediction : 1
+['SA1_J_57']- Label : 2 Prediction : 0
+['SA1_J_62']- Label : 2 Prediction : 1
+['SA1_J_66']- Label : 2 Prediction : 0
+['SA1_J_67']- Label : 2 Prediction : 1
+['SA1_J_68']- Label : 2 Prediction : 1
+['SX248_J_0']- Label : 3 Prediction : 0
+['SX248_J_1']- Label : 3 Prediction : 0
+['SX248_J_2']- Label : 3 Prediction : 0
+['SX248_J_3']- Label : 3 Prediction : 0
+['SX248_J_4']- Label : 3 Prediction : 1
+['SX248_J_5']- Label : 3 Prediction : 1
+['SX248_J_6']- Label : 3 Prediction : 1
+['SX248_J_7']- Label : 3 Prediction : 1
+['SX248_J_8']- Label : 3 Prediction : 1
+['SX248_J_9']- Label : 3 Prediction : 1
+['SX248_J_10']- Label : 3 Prediction : 1
+['SX248_J_11']- Label : 3 Prediction : 1
+['SX248_J_12']- Label : 3 Prediction : 1
+['SX248_J_13']- Label : 3 Prediction : 1
+['SX248_J_14']- Label : 3 Prediction : 1
+['SX248_J_15']- Label : 3 Prediction : 1
+['SX248_J_16']- Label : 3 Prediction : 1
+['SX248_J_17']- Label : 3 Prediction : 1
+['SX248_J_18']- Label : 3 Prediction : 1
+['SX248_J_19']- Label : 3 Prediction : 1
+['SX248_J_20']- Label : 3 Prediction : 1
+['SX248_J_21']- Label : 3 Prediction : 1
+['SX248_J_22']- Label : 3 Prediction : 1
+['SX248_J_23']- Label : 3 Prediction : 1
+['SX248_J_24']- Label : 3 Prediction : 2
+['SX248_J_25']- Label : 3 Prediction : 1
+['SX248_J_26']- Label : 3 Prediction : 1
+['SX248_J_27']- Label : 3 Prediction : 1
+['SX248_J_28']- Label : 3 Prediction : 1
+['SX248_J_30']- Label : 3 Prediction : 0
+['SX248_J_32']- Label : 3 Prediction : 1
+['SX248_J_35']- Label : 3 Prediction : 4
+['SX248_J_36']- Label : 3 Prediction : 4
+['SX248_J_37']- Label : 3 Prediction : 4
+['SX248_J_50']- Label : 3 Prediction : 4
+['SX248_J_52']- Label : 3 Prediction : 4
+['SX248_J_53']- Label : 3 Prediction : 1
+['SX248_J_54']- Label : 3 Prediction : 1
+['SX248_J_55']- Label : 3 Prediction : 1
+['SX248_J_61']- Label : 3 Prediction : 1
+['SX248_J_64']- Label : 3 Prediction : 2
+['SX248_J_65']- Label : 3 Prediction : 2
+['SX248_J_66']- Label : 3 Prediction : 1
+['SX248_J_67']- Label : 3 Prediction : 2
+['SX248_J_68']- Label : 3 Prediction : 1
+['SX248_J_69']- Label : 3 Prediction : 1
+['SI1778_J_0']- Label : 4 Prediction : 0
+['SI1778_J_1']- Label : 4 Prediction : 0
+['SI1778_J_2']- Label : 4 Prediction : 0
+['SI1778_J_11']- Label : 4 Prediction : 1
+['SI1778_J_28']- Label : 4 Prediction : 3
+['SI1778_J_29']- Label : 4 Prediction : 3
+['SI1778_J_30']- Label : 4 Prediction : 3
+['SI1778_J_43']- Label : 4 Prediction : 1
+['SI1778_J_44']- Label : 4 Prediction : 1
+['SI1778_J_45']- Label : 4 Prediction : 1
+['SI1778_J_46']- Label : 4 Prediction : 1
+['SI1778_J_47']- Label : 4 Prediction : 1
+['SI1778_J_48']- Label : 4 Prediction : 1
+['SI1778_J_49']- Label : 4 Prediction : 1
+['SI1778_J_50']- Label : 4 Prediction : 1
+['SI1778_J_51']- Label : 4 Prediction : 1
+['SI1778_J_52']- Label : 4 Prediction : 1
+['SI1778_J_55']- Label : 4 Prediction : 2
+['SI1778_J_56']- Label : 4 Prediction : 0
+['SI1778_J_57']- Label : 4 Prediction : 2
+['SI1778_J_58']- Label : 4 Prediction : 1
+['SI1778_J_59']- Label : 4 Prediction : 2
+['SI1778_J_60']- Label : 4 Prediction : 1
+['SI1778_J_61']- Label : 4 Prediction : 1
+['SI1778_J_62']- Label : 4 Prediction : 1
+['SI1778_J_63']- Label : 4 Prediction : 1
+['SI1778_J_69']- Label : 4 Prediction : 0
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 4
+Majority Vote Score :0.25
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 5
+
+Note : Valid set = Valid set version
+ Test score:2.5855310263
+ Test accuracy:0.362857142857
+
+Epoch :30
+List of the incorrect predictions 
+['SA2_J_0']- Label : 0 Prediction : 1
+['SA2_J_7']- Label : 0 Prediction : 2
+['SA2_J_8']- Label : 0 Prediction : 2
+['SA2_J_12']- Label : 0 Prediction : 2
+['SA2_J_14']- Label : 0 Prediction : 2
+['SA2_J_15']- Label : 0 Prediction : 4
+['SA2_J_16']- Label : 0 Prediction : 2
+['SA2_J_17']- Label : 0 Prediction : 2
+['SA2_J_18']- Label : 0 Prediction : 2
+['SA2_J_20']- Label : 0 Prediction : 4
+['SA2_J_21']- Label : 0 Prediction : 4
+['SA2_J_23']- Label : 0 Prediction : 2
+['SA2_J_24']- Label : 0 Prediction : 4
+['SA2_J_25']- Label : 0 Prediction : 3
+['SA2_J_26']- Label : 0 Prediction : 3
+['SA2_J_27']- Label : 0 Prediction : 2
+['SA2_J_30']- Label : 0 Prediction : 3
+['SA2_J_31']- Label : 0 Prediction : 4
+['SA2_J_32']- Label : 0 Prediction : 3
+['SA2_J_33']- Label : 0 Prediction : 4
+['SA2_J_34']- Label : 0 Prediction : 3
+['SA2_J_35']- Label : 0 Prediction : 3
+['SA2_J_36']- Label : 0 Prediction : 2
+['SA2_J_37']- Label : 0 Prediction : 2
+['SA2_J_39']- Label : 0 Prediction : 4
+['SA2_J_40']- Label : 0 Prediction : 4
+['SA2_J_41']- Label : 0 Prediction : 4
+['SA2_J_43']- Label : 0 Prediction : 3
+['SA2_J_44']- Label : 0 Prediction : 1
+['SA2_J_45']- Label : 0 Prediction : 4
+['SA2_J_46']- Label : 0 Prediction : 1
+['SA2_J_47']- Label : 0 Prediction : 1
+['SA2_J_48']- Label : 0 Prediction : 1
+['SA2_J_49']- Label : 0 Prediction : 3
+['SA2_J_50']- Label : 0 Prediction : 4
+['SA2_J_51']- Label : 0 Prediction : 1
+['SA2_J_52']- Label : 0 Prediction : 2
+['SA2_J_53']- Label : 0 Prediction : 1
+['SA2_J_54']- Label : 0 Prediction : 2
+['SA2_J_55']- Label : 0 Prediction : 2
+['SA2_J_56']- Label : 0 Prediction : 1
+['SA2_J_57']- Label : 0 Prediction : 2
+['SA2_J_58']- Label : 0 Prediction : 2
+['SA2_J_59']- Label : 0 Prediction : 1
+['SA2_J_60']- Label : 0 Prediction : 1
+['SA2_J_61']- Label : 0 Prediction : 2
+['SA2_J_62']- Label : 0 Prediction : 4
+['SA2_J_63']- Label : 0 Prediction : 4
+['SA2_J_64']- Label : 0 Prediction : 4
+['SA2_J_65']- Label : 0 Prediction : 4
+['SA2_J_66']- Label : 0 Prediction : 4
+['SA2_J_67']- Label : 0 Prediction : 2
+['SA2_J_68']- Label : 0 Prediction : 4
+['SX326_J_1']- Label : 1 Prediction : 0
+['SX326_J_2']- Label : 1 Prediction : 4
+['SX326_J_3']- Label : 1 Prediction : 2
+['SX326_J_6']- Label : 1 Prediction : 2
+['SX326_J_7']- Label : 1 Prediction : 2
+['SX326_J_8']- Label : 1 Prediction : 2
+['SX326_J_9']- Label : 1 Prediction : 2
+['SX326_J_10']- Label : 1 Prediction : 2
+['SX326_J_11']- Label : 1 Prediction : 2
+['SX326_J_12']- Label : 1 Prediction : 2
+['SX326_J_13']- Label : 1 Prediction : 2
+['SX326_J_14']- Label : 1 Prediction : 2
+['SX326_J_16']- Label : 1 Prediction : 0
+['SX326_J_18']- Label : 1 Prediction : 0
+['SX326_J_19']- Label : 1 Prediction : 3
+['SX326_J_20']- Label : 1 Prediction : 3
+['SX326_J_21']- Label : 1 Prediction : 0
+['SX326_J_22']- Label : 1 Prediction : 3
+['SX326_J_23']- Label : 1 Prediction : 3
+['SX326_J_24']- Label : 1 Prediction : 0
+['SX326_J_25']- Label : 1 Prediction : 3
+['SX326_J_27']- Label : 1 Prediction : 3
+['SX326_J_28']- Label : 1 Prediction : 3
+['SX326_J_29']- Label : 1 Prediction : 3
+['SX326_J_30']- Label : 1 Prediction : 3
+['SX326_J_31']- Label : 1 Prediction : 3
+['SX326_J_32']- Label : 1 Prediction : 3
+['SX326_J_33']- Label : 1 Prediction : 4
+['SX326_J_34']- Label : 1 Prediction : 3
+['SX326_J_35']- Label : 1 Prediction : 3
+['SX326_J_36']- Label : 1 Prediction : 4
+['SX326_J_37']- Label : 1 Prediction : 4
+['SX326_J_38']- Label : 1 Prediction : 4
+['SX326_J_39']- Label : 1 Prediction : 4
+['SX326_J_40']- Label : 1 Prediction : 2
+['SX326_J_41']- Label : 1 Prediction : 4
+['SX326_J_42']- Label : 1 Prediction : 4
+['SX326_J_43']- Label : 1 Prediction : 0
+['SX326_J_44']- Label : 1 Prediction : 0
+['SX326_J_46']- Label : 1 Prediction : 2
+['SX326_J_48']- Label : 1 Prediction : 3
+['SX326_J_52']- Label : 1 Prediction : 2
+['SX326_J_53']- Label : 1 Prediction : 2
+['SX326_J_54']- Label : 1 Prediction : 2
+['SX326_J_55']- Label : 1 Prediction : 2
+['SX326_J_56']- Label : 1 Prediction : 3
+['SX326_J_57']- Label : 1 Prediction : 2
+['SX326_J_58']- Label : 1 Prediction : 4
+['SX326_J_59']- Label : 1 Prediction : 2
+['SX326_J_63']- Label : 1 Prediction : 3
+['SX326_J_64']- Label : 1 Prediction : 2
+['SX326_J_65']- Label : 1 Prediction : 2
+['SX326_J_66']- Label : 1 Prediction : 2
+['SX326_J_67']- Label : 1 Prediction : 4
+['SX326_J_68']- Label : 1 Prediction : 4
+['SX249_J_2']- Label : 2 Prediction : 0
+['SX249_J_5']- Label : 2 Prediction : 3
+['SX249_J_17']- Label : 2 Prediction : 0
+['SX249_J_18']- Label : 2 Prediction : 0
+['SX249_J_20']- Label : 2 Prediction : 0
+['SX249_J_23']- Label : 2 Prediction : 0
+['SX249_J_26']- Label : 2 Prediction : 0
+['SX249_J_29']- Label : 2 Prediction : 0
+['SX249_J_32']- Label : 2 Prediction : 0
+['SX249_J_43']- Label : 2 Prediction : 0
+['SX249_J_44']- Label : 2 Prediction : 3
+['SX249_J_47']- Label : 2 Prediction : 3
+['SX249_J_50']- Label : 2 Prediction : 0
+['SX249_J_51']- Label : 2 Prediction : 0
+['SX249_J_52']- Label : 2 Prediction : 4
+['SX249_J_53']- Label : 2 Prediction : 0
+['SX249_J_54']- Label : 2 Prediction : 4
+['SX249_J_57']- Label : 2 Prediction : 4
+['SX249_J_60']- Label : 2 Prediction : 3
+['SX249_J_61']- Label : 2 Prediction : 0
+['SX249_J_64']- Label : 2 Prediction : 0
+['SX249_J_65']- Label : 2 Prediction : 0
+['SX249_J_66']- Label : 2 Prediction : 1
+['SA2_J_0']- Label : 3 Prediction : 1
+['SA2_J_1']- Label : 3 Prediction : 2
+['SA2_J_2']- Label : 3 Prediction : 4
+['SA2_J_3']- Label : 3 Prediction : 4
+['SA2_J_4']- Label : 3 Prediction : 4
+['SA2_J_11']- Label : 3 Prediction : 4
+['SA2_J_12']- Label : 3 Prediction : 4
+['SA2_J_13']- Label : 3 Prediction : 4
+['SA2_J_14']- Label : 3 Prediction : 4
+['SA2_J_15']- Label : 3 Prediction : 4
+['SA2_J_16']- Label : 3 Prediction : 4
+['SA2_J_17']- Label : 3 Prediction : 4
+['SA2_J_18']- Label : 3 Prediction : 4
+['SA2_J_19']- Label : 3 Prediction : 4
+['SA2_J_20']- Label : 3 Prediction : 4
+['SA2_J_21']- Label : 3 Prediction : 4
+['SA2_J_22']- Label : 3 Prediction : 4
+['SA2_J_23']- Label : 3 Prediction : 4
+['SA2_J_24']- Label : 3 Prediction : 4
+['SA2_J_25']- Label : 3 Prediction : 4
+['SA2_J_26']- Label : 3 Prediction : 4
+['SA2_J_28']- Label : 3 Prediction : 4
+['SA2_J_29']- Label : 3 Prediction : 4
+['SA2_J_31']- Label : 3 Prediction : 4
+['SA2_J_32']- Label : 3 Prediction : 4
+['SA2_J_33']- Label : 3 Prediction : 4
+['SA2_J_34']- Label : 3 Prediction : 4
+['SA2_J_35']- Label : 3 Prediction : 4
+['SA2_J_36']- Label : 3 Prediction : 4
+['SA2_J_37']- Label : 3 Prediction : 0
+['SA2_J_41']- Label : 3 Prediction : 1
+['SA2_J_42']- Label : 3 Prediction : 2
+['SA2_J_45']- Label : 3 Prediction : 2
+['SA2_J_48']- Label : 3 Prediction : 2
+['SA2_J_49']- Label : 3 Prediction : 2
+['SA2_J_50']- Label : 3 Prediction : 2
+['SA2_J_51']- Label : 3 Prediction : 2
+['SA2_J_52']- Label : 3 Prediction : 4
+['SA2_J_53']- Label : 3 Prediction : 4
+['SA2_J_54']- Label : 3 Prediction : 1
+['SA2_J_55']- Label : 3 Prediction : 2
+['SA2_J_56']- Label : 3 Prediction : 1
+['SA2_J_58']- Label : 3 Prediction : 1
+['SA2_J_59']- Label : 3 Prediction : 2
+['SA2_J_61']- Label : 3 Prediction : 1
+['SA2_J_62']- Label : 3 Prediction : 1
+['SA2_J_63']- Label : 3 Prediction : 4
+['SA2_J_66']- Label : 3 Prediction : 2
+['SA2_J_67']- Label : 3 Prediction : 4
+['SA2_J_68']- Label : 3 Prediction : 4
+['SA2_J_69']- Label : 3 Prediction : 1
+['SX68_J_5']- Label : 4 Prediction : 3
+['SX68_J_7']- Label : 4 Prediction : 0
+['SX68_J_8']- Label : 4 Prediction : 0
+['SX68_J_9']- Label : 4 Prediction : 0
+['SX68_J_10']- Label : 4 Prediction : 2
+['SX68_J_11']- Label : 4 Prediction : 2
+['SX68_J_12']- Label : 4 Prediction : 2
+['SX68_J_13']- Label : 4 Prediction : 2
+['SX68_J_14']- Label : 4 Prediction : 1
+['SX68_J_15']- Label : 4 Prediction : 1
+['SX68_J_16']- Label : 4 Prediction : 2
+['SX68_J_17']- Label : 4 Prediction : 1
+['SX68_J_18']- Label : 4 Prediction : 1
+['SX68_J_19']- Label : 4 Prediction : 1
+['SX68_J_20']- Label : 4 Prediction : 3
+['SX68_J_21']- Label : 4 Prediction : 3
+['SX68_J_22']- Label : 4 Prediction : 0
+['SX68_J_23']- Label : 4 Prediction : 2
+['SX68_J_24']- Label : 4 Prediction : 3
+['SX68_J_25']- Label : 4 Prediction : 2
+['SX68_J_26']- Label : 4 Prediction : 2
+['SX68_J_27']- Label : 4 Prediction : 2
+['SX68_J_28']- Label : 4 Prediction : 2
+['SX68_J_29']- Label : 4 Prediction : 2
+['SX68_J_30']- Label : 4 Prediction : 2
+['SX68_J_31']- Label : 4 Prediction : 3
+['SX68_J_32']- Label : 4 Prediction : 1
+['SX68_J_33']- Label : 4 Prediction : 1
+['SX68_J_34']- Label : 4 Prediction : 3
+['SX68_J_35']- Label : 4 Prediction : 2
+['SX68_J_36']- Label : 4 Prediction : 3
+['SX68_J_37']- Label : 4 Prediction : 3
+['SX68_J_40']- Label : 4 Prediction : 3
+['SX68_J_41']- Label : 4 Prediction : 3
+['SX68_J_42']- Label : 4 Prediction : 3
+['SX68_J_45']- Label : 4 Prediction : 3
+['SX68_J_47']- Label : 4 Prediction : 3
+['SX68_J_48']- Label : 4 Prediction : 3
+['SX68_J_50']- Label : 4 Prediction : 3
+['SX68_J_60']- Label : 4 Prediction : 3
+['SX68_J_68']- Label : 4 Prediction : 3
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 5
+Majority Vote Score :0.2
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 6
+
+Note : Valid set = Valid set version
+ Test score:1.63188729967
+ Test accuracy:0.457142857143
+
+Epoch :30
+List of the incorrect predictions 
+['SI2036_J_4']- Label : 1 Prediction : 3
+['SI2036_J_7']- Label : 1 Prediction : 0
+['SI2036_J_9']- Label : 1 Prediction : 0
+['SI2036_J_11']- Label : 1 Prediction : 2
+['SI2036_J_13']- Label : 1 Prediction : 0
+['SI2036_J_14']- Label : 1 Prediction : 3
+['SI2036_J_15']- Label : 1 Prediction : 3
+['SI2036_J_16']- Label : 1 Prediction : 3
+['SI2036_J_17']- Label : 1 Prediction : 3
+['SI2036_J_18']- Label : 1 Prediction : 3
+['SI2036_J_19']- Label : 1 Prediction : 3
+['SI2036_J_30']- Label : 1 Prediction : 3
+['SI2036_J_33']- Label : 1 Prediction : 0
+['SI2036_J_34']- Label : 1 Prediction : 2
+['SI2036_J_35']- Label : 1 Prediction : 2
+['SI2036_J_36']- Label : 1 Prediction : 2
+['SI2036_J_37']- Label : 1 Prediction : 0
+['SI2036_J_52']- Label : 1 Prediction : 3
+['SI2036_J_56']- Label : 1 Prediction : 2
+['SI2036_J_57']- Label : 1 Prediction : 2
+['SI2036_J_58']- Label : 1 Prediction : 2
+['SI2036_J_59']- Label : 1 Prediction : 2
+['SI2036_J_60']- Label : 1 Prediction : 2
+['SI2036_J_61']- Label : 1 Prediction : 2
+['SI2036_J_65']- Label : 1 Prediction : 3
+['SX339_J_0']- Label : 2 Prediction : 0
+['SX339_J_6']- Label : 2 Prediction : 1
+['SX339_J_7']- Label : 2 Prediction : 1
+['SX339_J_10']- Label : 2 Prediction : 1
+['SX339_J_11']- Label : 2 Prediction : 1
+['SX339_J_12']- Label : 2 Prediction : 1
+['SX339_J_13']- Label : 2 Prediction : 1
+['SX339_J_14']- Label : 2 Prediction : 4
+['SX339_J_15']- Label : 2 Prediction : 4
+['SX339_J_16']- Label : 2 Prediction : 4
+['SX339_J_17']- Label : 2 Prediction : 4
+['SX339_J_18']- Label : 2 Prediction : 4
+['SX339_J_19']- Label : 2 Prediction : 4
+['SX339_J_20']- Label : 2 Prediction : 4
+['SX339_J_21']- Label : 2 Prediction : 4
+['SX339_J_22']- Label : 2 Prediction : 4
+['SX339_J_23']- Label : 2 Prediction : 1
+['SX339_J_24']- Label : 2 Prediction : 1
+['SX339_J_25']- Label : 2 Prediction : 3
+['SX339_J_26']- Label : 2 Prediction : 0
+['SX339_J_28']- Label : 2 Prediction : 0
+['SX339_J_29']- Label : 2 Prediction : 0
+['SX339_J_30']- Label : 2 Prediction : 0
+['SX339_J_31']- Label : 2 Prediction : 0
+['SX339_J_32']- Label : 2 Prediction : 0
+['SX339_J_33']- Label : 2 Prediction : 0
+['SX339_J_35']- Label : 2 Prediction : 3
+['SX339_J_38']- Label : 2 Prediction : 0
+['SX339_J_40']- Label : 2 Prediction : 0
+['SX339_J_41']- Label : 2 Prediction : 4
+['SX339_J_42']- Label : 2 Prediction : 0
+['SX339_J_43']- Label : 2 Prediction : 4
+['SX339_J_44']- Label : 2 Prediction : 3
+['SX339_J_46']- Label : 2 Prediction : 1
+['SX339_J_47']- Label : 2 Prediction : 1
+['SX339_J_48']- Label : 2 Prediction : 0
+['SX339_J_49']- Label : 2 Prediction : 0
+['SX339_J_50']- Label : 2 Prediction : 0
+['SX339_J_51']- Label : 2 Prediction : 0
+['SX339_J_52']- Label : 2 Prediction : 0
+['SX339_J_53']- Label : 2 Prediction : 0
+['SX339_J_54']- Label : 2 Prediction : 0
+['SX339_J_55']- Label : 2 Prediction : 1
+['SX339_J_56']- Label : 2 Prediction : 1
+['SX339_J_57']- Label : 2 Prediction : 0
+['SX339_J_60']- Label : 2 Prediction : 4
+['SX339_J_61']- Label : 2 Prediction : 4
+['SX339_J_62']- Label : 2 Prediction : 4
+['SX339_J_63']- Label : 2 Prediction : 4
+['SX339_J_64']- Label : 2 Prediction : 4
+['SX339_J_65']- Label : 2 Prediction : 4
+['SI1418_J_6']- Label : 3 Prediction : 1
+['SI1418_J_7']- Label : 3 Prediction : 1
+['SI1418_J_10']- Label : 3 Prediction : 0
+['SI1418_J_12']- Label : 3 Prediction : 0
+['SI1418_J_13']- Label : 3 Prediction : 0
+['SI1418_J_14']- Label : 3 Prediction : 1
+['SI1418_J_15']- Label : 3 Prediction : 1
+['SI1418_J_16']- Label : 3 Prediction : 4
+['SI1418_J_17']- Label : 3 Prediction : 1
+['SI1418_J_18']- Label : 3 Prediction : 1
+['SI1418_J_19']- Label : 3 Prediction : 1
+['SI1418_J_20']- Label : 3 Prediction : 1
+['SI1418_J_21']- Label : 3 Prediction : 1
+['SI1418_J_22']- Label : 3 Prediction : 1
+['SI1418_J_24']- Label : 3 Prediction : 1
+['SI1418_J_27']- Label : 3 Prediction : 1
+['SI1418_J_28']- Label : 3 Prediction : 1
+['SI1418_J_29']- Label : 3 Prediction : 1
+['SI1418_J_31']- Label : 3 Prediction : 2
+['SI1418_J_32']- Label : 3 Prediction : 0
+['SI1418_J_56']- Label : 3 Prediction : 4
+['SI1418_J_57']- Label : 3 Prediction : 0
+['SI1418_J_60']- Label : 3 Prediction : 4
+['SI1418_J_61']- Label : 3 Prediction : 2
+['SI1418_J_62']- Label : 3 Prediction : 1
+['SI1418_J_63']- Label : 3 Prediction : 1
+['SI1418_J_64']- Label : 3 Prediction : 1
+['SI518_J_0']- Label : 4 Prediction : 3
+['SI518_J_1']- Label : 4 Prediction : 3
+['SI518_J_2']- Label : 4 Prediction : 3
+['SI518_J_3']- Label : 4 Prediction : 3
+['SI518_J_4']- Label : 4 Prediction : 3
+['SI518_J_5']- Label : 4 Prediction : 3
+['SI518_J_7']- Label : 4 Prediction : 3
+['SI518_J_10']- Label : 4 Prediction : 3
+['SI518_J_11']- Label : 4 Prediction : 3
+['SI518_J_13']- Label : 4 Prediction : 0
+['SI518_J_14']- Label : 4 Prediction : 0
+['SI518_J_16']- Label : 4 Prediction : 3
+['SI518_J_18']- Label : 4 Prediction : 3
+['SI518_J_31']- Label : 4 Prediction : 3
+['SI518_J_32']- Label : 4 Prediction : 3
+['SI518_J_33']- Label : 4 Prediction : 3
+['SI518_J_34']- Label : 4 Prediction : 3
+['SI518_J_35']- Label : 4 Prediction : 3
+['SI518_J_36']- Label : 4 Prediction : 3
+['SI518_J_38']- Label : 4 Prediction : 0
+['SI518_J_39']- Label : 4 Prediction : 3
+['SI518_J_40']- Label : 4 Prediction : 0
+['SI518_J_41']- Label : 4 Prediction : 2
+['SI518_J_42']- Label : 4 Prediction : 2
+['SI518_J_43']- Label : 4 Prediction : 1
+['SI518_J_44']- Label : 4 Prediction : 1
+['SI518_J_45']- Label : 4 Prediction : 1
+['SI518_J_46']- Label : 4 Prediction : 1
+['SI518_J_47']- Label : 4 Prediction : 1
+['SI518_J_48']- Label : 4 Prediction : 1
+['SI518_J_49']- Label : 4 Prediction : 1
+['SI518_J_50']- Label : 4 Prediction : 1
+['SI518_J_51']- Label : 4 Prediction : 1
+['SI518_J_52']- Label : 4 Prediction : 3
+['SI518_J_53']- Label : 4 Prediction : 3
+['SI518_J_54']- Label : 4 Prediction : 3
+['SI518_J_55']- Label : 4 Prediction : 1
+['SI518_J_57']- Label : 4 Prediction : 1
+['SI518_J_59']- Label : 4 Prediction : 1
+['SI518_J_60']- Label : 4 Prediction : 1
+['SI518_J_61']- Label : 4 Prediction : 1
+['SI518_J_62']- Label : 4 Prediction : 1
+['SI518_J_63']- Label : 4 Prediction : 3
+['SI518_J_64']- Label : 4 Prediction : 1
+['SI518_J_65']- Label : 4 Prediction : 3
+['SI518_J_66']- Label : 4 Prediction : 3
+['SI518_J_67']- Label : 4 Prediction : 1
+['SI518_J_68']- Label : 4 Prediction : 1
+['SI518_J_69']- Label : 4 Prediction : 3
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 6
+Majority Vote Score :0.25
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 7
+
+Note : Valid set = Valid set version
+ Test score:1.73263572284
+ Test accuracy:0.385714285714
+
+Epoch :30
+List of the incorrect predictions 
+['SX397_J_0']- Label : 0 Prediction : 1
+['SX397_J_1']- Label : 0 Prediction : 1
+['SX397_J_2']- Label : 0 Prediction : 1
+['SX397_J_3']- Label : 0 Prediction : 2
+['SX397_J_6']- Label : 0 Prediction : 2
+['SX397_J_8']- Label : 0 Prediction : 1
+['SX397_J_9']- Label : 0 Prediction : 1
+['SX397_J_10']- Label : 0 Prediction : 1
+['SX397_J_11']- Label : 0 Prediction : 1
+['SX397_J_14']- Label : 0 Prediction : 1
+['SX397_J_15']- Label : 0 Prediction : 1
+['SX397_J_16']- Label : 0 Prediction : 1
+['SX397_J_22']- Label : 0 Prediction : 2
+['SX397_J_23']- Label : 0 Prediction : 4
+['SX397_J_24']- Label : 0 Prediction : 4
+['SX397_J_25']- Label : 0 Prediction : 4
+['SX397_J_26']- Label : 0 Prediction : 4
+['SX397_J_27']- Label : 0 Prediction : 4
+['SX397_J_30']- Label : 0 Prediction : 2
+['SX397_J_32']- Label : 0 Prediction : 3
+['SX397_J_33']- Label : 0 Prediction : 1
+['SX397_J_34']- Label : 0 Prediction : 1
+['SX397_J_35']- Label : 0 Prediction : 2
+['SX397_J_36']- Label : 0 Prediction : 2
+['SX397_J_37']- Label : 0 Prediction : 1
+['SX397_J_39']- Label : 0 Prediction : 2
+['SX397_J_40']- Label : 0 Prediction : 4
+['SX397_J_41']- Label : 0 Prediction : 4
+['SX397_J_42']- Label : 0 Prediction : 4
+['SX397_J_43']- Label : 0 Prediction : 3
+['SX397_J_44']- Label : 0 Prediction : 4
+['SX397_J_45']- Label : 0 Prediction : 4
+['SX397_J_47']- Label : 0 Prediction : 1
+['SX397_J_48']- Label : 0 Prediction : 1
+['SX397_J_49']- Label : 0 Prediction : 1
+['SX397_J_50']- Label : 0 Prediction : 1
+['SX397_J_52']- Label : 0 Prediction : 1
+['SX397_J_54']- Label : 0 Prediction : 2
+['SX397_J_56']- Label : 0 Prediction : 2
+['SX397_J_57']- Label : 0 Prediction : 4
+['SX397_J_58']- Label : 0 Prediction : 2
+['SX397_J_59']- Label : 0 Prediction : 2
+['SX397_J_60']- Label : 0 Prediction : 2
+['SX397_J_62']- Label : 0 Prediction : 1
+['SX397_J_63']- Label : 0 Prediction : 2
+['SX397_J_64']- Label : 0 Prediction : 2
+['SX397_J_65']- Label : 0 Prediction : 2
+['SX397_J_66']- Label : 0 Prediction : 2
+['SX397_J_67']- Label : 0 Prediction : 2
+['SX397_J_68']- Label : 0 Prediction : 2
+['SX397_J_69']- Label : 0 Prediction : 2
+['SX56_J_0']- Label : 1 Prediction : 2
+['SX56_J_1']- Label : 1 Prediction : 2
+['SX56_J_2']- Label : 1 Prediction : 2
+['SX56_J_3']- Label : 1 Prediction : 2
+['SX56_J_4']- Label : 1 Prediction : 3
+['SX56_J_5']- Label : 1 Prediction : 2
+['SX56_J_6']- Label : 1 Prediction : 0
+['SX56_J_7']- Label : 1 Prediction : 2
+['SX56_J_8']- Label : 1 Prediction : 0
+['SX56_J_9']- Label : 1 Prediction : 0
+['SX56_J_10']- Label : 1 Prediction : 0
+['SX56_J_11']- Label : 1 Prediction : 2
+['SX56_J_12']- Label : 1 Prediction : 2
+['SX56_J_13']- Label : 1 Prediction : 2
+['SX56_J_14']- Label : 1 Prediction : 2
+['SX56_J_15']- Label : 1 Prediction : 3
+['SX56_J_16']- Label : 1 Prediction : 3
+['SX56_J_17']- Label : 1 Prediction : 3
+['SX56_J_18']- Label : 1 Prediction : 3
+['SX56_J_19']- Label : 1 Prediction : 3
+['SX56_J_20']- Label : 1 Prediction : 3
+['SX56_J_21']- Label : 1 Prediction : 3
+['SX56_J_22']- Label : 1 Prediction : 2
+['SX56_J_23']- Label : 1 Prediction : 2
+['SX56_J_24']- Label : 1 Prediction : 2
+['SX56_J_25']- Label : 1 Prediction : 2
+['SX56_J_27']- Label : 1 Prediction : 2
+['SX56_J_29']- Label : 1 Prediction : 0
+['SX56_J_30']- Label : 1 Prediction : 0
+['SX56_J_31']- Label : 1 Prediction : 0
+['SX56_J_32']- Label : 1 Prediction : 0
+['SX56_J_34']- Label : 1 Prediction : 2
+['SX56_J_35']- Label : 1 Prediction : 2
+['SX56_J_36']- Label : 1 Prediction : 4
+['SX56_J_37']- Label : 1 Prediction : 2
+['SX56_J_38']- Label : 1 Prediction : 2
+['SX56_J_39']- Label : 1 Prediction : 2
+['SX56_J_40']- Label : 1 Prediction : 2
+['SX56_J_41']- Label : 1 Prediction : 2
+['SX56_J_42']- Label : 1 Prediction : 2
+['SX56_J_43']- Label : 1 Prediction : 3
+['SX56_J_44']- Label : 1 Prediction : 3
+['SX56_J_45']- Label : 1 Prediction : 3
+['SX56_J_46']- Label : 1 Prediction : 2
+['SX56_J_48']- Label : 1 Prediction : 2
+['SX56_J_49']- Label : 1 Prediction : 2
+['SX56_J_50']- Label : 1 Prediction : 0
+['SX56_J_52']- Label : 1 Prediction : 0
+['SX56_J_54']- Label : 1 Prediction : 2
+['SX56_J_55']- Label : 1 Prediction : 2
+['SX56_J_57']- Label : 1 Prediction : 3
+['SX56_J_61']- Label : 1 Prediction : 0
+['SX56_J_62']- Label : 1 Prediction : 0
+['SX56_J_65']- Label : 1 Prediction : 0
+['SX56_J_66']- Label : 1 Prediction : 0
+['SX56_J_67']- Label : 1 Prediction : 0
+['SX56_J_68']- Label : 1 Prediction : 2
+['SX56_J_69']- Label : 1 Prediction : 2
+['SX69_J_0']- Label : 2 Prediction : 0
+['SX69_J_4']- Label : 2 Prediction : 0
+['SX69_J_6']- Label : 2 Prediction : 1
+['SX69_J_7']- Label : 2 Prediction : 1
+['SX69_J_8']- Label : 2 Prediction : 1
+['SX69_J_9']- Label : 2 Prediction : 1
+['SX69_J_11']- Label : 2 Prediction : 1
+['SX69_J_15']- Label : 2 Prediction : 4
+['SX69_J_20']- Label : 2 Prediction : 4
+['SX69_J_22']- Label : 2 Prediction : 4
+['SX69_J_26']- Label : 2 Prediction : 0
+['SX69_J_27']- Label : 2 Prediction : 0
+['SX69_J_28']- Label : 2 Prediction : 0
+['SX69_J_29']- Label : 2 Prediction : 0
+['SX69_J_30']- Label : 2 Prediction : 0
+['SX69_J_31']- Label : 2 Prediction : 1
+['SX69_J_32']- Label : 2 Prediction : 0
+['SX69_J_33']- Label : 2 Prediction : 0
+['SX69_J_34']- Label : 2 Prediction : 0
+['SX69_J_35']- Label : 2 Prediction : 0
+['SX69_J_36']- Label : 2 Prediction : 0
+['SX69_J_37']- Label : 2 Prediction : 0
+['SX69_J_38']- Label : 2 Prediction : 0
+['SX69_J_39']- Label : 2 Prediction : 0
+['SX69_J_41']- Label : 2 Prediction : 0
+['SX69_J_43']- Label : 2 Prediction : 0
+['SX69_J_44']- Label : 2 Prediction : 0
+['SX69_J_47']- Label : 2 Prediction : 0
+['SX69_J_53']- Label : 2 Prediction : 0
+['SX69_J_57']- Label : 2 Prediction : 0
+['SX69_J_58']- Label : 2 Prediction : 0
+['SX69_J_59']- Label : 2 Prediction : 0
+['SX69_J_60']- Label : 2 Prediction : 0
+['SX69_J_63']- Label : 2 Prediction : 0
+['SX69_J_67']- Label : 2 Prediction : 0
+['SX69_J_69']- Label : 2 Prediction : 0
+['SI1148_J_0']- Label : 4 Prediction : 2
+['SI1148_J_1']- Label : 4 Prediction : 2
+['SI1148_J_2']- Label : 4 Prediction : 2
+['SI1148_J_3']- Label : 4 Prediction : 2
+['SI1148_J_4']- Label : 4 Prediction : 2
+['SI1148_J_5']- Label : 4 Prediction : 2
+['SI1148_J_6']- Label : 4 Prediction : 1
+['SI1148_J_7']- Label : 4 Prediction : 1
+['SI1148_J_8']- Label : 4 Prediction : 2
+['SI1148_J_9']- Label : 4 Prediction : 1
+['SI1148_J_10']- Label : 4 Prediction : 2
+['SI1148_J_11']- Label : 4 Prediction : 2
+['SI1148_J_49']- Label : 4 Prediction : 0
+['SI1148_J_50']- Label : 4 Prediction : 1
+['SI1148_J_51']- Label : 4 Prediction : 2
+['SI1148_J_52']- Label : 4 Prediction : 2
+['SI1148_J_53']- Label : 4 Prediction : 1
+['SI1148_J_54']- Label : 4 Prediction : 1
+['SI1148_J_55']- Label : 4 Prediction : 2
+['SI1148_J_56']- Label : 4 Prediction : 1
+['SI1148_J_57']- Label : 4 Prediction : 2
+['SI1148_J_58']- Label : 4 Prediction : 2
+['SI1148_J_59']- Label : 4 Prediction : 2
+['SI1148_J_60']- Label : 4 Prediction : 1
+['SI1148_J_61']- Label : 4 Prediction : 1
+['SI1148_J_62']- Label : 4 Prediction : 2
+['SI1148_J_69']- Label : 4 Prediction : 2
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 7
+Majority Vote Score :0.25
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 8
+
+Note : Valid set = Valid set version
+ Test score:1.40976402532
+ Test accuracy:0.519047619048
+
+Epoch :30
+List of the incorrect predictions 
+['SX127_J_1']- Label : 0 Prediction : 1
+['SX127_J_6']- Label : 0 Prediction : 4
+['SX127_J_7']- Label : 0 Prediction : 1
+['SX127_J_8']- Label : 0 Prediction : 1
+['SX127_J_10']- Label : 0 Prediction : 1
+['SX127_J_11']- Label : 0 Prediction : 1
+['SX127_J_12']- Label : 0 Prediction : 1
+['SX127_J_13']- Label : 0 Prediction : 4
+['SX127_J_14']- Label : 0 Prediction : 1
+['SX127_J_17']- Label : 0 Prediction : 3
+['SX127_J_18']- Label : 0 Prediction : 1
+['SX127_J_20']- Label : 0 Prediction : 2
+['SX127_J_24']- Label : 0 Prediction : 2
+['SX127_J_26']- Label : 0 Prediction : 1
+['SX127_J_27']- Label : 0 Prediction : 2
+['SX127_J_28']- Label : 0 Prediction : 2
+['SX127_J_29']- Label : 0 Prediction : 4
+['SX127_J_36']- Label : 0 Prediction : 4
+['SX127_J_37']- Label : 0 Prediction : 4
+['SX127_J_40']- Label : 0 Prediction : 1
+['SX127_J_41']- Label : 0 Prediction : 3
+['SX127_J_43']- Label : 0 Prediction : 3
+['SX127_J_44']- Label : 0 Prediction : 3
+['SX127_J_45']- Label : 0 Prediction : 4
+['SX127_J_46']- Label : 0 Prediction : 4
+['SX127_J_47']- Label : 0 Prediction : 3
+['SX127_J_48']- Label : 0 Prediction : 1
+['SX127_J_49']- Label : 0 Prediction : 4
+['SX127_J_50']- Label : 0 Prediction : 1
+['SX127_J_52']- Label : 0 Prediction : 1
+['SX127_J_55']- Label : 0 Prediction : 2
+['SX127_J_58']- Label : 0 Prediction : 2
+['SX127_J_61']- Label : 0 Prediction : 2
+['SX127_J_62']- Label : 0 Prediction : 2
+['SX127_J_65']- Label : 0 Prediction : 2
+['SX127_J_68']- Label : 0 Prediction : 2
+['SI2075_J_0']- Label : 2 Prediction : 0
+['SI2075_J_9']- Label : 2 Prediction : 1
+['SI2075_J_14']- Label : 2 Prediction : 0
+['SI2075_J_15']- Label : 2 Prediction : 0
+['SI2075_J_17']- Label : 2 Prediction : 4
+['SI2075_J_19']- Label : 2 Prediction : 3
+['SI2075_J_20']- Label : 2 Prediction : 4
+['SI2075_J_21']- Label : 2 Prediction : 4
+['SI2075_J_22']- Label : 2 Prediction : 1
+['SI2075_J_24']- Label : 2 Prediction : 1
+['SI2075_J_25']- Label : 2 Prediction : 3
+['SI2075_J_26']- Label : 2 Prediction : 4
+['SI2075_J_27']- Label : 2 Prediction : 1
+['SI2075_J_30']- Label : 2 Prediction : 3
+['SI2075_J_33']- Label : 2 Prediction : 0
+['SI2075_J_34']- Label : 2 Prediction : 0
+['SI2075_J_35']- Label : 2 Prediction : 0
+['SI2075_J_36']- Label : 2 Prediction : 0
+['SI2075_J_37']- Label : 2 Prediction : 0
+['SI2075_J_38']- Label : 2 Prediction : 0
+['SI2075_J_39']- Label : 2 Prediction : 1
+['SI2075_J_41']- Label : 2 Prediction : 1
+['SI2075_J_43']- Label : 2 Prediction : 1
+['SI2075_J_44']- Label : 2 Prediction : 1
+['SI2075_J_46']- Label : 2 Prediction : 1
+['SI2075_J_47']- Label : 2 Prediction : 1
+['SI2075_J_48']- Label : 2 Prediction : 1
+['SI2075_J_49']- Label : 2 Prediction : 0
+['SI2075_J_50']- Label : 2 Prediction : 0
+['SI2075_J_51']- Label : 2 Prediction : 0
+['SI2075_J_55']- Label : 2 Prediction : 1
+['SI2075_J_59']- Label : 2 Prediction : 3
+['SI2075_J_63']- Label : 2 Prediction : 0
+['SI2075_J_64']- Label : 2 Prediction : 0
+['SI2075_J_65']- Label : 2 Prediction : 0
+['SI2075_J_66']- Label : 2 Prediction : 0
+['SI2075_J_67']- Label : 2 Prediction : 0
+['SI2075_J_68']- Label : 2 Prediction : 0
+['SI2075_J_69']- Label : 2 Prediction : 0
+['SA1_J_2']- Label : 4 Prediction : 2
+['SA1_J_4']- Label : 4 Prediction : 1
+['SA1_J_6']- Label : 4 Prediction : 1
+['SA1_J_8']- Label : 4 Prediction : 1
+['SA1_J_12']- Label : 4 Prediction : 1
+['SA1_J_13']- Label : 4 Prediction : 2
+['SA1_J_14']- Label : 4 Prediction : 2
+['SA1_J_24']- Label : 4 Prediction : 0
+['SA1_J_25']- Label : 4 Prediction : 2
+['SA1_J_26']- Label : 4 Prediction : 0
+['SA1_J_27']- Label : 4 Prediction : 1
+['SA1_J_28']- Label : 4 Prediction : 0
+['SA1_J_29']- Label : 4 Prediction : 0
+['SA1_J_30']- Label : 4 Prediction : 2
+['SA1_J_31']- Label : 4 Prediction : 2
+['SA1_J_32']- Label : 4 Prediction : 2
+['SA1_J_33']- Label : 4 Prediction : 2
+['SA1_J_34']- Label : 4 Prediction : 2
+['SA1_J_35']- Label : 4 Prediction : 2
+['SA1_J_36']- Label : 4 Prediction : 2
+['SA1_J_37']- Label : 4 Prediction : 2
+['SA1_J_62']- Label : 4 Prediction : 1
+['SA1_J_65']- Label : 4 Prediction : 2
+['SA1_J_67']- Label : 4 Prediction : 2
+['SA1_J_68']- Label : 4 Prediction : 0
+['SA1_J_69']- Label : 4 Prediction : 1
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 8
+Majority Vote Score :0.333333333333
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 9
+
+Note : Valid set = Valid set version
+ Test score:1.67398016589
+ Test accuracy:0.314285714286
+
+Epoch :30
+List of the incorrect predictions 
+['SI648_J_3']- Label : 0 Prediction : 2
+['SI648_J_4']- Label : 0 Prediction : 2
+['SI648_J_5']- Label : 0 Prediction : 2
+['SI648_J_6']- Label : 0 Prediction : 2
+['SI648_J_7']- Label : 0 Prediction : 2
+['SI648_J_8']- Label : 0 Prediction : 2
+['SI648_J_9']- Label : 0 Prediction : 1
+['SI648_J_10']- Label : 0 Prediction : 2
+['SI648_J_11']- Label : 0 Prediction : 1
+['SI648_J_12']- Label : 0 Prediction : 2
+['SI648_J_13']- Label : 0 Prediction : 2
+['SI648_J_14']- Label : 0 Prediction : 2
+['SI648_J_15']- Label : 0 Prediction : 3
+['SI648_J_18']- Label : 0 Prediction : 2
+['SI648_J_19']- Label : 0 Prediction : 2
+['SI648_J_20']- Label : 0 Prediction : 2
+['SI648_J_21']- Label : 0 Prediction : 2
+['SI648_J_22']- Label : 0 Prediction : 2
+['SI648_J_23']- Label : 0 Prediction : 2
+['SI648_J_25']- Label : 0 Prediction : 2
+['SI648_J_26']- Label : 0 Prediction : 2
+['SI648_J_27']- Label : 0 Prediction : 2
+['SI648_J_28']- Label : 0 Prediction : 2
+['SI648_J_29']- Label : 0 Prediction : 4
+['SI648_J_30']- Label : 0 Prediction : 4
+['SI648_J_31']- Label : 0 Prediction : 4
+['SI648_J_32']- Label : 0 Prediction : 4
+['SI648_J_33']- Label : 0 Prediction : 4
+['SI648_J_34']- Label : 0 Prediction : 4
+['SI648_J_35']- Label : 0 Prediction : 2
+['SI648_J_36']- Label : 0 Prediction : 2
+['SI648_J_37']- Label : 0 Prediction : 2
+['SI648_J_38']- Label : 0 Prediction : 2
+['SI648_J_39']- Label : 0 Prediction : 2
+['SI648_J_44']- Label : 0 Prediction : 2
+['SI648_J_46']- Label : 0 Prediction : 2
+['SI648_J_47']- Label : 0 Prediction : 2
+['SI648_J_48']- Label : 0 Prediction : 2
+['SI648_J_49']- Label : 0 Prediction : 2
+['SI648_J_50']- Label : 0 Prediction : 2
+['SI648_J_51']- Label : 0 Prediction : 2
+['SI648_J_52']- Label : 0 Prediction : 2
+['SI648_J_53']- Label : 0 Prediction : 2
+['SI648_J_57']- Label : 0 Prediction : 2
+['SI648_J_58']- Label : 0 Prediction : 2
+['SI648_J_59']- Label : 0 Prediction : 2
+['SI648_J_60']- Label : 0 Prediction : 2
+['SI648_J_61']- Label : 0 Prediction : 2
+['SI648_J_62']- Label : 0 Prediction : 2
+['SI648_J_63']- Label : 0 Prediction : 2
+['SI648_J_64']- Label : 0 Prediction : 2
+['SI648_J_65']- Label : 0 Prediction : 1
+['SI648_J_66']- Label : 0 Prediction : 2
+['SI648_J_67']- Label : 0 Prediction : 1
+['SI648_J_68']- Label : 0 Prediction : 1
+['SI648_J_69']- Label : 0 Prediction : 2
+['SX236_J_0']- Label : 1 Prediction : 3
+['SX236_J_1']- Label : 1 Prediction : 2
+['SX236_J_2']- Label : 1 Prediction : 3
+['SX236_J_3']- Label : 1 Prediction : 3
+['SX236_J_4']- Label : 1 Prediction : 2
+['SX236_J_5']- Label : 1 Prediction : 2
+['SX236_J_6']- Label : 1 Prediction : 2
+['SX236_J_7']- Label : 1 Prediction : 2
+['SX236_J_8']- Label : 1 Prediction : 0
+['SX236_J_9']- Label : 1 Prediction : 0
+['SX236_J_10']- Label : 1 Prediction : 4
+['SX236_J_11']- Label : 1 Prediction : 4
+['SX236_J_12']- Label : 1 Prediction : 0
+['SX236_J_13']- Label : 1 Prediction : 0
+['SX236_J_14']- Label : 1 Prediction : 0
+['SX236_J_15']- Label : 1 Prediction : 3
+['SX236_J_16']- Label : 1 Prediction : 3
+['SX236_J_17']- Label : 1 Prediction : 3
+['SX236_J_18']- Label : 1 Prediction : 4
+['SX236_J_19']- Label : 1 Prediction : 4
+['SX236_J_20']- Label : 1 Prediction : 3
+['SX236_J_21']- Label : 1 Prediction : 4
+['SX236_J_26']- Label : 1 Prediction : 3
+['SX236_J_27']- Label : 1 Prediction : 4
+['SX236_J_28']- Label : 1 Prediction : 3
+['SX236_J_29']- Label : 1 Prediction : 3
+['SX236_J_30']- Label : 1 Prediction : 2
+['SX236_J_31']- Label : 1 Prediction : 4
+['SX236_J_32']- Label : 1 Prediction : 2
+['SX236_J_33']- Label : 1 Prediction : 2
+['SX236_J_34']- Label : 1 Prediction : 2
+['SX236_J_35']- Label : 1 Prediction : 2
+['SX236_J_36']- Label : 1 Prediction : 3
+['SX236_J_37']- Label : 1 Prediction : 4
+['SX236_J_38']- Label : 1 Prediction : 3
+['SX236_J_39']- Label : 1 Prediction : 3
+['SX236_J_40']- Label : 1 Prediction : 4
+['SX236_J_41']- Label : 1 Prediction : 3
+['SX236_J_42']- Label : 1 Prediction : 3
+['SX236_J_43']- Label : 1 Prediction : 3
+['SX236_J_44']- Label : 1 Prediction : 2
+['SX236_J_46']- Label : 1 Prediction : 3
+['SX236_J_47']- Label : 1 Prediction : 0
+['SX236_J_48']- Label : 1 Prediction : 2
+['SX236_J_49']- Label : 1 Prediction : 0
+['SX236_J_50']- Label : 1 Prediction : 2
+['SX236_J_51']- Label : 1 Prediction : 0
+['SX236_J_52']- Label : 1 Prediction : 0
+['SX236_J_53']- Label : 1 Prediction : 0
+['SX236_J_54']- Label : 1 Prediction : 2
+['SX236_J_55']- Label : 1 Prediction : 2
+['SX236_J_56']- Label : 1 Prediction : 2
+['SX236_J_57']- Label : 1 Prediction : 0
+['SX236_J_58']- Label : 1 Prediction : 0
+['SX236_J_59']- Label : 1 Prediction : 0
+['SX236_J_60']- Label : 1 Prediction : 2
+['SX236_J_61']- Label : 1 Prediction : 2
+['SX236_J_62']- Label : 1 Prediction : 2
+['SX236_J_63']- Label : 1 Prediction : 2
+['SX236_J_65']- Label : 1 Prediction : 2
+['SX236_J_69']- Label : 1 Prediction : 2
+['SX429_J_11']- Label : 2 Prediction : 4
+['SX429_J_12']- Label : 2 Prediction : 3
+['SX429_J_13']- Label : 2 Prediction : 3
+['SX429_J_14']- Label : 2 Prediction : 4
+['SX429_J_15']- Label : 2 Prediction : 3
+['SX429_J_16']- Label : 2 Prediction : 4
+['SX429_J_17']- Label : 2 Prediction : 3
+['SX429_J_18']- Label : 2 Prediction : 1
+['SX429_J_19']- Label : 2 Prediction : 4
+['SX429_J_20']- Label : 2 Prediction : 1
+['SX429_J_21']- Label : 2 Prediction : 4
+['SX429_J_22']- Label : 2 Prediction : 4
+['SX429_J_23']- Label : 2 Prediction : 3
+['SX429_J_24']- Label : 2 Prediction : 1
+['SX429_J_26']- Label : 2 Prediction : 0
+['SX429_J_27']- Label : 2 Prediction : 0
+['SX429_J_28']- Label : 2 Prediction : 0
+['SX429_J_29']- Label : 2 Prediction : 0
+['SX429_J_30']- Label : 2 Prediction : 0
+['SX429_J_31']- Label : 2 Prediction : 0
+['SX429_J_33']- Label : 2 Prediction : 0
+['SX429_J_35']- Label : 2 Prediction : 0
+['SX429_J_38']- Label : 2 Prediction : 0
+['SX429_J_42']- Label : 2 Prediction : 0
+['SX429_J_43']- Label : 2 Prediction : 1
+['SX429_J_44']- Label : 2 Prediction : 0
+['SX429_J_45']- Label : 2 Prediction : 0
+['SX429_J_46']- Label : 2 Prediction : 1
+['SX429_J_47']- Label : 2 Prediction : 1
+['SX429_J_48']- Label : 2 Prediction : 1
+['SX429_J_49']- Label : 2 Prediction : 1
+['SX429_J_50']- Label : 2 Prediction : 1
+['SX429_J_51']- Label : 2 Prediction : 1
+['SX429_J_55']- Label : 2 Prediction : 4
+['SX429_J_56']- Label : 2 Prediction : 3
+['SX429_J_57']- Label : 2 Prediction : 4
+['SX429_J_58']- Label : 2 Prediction : 4
+['SX429_J_59']- Label : 2 Prediction : 3
+['SX429_J_60']- Label : 2 Prediction : 3
+['SX429_J_61']- Label : 2 Prediction : 0
+['SX429_J_62']- Label : 2 Prediction : 1
+['SX429_J_63']- Label : 2 Prediction : 1
+['SX429_J_66']- Label : 2 Prediction : 4
+['SX429_J_67']- Label : 2 Prediction : 0
+['SX429_J_68']- Label : 2 Prediction : 0
+['SX428_J_0']- Label : 3 Prediction : 2
+['SX428_J_1']- Label : 3 Prediction : 1
+['SX428_J_2']- Label : 3 Prediction : 1
+['SX428_J_3']- Label : 3 Prediction : 1
+['SX428_J_4']- Label : 3 Prediction : 1
+['SX428_J_6']- Label : 3 Prediction : 1
+['SX428_J_7']- Label : 3 Prediction : 1
+['SX428_J_8']- Label : 3 Prediction : 1
+['SX428_J_9']- Label : 3 Prediction : 2
+['SX428_J_10']- Label : 3 Prediction : 2
+['SX428_J_11']- Label : 3 Prediction : 2
+['SX428_J_12']- Label : 3 Prediction : 1
+['SX428_J_20']- Label : 3 Prediction : 2
+['SX428_J_21']- Label : 3 Prediction : 2
+['SX428_J_22']- Label : 3 Prediction : 1
+['SX428_J_23']- Label : 3 Prediction : 4
+['SX428_J_24']- Label : 3 Prediction : 1
+['SX428_J_26']- Label : 3 Prediction : 4
+['SX428_J_27']- Label : 3 Prediction : 4
+['SX428_J_28']- Label : 3 Prediction : 4
+['SX428_J_29']- Label : 3 Prediction : 4
+['SX428_J_30']- Label : 3 Prediction : 2
+['SX428_J_31']- Label : 3 Prediction : 2
+['SX428_J_32']- Label : 3 Prediction : 1
+['SX428_J_33']- Label : 3 Prediction : 1
+['SX428_J_35']- Label : 3 Prediction : 2
+['SX428_J_36']- Label : 3 Prediction : 2
+['SX428_J_37']- Label : 3 Prediction : 2
+['SX428_J_38']- Label : 3 Prediction : 2
+['SX428_J_39']- Label : 3 Prediction : 2
+['SX428_J_40']- Label : 3 Prediction : 4
+['SX428_J_44']- Label : 3 Prediction : 4
+['SX428_J_45']- Label : 3 Prediction : 4
+['SX428_J_46']- Label : 3 Prediction : 1
+['SX428_J_48']- Label : 3 Prediction : 4
+['SX428_J_49']- Label : 3 Prediction : 4
+['SX428_J_51']- Label : 3 Prediction : 4
+['SX428_J_52']- Label : 3 Prediction : 4
+['SX428_J_53']- Label : 3 Prediction : 4
+['SX428_J_54']- Label : 3 Prediction : 4
+['SX428_J_55']- Label : 3 Prediction : 4
+['SX428_J_56']- Label : 3 Prediction : 4
+['SX428_J_57']- Label : 3 Prediction : 4
+['SX428_J_60']- Label : 3 Prediction : 4
+['SX428_J_61']- Label : 3 Prediction : 4
+['SX428_J_64']- Label : 3 Prediction : 4
+['SX248_J_0']- Label : 4 Prediction : 0
+['SX248_J_18']- Label : 4 Prediction : 2
+['SX248_J_19']- Label : 4 Prediction : 2
+['SX248_J_20']- Label : 4 Prediction : 2
+['SX248_J_21']- Label : 4 Prediction : 2
+['SX248_J_22']- Label : 4 Prediction : 1
+['SX248_J_24']- Label : 4 Prediction : 0
+['SX248_J_25']- Label : 4 Prediction : 0
+['SX248_J_26']- Label : 4 Prediction : 3
+['SX248_J_27']- Label : 4 Prediction : 3
+['SX248_J_30']- Label : 4 Prediction : 3
+['SX248_J_31']- Label : 4 Prediction : 3
+['SX248_J_45']- Label : 4 Prediction : 0
+['SX248_J_46']- Label : 4 Prediction : 0
+['SX248_J_47']- Label : 4 Prediction : 0
+['SX248_J_49']- Label : 4 Prediction : 1
+['SX248_J_51']- Label : 4 Prediction : 1
+['SX248_J_53']- Label : 4 Prediction : 0
+['SX248_J_55']- Label : 4 Prediction : 2
+['SX248_J_57']- Label : 4 Prediction : 2
+['SX248_J_58']- Label : 4 Prediction : 2
+['SX248_J_59']- Label : 4 Prediction : 2
+['SX248_J_60']- Label : 4 Prediction : 2
+['SX248_J_61']- Label : 4 Prediction : 2
+['SX248_J_62']- Label : 4 Prediction : 2
+['SX248_J_63']- Label : 4 Prediction : 2
+['SX248_J_64']- Label : 4 Prediction : 2
+['SX248_J_65']- Label : 4 Prediction : 2
+['SX248_J_66']- Label : 4 Prediction : 2
+['SX248_J_67']- Label : 4 Prediction : 2
+['SX248_J_68']- Label : 4 Prediction : 2
+['SX248_J_69']- Label : 4 Prediction : 0
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 9
+Majority Vote Score :0.2
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 10
+
+Note : Valid set = Valid set version
+ Test score:1.62010147572
+ Test accuracy:0.332142857143
+
+Epoch :30
+List of the incorrect predictions 
+['SX37_J_0']- Label : 0 Prediction : 1
+['SX37_J_1']- Label : 0 Prediction : 1
+['SX37_J_2']- Label : 0 Prediction : 1
+['SX37_J_3']- Label : 0 Prediction : 1
+['SX37_J_5']- Label : 0 Prediction : 1
+['SX37_J_6']- Label : 0 Prediction : 1
+['SX37_J_7']- Label : 0 Prediction : 1
+['SX37_J_8']- Label : 0 Prediction : 1
+['SX37_J_9']- Label : 0 Prediction : 1
+['SX37_J_10']- Label : 0 Prediction : 3
+['SX37_J_11']- Label : 0 Prediction : 3
+['SX37_J_12']- Label : 0 Prediction : 1
+['SX37_J_13']- Label : 0 Prediction : 1
+['SX37_J_14']- Label : 0 Prediction : 1
+['SX37_J_15']- Label : 0 Prediction : 4
+['SX37_J_16']- Label : 0 Prediction : 3
+['SX37_J_17']- Label : 0 Prediction : 4
+['SX37_J_18']- Label : 0 Prediction : 3
+['SX37_J_19']- Label : 0 Prediction : 3
+['SX37_J_20']- Label : 0 Prediction : 3
+['SX37_J_21']- Label : 0 Prediction : 4
+['SX37_J_22']- Label : 0 Prediction : 3
+['SX37_J_23']- Label : 0 Prediction : 3
+['SX37_J_24']- Label : 0 Prediction : 1
+['SX37_J_25']- Label : 0 Prediction : 4
+['SX37_J_26']- Label : 0 Prediction : 3
+['SX37_J_27']- Label : 0 Prediction : 1
+['SX37_J_28']- Label : 0 Prediction : 1
+['SX37_J_29']- Label : 0 Prediction : 1
+['SX37_J_30']- Label : 0 Prediction : 1
+['SX37_J_31']- Label : 0 Prediction : 1
+['SX37_J_32']- Label : 0 Prediction : 1
+['SX37_J_33']- Label : 0 Prediction : 1
+['SX37_J_34']- Label : 0 Prediction : 1
+['SX37_J_35']- Label : 0 Prediction : 4
+['SX37_J_36']- Label : 0 Prediction : 3
+['SX37_J_37']- Label : 0 Prediction : 1
+['SX37_J_38']- Label : 0 Prediction : 3
+['SX37_J_39']- Label : 0 Prediction : 1
+['SX37_J_42']- Label : 0 Prediction : 1
+['SX37_J_46']- Label : 0 Prediction : 2
+['SX37_J_47']- Label : 0 Prediction : 2
+['SX37_J_48']- Label : 0 Prediction : 2
+['SX37_J_49']- Label : 0 Prediction : 2
+['SX37_J_50']- Label : 0 Prediction : 2
+['SX37_J_51']- Label : 0 Prediction : 2
+['SX37_J_52']- Label : 0 Prediction : 2
+['SX37_J_53']- Label : 0 Prediction : 1
+['SX37_J_54']- Label : 0 Prediction : 1
+['SX37_J_55']- Label : 0 Prediction : 1
+['SX37_J_56']- Label : 0 Prediction : 1
+['SX37_J_57']- Label : 0 Prediction : 1
+['SX37_J_58']- Label : 0 Prediction : 1
+['SX37_J_59']- Label : 0 Prediction : 1
+['SX37_J_60']- Label : 0 Prediction : 4
+['SX37_J_61']- Label : 0 Prediction : 1
+['SX37_J_62']- Label : 0 Prediction : 1
+['SX37_J_63']- Label : 0 Prediction : 1
+['SX37_J_64']- Label : 0 Prediction : 1
+['SX37_J_65']- Label : 0 Prediction : 1
+['SX37_J_66']- Label : 0 Prediction : 1
+['SX37_J_67']- Label : 0 Prediction : 1
+['SX37_J_68']- Label : 0 Prediction : 1
+['SX37_J_69']- Label : 0 Prediction : 1
+['SI1406_J_1']- Label : 1 Prediction : 2
+['SI1406_J_2']- Label : 1 Prediction : 2
+['SI1406_J_3']- Label : 1 Prediction : 2
+['SI1406_J_4']- Label : 1 Prediction : 2
+['SI1406_J_5']- Label : 1 Prediction : 2
+['SI1406_J_6']- Label : 1 Prediction : 2
+['SI1406_J_7']- Label : 1 Prediction : 2
+['SI1406_J_8']- Label : 1 Prediction : 2
+['SI1406_J_9']- Label : 1 Prediction : 0
+['SI1406_J_33']- Label : 1 Prediction : 0
+['SI1406_J_34']- Label : 1 Prediction : 0
+['SI1406_J_36']- Label : 1 Prediction : 0
+['SI1406_J_41']- Label : 1 Prediction : 0
+['SI1406_J_42']- Label : 1 Prediction : 0
+['SI1406_J_51']- Label : 1 Prediction : 3
+['SI1406_J_52']- Label : 1 Prediction : 2
+['SI1406_J_53']- Label : 1 Prediction : 2
+['SI1406_J_54']- Label : 1 Prediction : 2
+['SI1406_J_55']- Label : 1 Prediction : 2
+['SI1406_J_56']- Label : 1 Prediction : 4
+['SI1406_J_61']- Label : 1 Prediction : 3
+['SI1406_J_62']- Label : 1 Prediction : 4
+['SI1406_J_63']- Label : 1 Prediction : 3
+['SI1406_J_65']- Label : 1 Prediction : 3
+['SI1406_J_66']- Label : 1 Prediction : 4
+['SI1406_J_67']- Label : 1 Prediction : 0
+['SI1406_J_69']- Label : 1 Prediction : 2
+['SX159_J_0']- Label : 2 Prediction : 4
+['SX159_J_1']- Label : 2 Prediction : 4
+['SX159_J_2']- Label : 2 Prediction : 1
+['SX159_J_3']- Label : 2 Prediction : 3
+['SX159_J_4']- Label : 2 Prediction : 3
+['SX159_J_5']- Label : 2 Prediction : 3
+['SX159_J_6']- Label : 2 Prediction : 3
+['SX159_J_7']- Label : 2 Prediction : 1
+['SX159_J_8']- Label : 2 Prediction : 1
+['SX159_J_9']- Label : 2 Prediction : 1
+['SX159_J_10']- Label : 2 Prediction : 3
+['SX159_J_11']- Label : 2 Prediction : 3
+['SX159_J_12']- Label : 2 Prediction : 3
+['SX159_J_16']- Label : 2 Prediction : 3
+['SX159_J_17']- Label : 2 Prediction : 3
+['SX159_J_18']- Label : 2 Prediction : 0
+['SX159_J_19']- Label : 2 Prediction : 1
+['SX159_J_20']- Label : 2 Prediction : 1
+['SX159_J_21']- Label : 2 Prediction : 0
+['SX159_J_22']- Label : 2 Prediction : 1
+['SX159_J_23']- Label : 2 Prediction : 3
+['SX159_J_24']- Label : 2 Prediction : 4
+['SX159_J_25']- Label : 2 Prediction : 3
+['SX159_J_26']- Label : 2 Prediction : 1
+['SX159_J_28']- Label : 2 Prediction : 1
+['SX159_J_29']- Label : 2 Prediction : 1
+['SX159_J_30']- Label : 2 Prediction : 1
+['SX159_J_31']- Label : 2 Prediction : 1
+['SX159_J_32']- Label : 2 Prediction : 4
+['SX159_J_33']- Label : 2 Prediction : 4
+['SX159_J_34']- Label : 2 Prediction : 4
+['SX159_J_35']- Label : 2 Prediction : 4
+['SX159_J_36']- Label : 2 Prediction : 4
+['SX159_J_38']- Label : 2 Prediction : 4
+['SX159_J_39']- Label : 2 Prediction : 4
+['SX159_J_40']- Label : 2 Prediction : 4
+['SX159_J_41']- Label : 2 Prediction : 4
+['SX159_J_42']- Label : 2 Prediction : 4
+['SX159_J_43']- Label : 2 Prediction : 4
+['SX159_J_46']- Label : 2 Prediction : 4
+['SX159_J_47']- Label : 2 Prediction : 4
+['SX159_J_48']- Label : 2 Prediction : 4
+['SX159_J_49']- Label : 2 Prediction : 4
+['SX159_J_50']- Label : 2 Prediction : 4
+['SX159_J_51']- Label : 2 Prediction : 4
+['SX159_J_52']- Label : 2 Prediction : 4
+['SX159_J_53']- Label : 2 Prediction : 4
+['SX159_J_54']- Label : 2 Prediction : 1
+['SX159_J_55']- Label : 2 Prediction : 1
+['SX159_J_56']- Label : 2 Prediction : 3
+['SX159_J_57']- Label : 2 Prediction : 1
+['SX159_J_58']- Label : 2 Prediction : 3
+['SX159_J_59']- Label : 2 Prediction : 3
+['SX159_J_60']- Label : 2 Prediction : 3
+['SX159_J_61']- Label : 2 Prediction : 3
+['SX159_J_62']- Label : 2 Prediction : 3
+['SX159_J_63']- Label : 2 Prediction : 1
+['SX159_J_64']- Label : 2 Prediction : 3
+['SX159_J_65']- Label : 2 Prediction : 3
+['SX159_J_66']- Label : 2 Prediction : 1
+['SX159_J_67']- Label : 2 Prediction : 3
+['SX159_J_68']- Label : 2 Prediction : 3
+['SX158_J_0']- Label : 4 Prediction : 3
+['SX158_J_2']- Label : 4 Prediction : 2
+['SX158_J_3']- Label : 4 Prediction : 2
+['SX158_J_4']- Label : 4 Prediction : 2
+['SX158_J_9']- Label : 4 Prediction : 2
+['SX158_J_10']- Label : 4 Prediction : 2
+['SX158_J_11']- Label : 4 Prediction : 2
+['SX158_J_12']- Label : 4 Prediction : 3
+['SX158_J_14']- Label : 4 Prediction : 1
+['SX158_J_15']- Label : 4 Prediction : 1
+['SX158_J_16']- Label : 4 Prediction : 1
+['SX158_J_17']- Label : 4 Prediction : 1
+['SX158_J_19']- Label : 4 Prediction : 1
+['SX158_J_20']- Label : 4 Prediction : 1
+['SX158_J_21']- Label : 4 Prediction : 1
+['SX158_J_22']- Label : 4 Prediction : 1
+['SX158_J_23']- Label : 4 Prediction : 1
+['SX158_J_24']- Label : 4 Prediction : 3
+['SX158_J_25']- Label : 4 Prediction : 1
+['SX158_J_26']- Label : 4 Prediction : 3
+['SX158_J_36']- Label : 4 Prediction : 2
+['SX158_J_37']- Label : 4 Prediction : 2
+['SX158_J_51']- Label : 4 Prediction : 1
+['SX158_J_53']- Label : 4 Prediction : 3
+['SX158_J_54']- Label : 4 Prediction : 1
+['SX158_J_55']- Label : 4 Prediction : 3
+['SX158_J_56']- Label : 4 Prediction : 3
+['SX158_J_57']- Label : 4 Prediction : 3
+['SX158_J_58']- Label : 4 Prediction : 3
+['SX158_J_59']- Label : 4 Prediction : 3
+['SX158_J_60']- Label : 4 Prediction : 3
+['SX158_J_61']- Label : 4 Prediction : 1
+['SX158_J_62']- Label : 4 Prediction : 1
+['SX158_J_68']- Label : 4 Prediction : 3
+
+Data : MIS_f0_j70_0000000001010_SR16kHz_bunnytoy: test set 10
+Majority Vote Score :0.25
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :7 min
+===================================================================
+

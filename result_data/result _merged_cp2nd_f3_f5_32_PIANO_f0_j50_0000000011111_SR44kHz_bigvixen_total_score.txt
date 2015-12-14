@@ -1,0 +1,37 @@
+Data : PIANO_f0_j50_0000000011111_SR44kHz_bigvixen: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.450588226318
+0.43166667223
+0.395428568125
+0.419444441795
+0.43888887763
+0.451176464558
+0.484705895185
+0.377222210169
+0.451666653156
+0.447428584099
+Major Voting Scores :
+0.450588226318
+0.43166667223
+0.395428568125
+0.419444441795
+0.43888887763
+0.451176464558
+0.484705895185
+0.377222210169
+0.451666653156
+0.447428584099
+Standard deviation of the scores :0.0356752
+Average of the scores :0.295215
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f03b5146b50>
+
+Total Elapsed Time :397 min

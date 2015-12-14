@@ -1,0 +1,337 @@
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0566460455421
+ Test accuracy:0.984803921569
+
+Epoch :10
+List of the incorrect predictions 
+['song#001_J_5']- Label : 0 Prediction : 1
+['song#001_J_76']- Label : 0 Prediction : 1
+['song#040_J_5']- Label : 0 Prediction : 1
+['song#055_J_1']- Label : 0 Prediction : 1
+['song#055_J_26']- Label : 0 Prediction : 1
+['song#072_J_70']- Label : 0 Prediction : 1
+['bus08_J_15']- Label : 1 Prediction : 0
+['bus08_J_17']- Label : 1 Prediction : 0
+['bus08_J_18']- Label : 1 Prediction : 0
+['bus08_J_24']- Label : 1 Prediction : 0
+['bus08_J_27']- Label : 1 Prediction : 0
+['bus08_J_30']- Label : 1 Prediction : 0
+['bus08_J_31']- Label : 1 Prediction : 0
+['bus08_J_32']- Label : 1 Prediction : 0
+['bus08_J_44']- Label : 1 Prediction : 0
+['bus08_J_45']- Label : 1 Prediction : 0
+['openairmarket02_J_79']- Label : 1 Prediction : 0
+['supermarket05_J_2']- Label : 1 Prediction : 0
+['supermarket05_J_11']- Label : 1 Prediction : 0
+['supermarket05_J_14']- Label : 1 Prediction : 0
+['supermarket05_J_18']- Label : 1 Prediction : 0
+['supermarket05_J_53']- Label : 1 Prediction : 0
+['supermarket05_J_86']- Label : 1 Prediction : 0
+['tube08_J_12']- Label : 1 Prediction : 0
+['tubestation05_J_80']- Label : 1 Prediction : 0
+['tubestation05_J_81']- Label : 1 Prediction : 0
+['tubestation05_J_82']- Label : 1 Prediction : 0
+['tubestation05_J_83']- Label : 1 Prediction : 0
+['tubestation05_J_97']- Label : 1 Prediction : 0
+['tubestation05_J_99']- Label : 1 Prediction : 0
+['tubestation05_J_100']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+Majority Vote Score :0.8
+
+Patience :5
+Batch Size :128
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :22 min
+===================================================================
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0566460455421
+ Test accuracy:0.984803921569
+
+Epoch :10
+List of the incorrect predictions 
+['song#001_J_5']- Label : 0 Prediction : 1
+['song#001_J_76']- Label : 0 Prediction : 1
+['song#040_J_5']- Label : 0 Prediction : 1
+['song#055_J_1']- Label : 0 Prediction : 1
+['song#055_J_26']- Label : 0 Prediction : 1
+['song#072_J_70']- Label : 0 Prediction : 1
+['bus08_J_15']- Label : 1 Prediction : 0
+['bus08_J_17']- Label : 1 Prediction : 0
+['bus08_J_18']- Label : 1 Prediction : 0
+['bus08_J_24']- Label : 1 Prediction : 0
+['bus08_J_27']- Label : 1 Prediction : 0
+['bus08_J_30']- Label : 1 Prediction : 0
+['bus08_J_31']- Label : 1 Prediction : 0
+['bus08_J_32']- Label : 1 Prediction : 0
+['bus08_J_44']- Label : 1 Prediction : 0
+['bus08_J_45']- Label : 1 Prediction : 0
+['openairmarket02_J_79']- Label : 1 Prediction : 0
+['supermarket05_J_2']- Label : 1 Prediction : 0
+['supermarket05_J_11']- Label : 1 Prediction : 0
+['supermarket05_J_14']- Label : 1 Prediction : 0
+['supermarket05_J_18']- Label : 1 Prediction : 0
+['supermarket05_J_53']- Label : 1 Prediction : 0
+['supermarket05_J_86']- Label : 1 Prediction : 0
+['tube08_J_12']- Label : 1 Prediction : 0
+['tubestation05_J_80']- Label : 1 Prediction : 0
+['tubestation05_J_81']- Label : 1 Prediction : 0
+['tubestation05_J_82']- Label : 1 Prediction : 0
+['tubestation05_J_83']- Label : 1 Prediction : 0
+['tubestation05_J_97']- Label : 1 Prediction : 0
+['tubestation05_J_99']- Label : 1 Prediction : 0
+['tubestation05_J_100']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+Majority Vote Score :0.8
+
+Patience :5
+Batch Size :128
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :44 min
+===================================================================
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0388792455635
+ Test accuracy:0.988725490196
+
+Epoch :30
+List of the incorrect predictions 
+['song#001_J_1']- Label : 0 Prediction : 1
+['song#001_J_5']- Label : 0 Prediction : 1
+['song#001_J_30']- Label : 0 Prediction : 1
+['song#001_J_76']- Label : 0 Prediction : 1
+['song#001_J_78']- Label : 0 Prediction : 1
+['song#022_J_0']- Label : 0 Prediction : 1
+['song#055_J_1']- Label : 0 Prediction : 1
+['song#055_J_26']- Label : 0 Prediction : 1
+['song#072_J_50']- Label : 0 Prediction : 1
+['bus08_J_15']- Label : 1 Prediction : 0
+['bus08_J_18']- Label : 1 Prediction : 0
+['bus08_J_23']- Label : 1 Prediction : 0
+['bus08_J_24']- Label : 1 Prediction : 0
+['bus08_J_25']- Label : 1 Prediction : 0
+['bus08_J_27']- Label : 1 Prediction : 0
+['bus08_J_30']- Label : 1 Prediction : 0
+['bus08_J_32']- Label : 1 Prediction : 0
+['bus08_J_44']- Label : 1 Prediction : 0
+['supermarket05_J_2']- Label : 1 Prediction : 0
+['tube08_J_12']- Label : 1 Prediction : 0
+['tubestation05_J_80']- Label : 1 Prediction : 0
+['tubestation05_J_81']- Label : 1 Prediction : 0
+['tubestation05_J_82']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+Majority Vote Score :0.8
+
+Patience :5
+Batch Size :256
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :83 min
+===================================================================
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.0541709162408
+ Test accuracy:0.987254901961
+
+Epoch :10
+List of the incorrect predictions 
+['song#001_J_1']- Label : 0 Prediction : 1
+['song#001_J_5']- Label : 0 Prediction : 1
+['song#001_J_76']- Label : 0 Prediction : 1
+['song#001_J_78']- Label : 0 Prediction : 1
+['song#022_J_0']- Label : 0 Prediction : 1
+['song#055_J_26']- Label : 0 Prediction : 1
+['bus08_J_15']- Label : 1 Prediction : 0
+['bus08_J_17']- Label : 1 Prediction : 0
+['bus08_J_23']- Label : 1 Prediction : 0
+['bus08_J_25']- Label : 1 Prediction : 0
+['bus08_J_30']- Label : 1 Prediction : 0
+['bus08_J_32']- Label : 1 Prediction : 0
+['bus08_J_44']- Label : 1 Prediction : 0
+['bus08_J_45']- Label : 1 Prediction : 0
+['openairmarket02_J_79']- Label : 1 Prediction : 0
+['openairmarket02_J_101']- Label : 1 Prediction : 0
+['supermarket05_J_2']- Label : 1 Prediction : 0
+['supermarket05_J_11']- Label : 1 Prediction : 0
+['supermarket05_J_53']- Label : 1 Prediction : 0
+['supermarket05_J_86']- Label : 1 Prediction : 0
+['tube08_J_2']- Label : 1 Prediction : 0
+['tube08_J_12']- Label : 1 Prediction : 0
+['tubestation05_J_80']- Label : 1 Prediction : 0
+['tubestation05_J_81']- Label : 1 Prediction : 0
+['tubestation05_J_82']- Label : 1 Prediction : 0
+['tubestation05_J_99']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 1
+Majority Vote Score :0.85
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :19 min
+===================================================================
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 2
+
+Note : Valid set = Valid set version
+ Test score:0.0494627064418
+ Test accuracy:0.978431372549
+
+Epoch :10
+List of the incorrect predictions 
+['song#006_J_76']- Label : 0 Prediction : 1
+['song#017_J_6']- Label : 0 Prediction : 1
+['song#017_J_11']- Label : 0 Prediction : 1
+['song#017_J_14']- Label : 0 Prediction : 1
+['song#017_J_37']- Label : 0 Prediction : 1
+['song#017_J_46']- Label : 0 Prediction : 1
+['song#017_J_49']- Label : 0 Prediction : 1
+['song#017_J_50']- Label : 0 Prediction : 1
+['song#021_J_15']- Label : 0 Prediction : 1
+['song#021_J_26']- Label : 0 Prediction : 1
+['song#048_J_1']- Label : 0 Prediction : 1
+['song#048_J_25']- Label : 0 Prediction : 1
+['song#048_J_27']- Label : 0 Prediction : 1
+['song#048_J_28']- Label : 0 Prediction : 1
+['song#048_J_29']- Label : 0 Prediction : 1
+['song#048_J_30']- Label : 0 Prediction : 1
+['song#048_J_44']- Label : 0 Prediction : 1
+['song#048_J_60']- Label : 0 Prediction : 1
+['song#048_J_88']- Label : 0 Prediction : 1
+['song#048_J_93']- Label : 0 Prediction : 1
+['song#053_J_7']- Label : 0 Prediction : 1
+['song#053_J_9']- Label : 0 Prediction : 1
+['song#053_J_12']- Label : 0 Prediction : 1
+['song#070_J_14']- Label : 0 Prediction : 1
+['song#070_J_28']- Label : 0 Prediction : 1
+['song#070_J_35']- Label : 0 Prediction : 1
+['song#070_J_87']- Label : 0 Prediction : 1
+['song#070_J_101']- Label : 0 Prediction : 1
+['song#073_J_24']- Label : 0 Prediction : 1
+['song#073_J_26']- Label : 0 Prediction : 1
+['song#086_J_13']- Label : 0 Prediction : 1
+['song#086_J_27']- Label : 0 Prediction : 1
+['song#086_J_41']- Label : 0 Prediction : 1
+['song#086_J_53']- Label : 0 Prediction : 1
+['song#086_J_54']- Label : 0 Prediction : 1
+['song#086_J_61']- Label : 0 Prediction : 1
+['song#086_J_74']- Label : 0 Prediction : 1
+['song#086_J_82']- Label : 0 Prediction : 1
+['song#086_J_94']- Label : 0 Prediction : 1
+['song#093_J_43']- Label : 0 Prediction : 1
+['song#093_J_55']- Label : 0 Prediction : 1
+['song#093_J_62']- Label : 0 Prediction : 1
+['openairmarket01_J_34']- Label : 1 Prediction : 0
+['openairmarket01_J_43']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 2
+Majority Vote Score :0.55
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :19 min
+===================================================================
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 3
+
+Note : Valid set = Valid set version
+ Test score:0.0496546705442
+ Test accuracy:0.98137254902
+
+Epoch :10
+List of the incorrect predictions 
+['song#003_J_4']- Label : 0 Prediction : 1
+['song#003_J_52']- Label : 0 Prediction : 1
+['song#003_J_97']- Label : 0 Prediction : 1
+['song#020_J_2']- Label : 0 Prediction : 1
+['song#020_J_16']- Label : 0 Prediction : 1
+['song#020_J_21']- Label : 0 Prediction : 1
+['song#020_J_31']- Label : 0 Prediction : 1
+['song#020_J_35']- Label : 0 Prediction : 1
+['song#020_J_38']- Label : 0 Prediction : 1
+['song#020_J_40']- Label : 0 Prediction : 1
+['song#020_J_46']- Label : 0 Prediction : 1
+['song#020_J_94']- Label : 0 Prediction : 1
+['song#020_J_96']- Label : 0 Prediction : 1
+['song#026_J_33']- Label : 0 Prediction : 1
+['song#026_J_45']- Label : 0 Prediction : 1
+['song#026_J_49']- Label : 0 Prediction : 1
+['song#075_J_0']- Label : 0 Prediction : 1
+['song#075_J_6']- Label : 0 Prediction : 1
+['song#075_J_10']- Label : 0 Prediction : 1
+['song#089_J_6']- Label : 0 Prediction : 1
+['song#096_J_25']- Label : 0 Prediction : 1
+['song#096_J_29']- Label : 0 Prediction : 1
+['song#096_J_37']- Label : 0 Prediction : 1
+['song#096_J_41']- Label : 0 Prediction : 1
+['office04_J_33']- Label : 1 Prediction : 0
+['office04_J_46']- Label : 1 Prediction : 0
+['openairmarket03_J_13']- Label : 1 Prediction : 0
+['restaurant09_J_7']- Label : 1 Prediction : 0
+['restaurant09_J_58']- Label : 1 Prediction : 0
+['restaurant09_J_64']- Label : 1 Prediction : 0
+['restaurant09_J_70']- Label : 1 Prediction : 0
+['restaurant09_J_71']- Label : 1 Prediction : 0
+['restaurant09_J_76']- Label : 1 Prediction : 0
+['restaurant09_J_86']- Label : 1 Prediction : 0
+['restaurant09_J_87']- Label : 1 Prediction : 0
+['restaurant09_J_88']- Label : 1 Prediction : 0
+['tube04_J_13']- Label : 1 Prediction : 0
+['tube04_J_17']- Label : 1 Prediction : 0
+
+Data : NNM_cla_ss_1_6_j102_0000000000002_SR11kHz_bigshep: test set 3
+Majority Vote Score :0.7
+
+Patience :10
+Batch Size :32
+nb_epoch :10
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :19 min
+===================================================================
+

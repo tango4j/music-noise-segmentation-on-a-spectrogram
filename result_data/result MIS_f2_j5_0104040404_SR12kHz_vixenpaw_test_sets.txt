@@ -1,0 +1,123 @@
+Data : MIS_f2_j5_0104040404_SR12kHz_vixenpaw: test set 1
+
+ Test score:0.191687080083
+ Test accuracy:0.946153846154
+
+Epoch :100
+List of the incorrect predictions 
+['Violin.arco.ff.sulA.Eb6.stereo_J_0']- Label : 0 Prediction : 1
+['Violin.arco.ff.sulA.Eb6.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.arco.ff.sulD.Ab5.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.arco.ff.sulD.D4.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.arco.ff.sulD.D4.stereo_J_3']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Bb4.stereo_J_0']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Bb4.stereo_J_1']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Bb4.stereo_J_4']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Db5.stereo_J_0']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Db5.stereo_J_1']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Db5.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Db5.stereo_J_3']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Db5.stereo_J_4']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulD.D5.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.Eb4.stereo_J_0']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.Eb4.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.Eb4.stereo_J_4']- Label : 0 Prediction : 1
+['Viola.arco.ff.sulG.D5.stereo_J_0']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulG.D5.stereo_J_4']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulC.Gb3.stereo_J_1']- Label : 1 Prediction : 3
+['Cello.pizz.ff.sulA.Eb4.stereo_J_4']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.961538461538
+===================================================================
+
+Data : MIS_f2_j5_0104040404_SR12kHz_vixenpaw: test set 2
+
+ Test score:0.341553509952
+ Test accuracy:0.86835443038
+
+Epoch :100
+List of the incorrect predictions 
+['Violin.arco.ff.sulA.Db5.stereo_J_0']- Label : 0 Prediction : 3
+['Violin.pizz.ff.sulA.B4.stereo_J_0']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.B4.stereo_J_1']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.B4.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.B4.stereo_J_3']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.B4.stereo_J_4']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Gb5.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Gb5.stereo_J_3']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulA.Gb5.stereo_J_4']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.G3.stereo_J_1']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.G3.stereo_J_2']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.G3.stereo_J_3']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.G3.stereo_J_4']- Label : 0 Prediction : 1
+['Viola.arco.ff.sulA.C5.stereo_J_0']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulA.C5.stereo_J_1']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulA.C5.stereo_J_2']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulA.C5.stereo_J_3']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulA.C5.stereo_J_4']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulA.F6.stereo_J_0']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulA.F6.stereo_J_1']- Label : 1 Prediction : 0
+['Viola.arco.ff.sulA.F6.stereo_J_4']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulA.E6.stereo_J_0']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulA.E6.stereo_J_1']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulA.Gb5.stereo_J_0']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulA.Gb5.stereo_J_4']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulC.Bb4.stereo_J_1']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulC.Bb4.stereo_J_2']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulC.Bb4.stereo_J_3']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulC.Eb3.stereo_J_1']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulC.Eb3.stereo_J_2']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulC.Eb3.stereo_J_4']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulD.Ab5.stereo_J_0']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulD.Ab5.stereo_J_1']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulD.Ab5.stereo_J_2']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulD.Ab5.stereo_J_3']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulD.E5.stereo_J_3']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulG.Gb4.stereo_J_0']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulG.Gb4.stereo_J_1']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulG.Gb4.stereo_J_2']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulG.Gb4.stereo_J_3']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulG.Gb4.stereo_J_4']- Label : 1 Prediction : 0
+['Bass.arco.ff.sulG.Db3.stereo_J_4']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulA.G3.stereo_J_3']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulD.A3.stereo_J_2']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulD.D4.stereo_J_0']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulD.D4.stereo_J_1']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulD.D4.stereo_J_2']- Label : 2 Prediction : 3
+['Cello.pizz.ff.sulA.A3.stereo_J_0']- Label : 3 Prediction : 2
+['Cello.pizz.ff.sulA.G5.stereo_J_0']- Label : 3 Prediction : 0
+['Cello.pizz.ff.sulA.G5.stereo_J_1']- Label : 3 Prediction : 1
+['Cello.pizz.ff.sulA.G5.stereo_J_2']- Label : 3 Prediction : 1
+['Cello.pizz.ff.sulA.G5.stereo_J_4']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.860759493671
+===================================================================
+
+Data : MIS_f2_j5_0104040404_SR12kHz_vixenpaw: test set 3
+
+ Test score:0.127884512912
+ Test accuracy:0.956962025316
+
+Epoch :100
+List of the incorrect predictions 
+['Violin.pizz.ff.sulA.Db6.stereo_J_4']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.E4.stereo_J_0']- Label : 0 Prediction : 3
+['Violin.pizz.ff.sulG.E4.stereo_J_1']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.E4.stereo_J_3']- Label : 0 Prediction : 1
+['Violin.pizz.ff.sulG.E4.stereo_J_4']- Label : 0 Prediction : 3
+['Viola.pizz.ff.sulA.A5.stereo_J_3']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulC.Db4.stereo_J_1']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulD.E4.stereo_J_2']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulD.E4.stereo_J_3']- Label : 1 Prediction : 3
+['Viola.pizz.ff.sulG.Eb5.stereo_J_1']- Label : 1 Prediction : 0
+['Viola.pizz.ff.sulG.Eb5.stereo_J_2']- Label : 1 Prediction : 0
+['Bass.pizz.ff.sulD.B3.stereo_J_3']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulE.A2.stereo_J_0']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulE.A2.stereo_J_1']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulE.A2.stereo_J_2']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulG.F4.stereo_J_1']- Label : 2 Prediction : 3
+['Cello.pizz.ff.sulD.D5.stereo_J_3']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.974683544304
+===================================================================
+

@@ -1,0 +1,34 @@
+Data : data_j1_01040404_SR16kHz_NOA_itv_512: test sets [1 6 9]
+
+Total scores :
+0.929936289787
+0.0
+0.0
+0.0
+0.0
+0.898734152317
+0.0
+0.0
+0.909090936184
+0.0
+Variance of the scores :0.174942
+Average of the scores :0.273776
+
+
+Data : data_j1_01040404_SR16kHz_NOA_itv_512: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Total scores :
+0.929936289787
+0.987804889679
+0.962686538696
+0.925925910473
+0.937007844448
+0.8734177351
+0.914110422134
+0.92253524065
+0.925619840622
+0.951724112034
+Variance of the scores :0.000838173
+Average of the scores :0.933077
+
+

@@ -1,0 +1,307 @@
+family : 1
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 1
+
+ Test score:0.333616167307
+ Test accuracy:0.86
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.Eb2.stereo_J_1']- Label : 0 Prediction : 2
+['Tuba.ff.Eb2.stereo_J_2']- Label : 0 Prediction : 2
+['Tuba.ff.G3.stereo_J_1']- Label : 0 Prediction : 4
+['Tuba.ff.G3.stereo_J_3']- Label : 0 Prediction : 4
+['Horn.ff.C2.stereo_J_0']- Label : 2 Prediction : 4
+['Horn.ff.C2.stereo_J_1']- Label : 2 Prediction : 4
+['Horn.ff.C2.stereo_J_3']- Label : 2 Prediction : 0
+['Horn.ff.C2.stereo_J_4']- Label : 2 Prediction : 0
+['BassTrombone.ff.Bb2.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.Bb2.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.Bb2.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.Bb2.stereo_J_3']- Label : 4 Prediction : 2
+['BassTrombone.ff.Db2.stereo_J_2']- Label : 4 Prediction : 0
+['BassTrombone.ff.Db2.stereo_J_4']- Label : 4 Prediction : 0
+
+ Majority Vote Score :0.9
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 2
+
+ Test score:0.523005306721
+ Test accuracy:0.790476190476
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.B1.stereo_J_0']- Label : 0 Prediction : 4
+['Tuba.ff.B1.stereo_J_1']- Label : 0 Prediction : 4
+['Tuba.ff.B1.stereo_J_2']- Label : 0 Prediction : 4
+['Tuba.ff.B1.stereo_J_3']- Label : 0 Prediction : 4
+['Tuba.ff.B1.stereo_J_4']- Label : 0 Prediction : 4
+['Tuba.ff.E2.stereo_J_0']- Label : 0 Prediction : 3
+['Tuba.ff.E2.stereo_J_3']- Label : 0 Prediction : 4
+['Tuba.ff.E2.stereo_J_4']- Label : 0 Prediction : 3
+['Horn.ff.C3.stereo_J_4']- Label : 2 Prediction : 0
+['TenorTrombone.ff.B2.stereo_J_1']- Label : 3 Prediction : 4
+['TenorTrombone.ff.B2.stereo_J_2']- Label : 3 Prediction : 4
+['TenorTrombone.ff.B2.stereo_J_3']- Label : 3 Prediction : 4
+['TenorTrombone.ff.E2.stereo_J_0']- Label : 3 Prediction : 2
+['TenorTrombone.ff.E2.stereo_J_1']- Label : 3 Prediction : 2
+['TenorTrombone.ff.E2.stereo_J_2']- Label : 3 Prediction : 4
+['TenorTrombone.ff.E2.stereo_J_3']- Label : 3 Prediction : 2
+['TenorTrombone.ff.E2.stereo_J_4']- Label : 3 Prediction : 2
+['BassTrombone.ff.Eb3.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.Eb3.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.Eb3.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.Eb3.stereo_J_3']- Label : 4 Prediction : 3
+['BassTrombone.ff.Eb3.stereo_J_4']- Label : 4 Prediction : 3
+
+ Majority Vote Score :0.809523809524
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 3
+
+ Test score:0.414028704166
+ Test accuracy:0.854545454545
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.C3.stereo_J_2']- Label : 0 Prediction : 3
+['Tuba.ff.C3.stereo_J_3']- Label : 0 Prediction : 3
+['Tuba.ff.Eb1.stereo_J_3']- Label : 0 Prediction : 4
+['Tuba.ff.G2.stereo_J_0']- Label : 0 Prediction : 2
+['Tuba.ff.G2.stereo_J_1']- Label : 0 Prediction : 2
+['Tuba.ff.G2.stereo_J_2']- Label : 0 Prediction : 2
+['Tuba.ff.G2.stereo_J_3']- Label : 0 Prediction : 2
+['Tuba.ff.G2.stereo_J_4']- Label : 0 Prediction : 2
+['TenorTrombone.ff.F2.stereo_J_0']- Label : 3 Prediction : 4
+['TenorTrombone.ff.F2.stereo_J_1']- Label : 3 Prediction : 4
+['TenorTrombone.ff.F2.stereo_J_2']- Label : 3 Prediction : 4
+['TenorTrombone.ff.F2.stereo_J_3']- Label : 3 Prediction : 4
+['TenorTrombone.ff.F2.stereo_J_4']- Label : 3 Prediction : 4
+['BassTrombone.ff.Db1.stereo_J_0']- Label : 4 Prediction : 0
+['BassTrombone.ff.Db1.stereo_J_1']- Label : 4 Prediction : 0
+['BassTrombone.ff.Db1.stereo_J_2']- Label : 4 Prediction : 0
+
+ Majority Vote Score :0.863636363636
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 4
+
+ Test score:0.495654165745
+ Test accuracy:0.790909090909
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.Bb1.stereo_J_0']- Label : 0 Prediction : 4
+['Tuba.ff.Bb1.stereo_J_1']- Label : 0 Prediction : 4
+['Tuba.ff.Bb1.stereo_J_2']- Label : 0 Prediction : 4
+['Tuba.ff.Bb1.stereo_J_3']- Label : 0 Prediction : 4
+['Tuba.ff.Bb1.stereo_J_4']- Label : 0 Prediction : 4
+['Tuba.ff.Db3.stereo_J_1']- Label : 0 Prediction : 3
+['Horn.ff.Bb1.stereo_J_0']- Label : 2 Prediction : 0
+['Horn.ff.Bb1.stereo_J_1']- Label : 2 Prediction : 0
+['Horn.ff.Bb1.stereo_J_2']- Label : 2 Prediction : 0
+['Horn.ff.Bb1.stereo_J_3']- Label : 2 Prediction : 0
+['Horn.ff.Bb1.stereo_J_4']- Label : 2 Prediction : 0
+['Horn.ff.Eb2.stereo_J_0']- Label : 2 Prediction : 3
+['Horn.ff.Eb2.stereo_J_1']- Label : 2 Prediction : 4
+['Horn.ff.Eb2.stereo_J_2']- Label : 2 Prediction : 4
+['Horn.ff.Eb2.stereo_J_3']- Label : 2 Prediction : 3
+['Horn.ff.Eb2.stereo_J_4']- Label : 2 Prediction : 3
+['BassTrombone.ff.A2.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.A2.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.A2.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.A2.stereo_J_3']- Label : 4 Prediction : 3
+['BassTrombone.ff.A2.stereo_J_4']- Label : 4 Prediction : 3
+['BassTrombone.ff.Eb2.stereo_J_0']- Label : 4 Prediction : 0
+['BassTrombone.ff.Eb2.stereo_J_4']- Label : 4 Prediction : 0
+
+ Majority Vote Score :0.818181818182
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 5
+
+ Test score:0.466318845749
+ Test accuracy:0.828571428571
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.D2.stereo_J_1']- Label : 0 Prediction : 2
+['Tuba.ff.Gb3.stereo_J_0']- Label : 0 Prediction : 3
+['Tuba.ff.Gb3.stereo_J_1']- Label : 0 Prediction : 3
+['Tuba.ff.Gb3.stereo_J_2']- Label : 0 Prediction : 3
+['Tuba.ff.Gb3.stereo_J_3']- Label : 0 Prediction : 3
+['Horn.ff.B2.stereo_J_0']- Label : 2 Prediction : 4
+['Horn.ff.B2.stereo_J_1']- Label : 2 Prediction : 4
+['Horn.ff.B2.stereo_J_2']- Label : 2 Prediction : 4
+['Horn.ff.B2.stereo_J_3']- Label : 2 Prediction : 4
+['Horn.ff.Bb2.stereo_J_1']- Label : 2 Prediction : 3
+['Horn.ff.Bb2.stereo_J_4']- Label : 2 Prediction : 3
+['TenorTrombone.ff.Ab4.stereo_J_4']- Label : 3 Prediction : 2
+['BassTrombone.ff.B1.stereo_J_0']- Label : 4 Prediction : 0
+['BassTrombone.ff.B1.stereo_J_4']- Label : 4 Prediction : 2
+['BassTrombone.ff.E2.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.E2.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.F2.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.F2.stereo_J_4']- Label : 4 Prediction : 3
+
+ Majority Vote Score :0.904761904762
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 6
+
+ Test score:0.397865563631
+ Test accuracy:0.914285714286
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.A2.stereo_J_0']- Label : 0 Prediction : 3
+['Tuba.ff.A2.stereo_J_1']- Label : 0 Prediction : 3
+['Tuba.ff.A2.stereo_J_2']- Label : 0 Prediction : 3
+['Tuba.ff.A2.stereo_J_4']- Label : 0 Prediction : 3
+['BassTrombone.ff.D1.stereo_J_0']- Label : 4 Prediction : 0
+['BassTrombone.ff.D1.stereo_J_1']- Label : 4 Prediction : 0
+['BassTrombone.ff.D1.stereo_J_2']- Label : 4 Prediction : 0
+['BassTrombone.ff.D1.stereo_J_3']- Label : 4 Prediction : 0
+['BassTrombone.ff.D1.stereo_J_4']- Label : 4 Prediction : 0
+
+ Majority Vote Score :0.904761904762
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 7
+
+ Test score:0.541360259056
+ Test accuracy:0.818181818182
+
+Epoch :100
+List of the incorrect predictions 
+['Horn.ff.Ab2.stereo_J_0']- Label : 2 Prediction : 3
+['Horn.ff.Ab2.stereo_J_1']- Label : 2 Prediction : 3
+['Horn.ff.Ab2.stereo_J_2']- Label : 2 Prediction : 0
+['Horn.ff.Ab2.stereo_J_3']- Label : 2 Prediction : 0
+['Horn.ff.Ab2.stereo_J_4']- Label : 2 Prediction : 3
+['Horn.ff.E2.stereo_J_1']- Label : 2 Prediction : 3
+['Horn.ff.E2.stereo_J_2']- Label : 2 Prediction : 3
+['Horn.ff.E2.stereo_J_3']- Label : 2 Prediction : 3
+['Horn.ff.F2.stereo_J_0']- Label : 2 Prediction : 3
+['Horn.ff.F2.stereo_J_1']- Label : 2 Prediction : 3
+['Horn.ff.F2.stereo_J_2']- Label : 2 Prediction : 4
+['Horn.ff.F2.stereo_J_3']- Label : 2 Prediction : 4
+['Horn.ff.F2.stereo_J_4']- Label : 2 Prediction : 3
+['TenorTrombone.ff.G2.stereo_J_0']- Label : 3 Prediction : 2
+['TenorTrombone.ff.G2.stereo_J_2']- Label : 3 Prediction : 2
+['TenorTrombone.ff.G2.stereo_J_3']- Label : 3 Prediction : 4
+['TenorTrombone.ff.G2.stereo_J_4']- Label : 3 Prediction : 2
+['TenorTrombone.ff.Gb3.stereo_J_0']- Label : 3 Prediction : 2
+['TenorTrombone.ff.Gb3.stereo_J_1']- Label : 3 Prediction : 2
+['TenorTrombone.ff.Gb3.stereo_J_2']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.772727272727
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 8
+
+ Test score:0.500919044018
+ Test accuracy:0.75652173913
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.B2.stereo_J_0']- Label : 0 Prediction : 2
+['Tuba.ff.B2.stereo_J_1']- Label : 0 Prediction : 3
+['Tuba.ff.B2.stereo_J_2']- Label : 0 Prediction : 2
+['Tuba.ff.B2.stereo_J_3']- Label : 0 Prediction : 3
+['Tuba.ff.B2.stereo_J_4']- Label : 0 Prediction : 2
+['Tuba.ff.Bb2.stereo_J_0']- Label : 0 Prediction : 3
+['Tuba.ff.Bb2.stereo_J_1']- Label : 0 Prediction : 3
+['Tuba.ff.Bb2.stereo_J_2']- Label : 0 Prediction : 3
+['Tuba.ff.Bb2.stereo_J_3']- Label : 0 Prediction : 3
+['Tuba.ff.Bb2.stereo_J_4']- Label : 0 Prediction : 3
+['Tuba.ff.E3.stereo_J_0']- Label : 0 Prediction : 3
+['Tuba.ff.E3.stereo_J_1']- Label : 0 Prediction : 3
+['Tuba.ff.E3.stereo_J_2']- Label : 0 Prediction : 3
+['Tuba.ff.E3.stereo_J_3']- Label : 0 Prediction : 3
+['Tuba.ff.E3.stereo_J_4']- Label : 0 Prediction : 3
+['Tuba.ff.G1.stereo_J_3']- Label : 0 Prediction : 4
+['Trumpet.novib.ff.F3.stereo_J_4']- Label : 1 Prediction : 2
+['TenorTrombone.ff.A2.stereo_J_0']- Label : 3 Prediction : 2
+['TenorTrombone.ff.A2.stereo_J_1']- Label : 3 Prediction : 2
+['TenorTrombone.ff.A2.stereo_J_2']- Label : 3 Prediction : 4
+['TenorTrombone.ff.A2.stereo_J_3']- Label : 3 Prediction : 4
+['TenorTrombone.ff.C3.stereo_J_4']- Label : 3 Prediction : 4
+['BassTrombone.ff.B2.stereo_J_3']- Label : 4 Prediction : 0
+['BassTrombone.ff.D3.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.D3.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.D3.stereo_J_3']- Label : 4 Prediction : 3
+['BassTrombone.ff.G1.stereo_J_0']- Label : 4 Prediction : 0
+['BassTrombone.ff.G1.stereo_J_4']- Label : 4 Prediction : 0
+
+ Majority Vote Score :0.782608695652
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 9
+
+ Test score:0.768425762653
+ Test accuracy:0.76
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.A1.stereo_J_2']- Label : 0 Prediction : 4
+['Tuba.ff.A1.stereo_J_3']- Label : 0 Prediction : 4
+['Tuba.ff.Db2.stereo_J_2']- Label : 0 Prediction : 4
+['Tuba.ff.Db2.stereo_J_4']- Label : 0 Prediction : 2
+['Tuba.ff.Gb2.stereo_J_0']- Label : 0 Prediction : 3
+['Tuba.ff.Gb2.stereo_J_1']- Label : 0 Prediction : 3
+['Tuba.ff.Gb2.stereo_J_2']- Label : 0 Prediction : 3
+['Tuba.ff.Gb2.stereo_J_3']- Label : 0 Prediction : 3
+['Tuba.ff.Gb2.stereo_J_4']- Label : 0 Prediction : 3
+['Horn.ff.B1.stereo_J_0']- Label : 2 Prediction : 0
+['Horn.ff.B1.stereo_J_1']- Label : 2 Prediction : 0
+['Horn.ff.B1.stereo_J_2']- Label : 2 Prediction : 4
+['Horn.ff.B1.stereo_J_3']- Label : 2 Prediction : 0
+['Horn.ff.B1.stereo_J_4']- Label : 2 Prediction : 0
+['Horn.ff.Db2.stereo_J_0']- Label : 2 Prediction : 3
+['Horn.ff.Db2.stereo_J_1']- Label : 2 Prediction : 3
+['Horn.ff.Db2.stereo_J_2']- Label : 2 Prediction : 3
+['Horn.ff.Db2.stereo_J_3']- Label : 2 Prediction : 3
+['Horn.ff.Db2.stereo_J_4']- Label : 2 Prediction : 3
+['BassTrombone.ff.Db3.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.Db3.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.Db3.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.Db3.stereo_J_3']- Label : 4 Prediction : 3
+['BassTrombone.ff.Db3.stereo_J_4']- Label : 4 Prediction : 3
+
+ Majority Vote Score :0.8
+===================================================================
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 10
+
+ Test score:0.520090222359
+ Test accuracy:0.79
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.Ab2.stereo_J_0']- Label : 0 Prediction : 2
+['Tuba.ff.Ab2.stereo_J_1']- Label : 0 Prediction : 2
+['Tuba.ff.Ab2.stereo_J_4']- Label : 0 Prediction : 2
+['Tuba.ff.C2.stereo_J_2']- Label : 0 Prediction : 2
+['Tuba.ff.C2.stereo_J_3']- Label : 0 Prediction : 4
+['Tuba.ff.C2.stereo_J_4']- Label : 0 Prediction : 2
+['Horn.ff.D3.stereo_J_0']- Label : 2 Prediction : 3
+['Horn.ff.D3.stereo_J_1']- Label : 2 Prediction : 3
+['Horn.ff.D3.stereo_J_2']- Label : 2 Prediction : 3
+['Horn.ff.D3.stereo_J_3']- Label : 2 Prediction : 3
+['Horn.ff.D3.stereo_J_4']- Label : 2 Prediction : 3
+['TenorTrombone.ff.Db4.stereo_J_1']- Label : 3 Prediction : 0
+['BassTrombone.ff.C3.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.C3.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.C3.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.C3.stereo_J_3']- Label : 4 Prediction : 3
+['BassTrombone.ff.C3.stereo_J_4']- Label : 4 Prediction : 3
+['BassTrombone.ff.E1.stereo_J_0']- Label : 4 Prediction : 0
+['BassTrombone.ff.E1.stereo_J_1']- Label : 4 Prediction : 0
+['BassTrombone.ff.E1.stereo_J_2']- Label : 4 Prediction : 0
+['BassTrombone.ff.E1.stereo_J_3']- Label : 4 Prediction : 0
+
+ Majority Vote Score :0.8
+===================================================================
+

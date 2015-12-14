@@ -1,0 +1,15 @@
+Data : data_j1_01010101_SR8kHz_New_onset_alg: test set 10
+
+ Test score:0.094709046185
+ Test accuracy:0.972413793103
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.ff.Db1_J_0']- Label : 0 Prediction : 2
+['Piano.pp.E1_J_0']- Label : 0 Prediction : 2
+['Bass.pizz.ff.sulD.D2.stereo_J_0']- Label : 2 Prediction : 0
+['AltoFlute.vib.ff.Bb3.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.972413793103
+===================================================================
+

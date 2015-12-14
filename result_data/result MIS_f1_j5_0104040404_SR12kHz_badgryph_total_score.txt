@@ -1,0 +1,17 @@
+Data : MIS_f1_j5_0104040404_SR12kHz_badgryph: test sets [ 6  7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.857142865658
+1.0
+0.869565188885
+1.0
+1.0
+Standard deviation of the scores :0.475043
+Average of the scores :0.472671
+
+

@@ -1,0 +1,26 @@
+Data : MIS_f4_j7_8000008080808_SR44kHz_darkpig: test sets [ 1  2  3  4  5  6  7  8  9 10]
+
+Total scores :
+0.826589584351
+0.823863625526
+0.831395328045
+0.793103456497
+0.813953459263
+0.822857141495
+0.782857120037
+0.798850595951
+0.821229040623
+0.837209284306
+Standard deviation of the scores :0.0168809
+Average of the scores :0.815191
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[8, 8, 8, 8, 8, 8, 8, 8]
+filter_A :[5, 5, 5, 5, 5, 5]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7f63b88189d0>
+
+Total Elapsed Time :814 min

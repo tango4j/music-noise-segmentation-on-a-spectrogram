@@ -1,0 +1,18 @@
+Data : data_j1_01010101_SR12kHz_New_onset_alg
+
+ Test score:0.17257475853
+ Test accuracy:0.925619834711
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.pp.D6_J_0']- Label : 0 Prediction : 2
+['Piano.pp.F3_J_0']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.F4.stereo_J_0']- Label : 1 Prediction : 0
+['Violin.arco.ff.sulE.B6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulG.D4.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.pizz.ff.sulD.E4.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.E2.stereo_J_0']- Label : 2 Prediction : 0
+['Bassoon.ff.G3.stereo_J_0']- Label : 3 Prediction : 1
+['Flute.vib.ff.D4.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.925619834711

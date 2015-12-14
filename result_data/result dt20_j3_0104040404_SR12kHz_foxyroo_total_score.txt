@@ -1,0 +1,17 @@
+Data : dt20_j3_0104040404_SR12kHz_foxyroo: test sets 2
+
+Total scores :
+0.0
+0.808641970158
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.242593
+Average of the scores :0.0808642
+
+

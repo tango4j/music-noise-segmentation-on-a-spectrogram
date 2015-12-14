@@ -1,0 +1,17 @@
+Data : data_j3_0104040404_SR12kHz_wetfox: test sets [ 3  1  2  4  5  7  8 10]
+
+Total scores :
+0.974522292614
+0.957317054272
+0.977611958981
+0.977777779102
+0.984251976013
+0.0
+0.932515323162
+0.978873252869
+0.0
+0.94482755661
+Standard deviation of the scores :0.386707
+Average of the scores :0.77277
+
+

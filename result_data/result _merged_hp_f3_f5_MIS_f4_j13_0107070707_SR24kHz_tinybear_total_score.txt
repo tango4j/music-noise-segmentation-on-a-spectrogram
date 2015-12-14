@@ -1,0 +1,25 @@
+Data : MIS_f4_j13_0107070707_SR24kHz_tinybear: test sets [1 2 3 4]
+
+Total scores :
+0.872832357883
+0.880681812763
+0.87209302187
+0.844827592373
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.425126
+Average of the scores :0.347043
+
+Patience :7
+Batch Size :32
+Last Node :512
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+Filter3 :[3, 3, 3, 3, 3, 3]
+filter4 :[4, 4, 4, 4, 4, 4]
+Filter5 :[5, 5, 5, 5, 5, 5]
+Optimizer :RMSprop
+

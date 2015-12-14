@@ -1,0 +1,17 @@
+Data : MIS_f3_j5_0104040404_SR12kHz_greenpig: test sets 10
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.600000023842
+Standard deviation of the scores :0.18
+Average of the scores :0.06
+
+

@@ -1,0 +1,26 @@
+
+Data : MIS_f1_j5_0104040404_SR12kHz_vixenpaw: test set 1
+
+ Test score:0.333616167307
+ Test accuracy:0.86
+
+Epoch :100
+List of the incorrect predictions 
+['Tuba.ff.Eb2.stereo_J_1']- Label : 0 Prediction : 2
+['Tuba.ff.Eb2.stereo_J_2']- Label : 0 Prediction : 2
+['Tuba.ff.G3.stereo_J_1']- Label : 0 Prediction : 4
+['Tuba.ff.G3.stereo_J_3']- Label : 0 Prediction : 4
+['Horn.ff.C2.stereo_J_0']- Label : 2 Prediction : 4
+['Horn.ff.C2.stereo_J_1']- Label : 2 Prediction : 4
+['Horn.ff.C2.stereo_J_3']- Label : 2 Prediction : 0
+['Horn.ff.C2.stereo_J_4']- Label : 2 Prediction : 0
+['BassTrombone.ff.Bb2.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.Bb2.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.Bb2.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.Bb2.stereo_J_3']- Label : 4 Prediction : 2
+['BassTrombone.ff.Db2.stereo_J_2']- Label : 4 Prediction : 0
+['BassTrombone.ff.Db2.stereo_J_4']- Label : 4 Prediction : 0
+
+ Majority Vote Score :0.9
+===================================================================
+

@@ -1,0 +1,17 @@
+Data : MIS_f3_j5_0104040404_SR12kHz_redcat: test sets [ 5  6  7  8  9 10]
+
+Total scores :
+0.0
+0.0
+0.0
+0.0
+0.531914889812
+0.680851042271
+0.529411792755
+0.673913061619
+0.5
+0.644444465637
+Standard deviation of the scores :0.296394
+Average of the scores :0.356054
+
+

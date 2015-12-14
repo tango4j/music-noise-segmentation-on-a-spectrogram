@@ -1,0 +1,43 @@
+Data : MIS_f4_j13_8080808080808_SR44kHz_bigcat: test sets [ 3  4  5  6  7  8  9 10]
+
+Sample Scores :
+0.0
+0.0
+0.963774621487
+0.916887700558
+0.909212887287
+0.928791224957
+0.950329661369
+0.94252872467
+0.949720680714
+0.925760269165
+Standard deviation of the scores :0.374677
+Average of the scores :0.748701
+
+
+
+
+Major Voting Scores :
+0.0
+0.0
+0.953488349915
+0.908045947552
+0.901162803173
+0.931428551674
+0.931428551674
+0.948275864124
+0.938547492027
+0.930232584476
+Standard deviation of the scores :0.372436
+Average of the scores :0.744261
+
+Patience :10
+Batch Size :32
+nb_epoch :30
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :<keras.optimizers.SGD object at 0x7fba23789d10>
+
+Total Elapsed Time :665 min

@@ -1,0 +1,17 @@
+Data : data_j1_01010101_SR16kHz_New_onset_alg: test sets [1 2 3 4 5]
+
+Total scores :
+0.968152880669
+0.963414609432
+0.947761178017
+0.948148131371
+0.937007844448
+0.0
+0.0
+0.0
+0.0
+0.0
+Variance of the scores :0.227068
+Average of the scores :0.476448
+
+

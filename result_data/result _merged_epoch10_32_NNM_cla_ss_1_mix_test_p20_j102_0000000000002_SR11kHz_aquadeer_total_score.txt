@@ -1,0 +1,43 @@
+Data : NNM_cla_ss_1_mix_test_p20_j102_0000000000002_SR11kHz_aquadeer: test sets 1
+
+Sample Scores :
+0.855294108391
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.256588
+Average of the scores :0.0855294
+
+
+
+
+Major Voting Scores :
+0.0799999982119
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Standard deviation of the scores :0.024
+Average of the scores :0.008
+
+Patience :25
+Batch Size :256
+nb_epoch :25
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+Total Elapsed Time :46 min

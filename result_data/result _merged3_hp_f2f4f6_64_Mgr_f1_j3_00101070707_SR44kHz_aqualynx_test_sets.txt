@@ -1,0 +1,134 @@
+Data : Mgr_f1_j3_00101070707_SR44kHz_aqualynx: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.906491577625
+ Test accuracy:0.719298245614
+
+Epoch :50
+List of the incorrect predictions 
+Data : Mgr_f1_j3_00101070707_SR44kHz_aqualynx: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.947321474552
+ Test accuracy:0.561403508772
+
+Epoch :50
+List of the incorrect predictions 
+['Tuba.ff.A1.stereo_J_0']- Label : 0 Prediction : 4
+['Tuba.ff.A1.stereo_J_1']- Label : 0 Prediction : 4
+['Tuba.ff.A1.stereo_J_2']- Label : 0 Prediction : 4
+['Tuba.ff.C2.stereo_J_0']- Label : 0 Prediction : 4
+['Tuba.ff.C2.stereo_J_1']- Label : 0 Prediction : 4
+['Tuba.ff.C2.stereo_J_2']- Label : 0 Prediction : 4
+['Tuba.ff.Db3.stereo_J_1']- Label : 0 Prediction : 1
+['Trumpet.novib.ff.Db6.stereo_J_0']- Label : 1 Prediction : 2
+['Trumpet.novib.ff.Db6.stereo_J_1']- Label : 1 Prediction : 2
+['Trumpet.novib.ff.Db6.stereo_J_2']- Label : 1 Prediction : 2
+['Trumpet.vib.ff.Gb3.stereo_J_0']- Label : 1 Prediction : 0
+['Trumpet.vib.ff.Gb3.stereo_J_2']- Label : 1 Prediction : 0
+['Horn.ff.D2.stereo_J_0']- Label : 2 Prediction : 0
+['Horn.ff.D2.stereo_J_1']- Label : 2 Prediction : 0
+['Horn.ff.D2.stereo_J_2']- Label : 2 Prediction : 0
+['Horn.ff.G3.stereo_J_1']- Label : 2 Prediction : 3
+['Horn.ff.G3.stereo_J_2']- Label : 2 Prediction : 3
+['TenorTrombone.ff.C4.stereo_J_1']- Label : 3 Prediction : 0
+['TenorTrombone.ff.C4.stereo_J_2']- Label : 3 Prediction : 0
+['BassTrombone.ff.Ab2.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.Ab2.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.Ab2.stereo_J_2']- Label : 4 Prediction : 3
+['BassTrombone.ff.D3.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.D3.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.D3.stereo_J_2']- Label : 4 Prediction : 3
+
+Data : Mgr_f1_j3_00101070707_SR44kHz_aqualynx: test set 1
+Majority Vote Score :0.526315789474
+
+Patience :10
+Batch Size :32
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[3, 3, 3, 3, 3, 3]
+filter_C :[3, 3, 3, 3, 3, 3]
+filter_D :[3, 3, 3, 3, 3, 3]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :2 min
+===================================================================
+
+Data : Mgr_f1_j3_00101070707_SR44kHz_aqualynx: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.860142767429
+ Test accuracy:0.719298245614
+
+Epoch :50
+List of the incorrect predictions 
+['Tuba.ff.C2.stereo_J_0']- Label : 0 Prediction : 4
+['Tuba.ff.C2.stereo_J_1']- Label : 0 Prediction : 4
+['Tuba.ff.C2.stereo_J_2']- Label : 0 Prediction : 4
+['Tuba.ff.Db3.stereo_J_2']- Label : 0 Prediction : 1
+['Trumpet.novib.ff.Db6.stereo_J_0']- Label : 1 Prediction : 0
+['Trumpet.novib.ff.Db6.stereo_J_1']- Label : 1 Prediction : 0
+['Trumpet.novib.ff.Db6.stereo_J_2']- Label : 1 Prediction : 2
+['Horn.ff.D2.stereo_J_0']- Label : 2 Prediction : 0
+['Horn.ff.D2.stereo_J_1']- Label : 2 Prediction : 0
+['Horn.ff.D2.stereo_J_2']- Label : 2 Prediction : 0
+['TenorTrombone.ff.Ab2.stereo_J_0']- Label : 3 Prediction : 2
+['TenorTrombone.ff.Ab2.stereo_J_1']- Label : 3 Prediction : 4
+['TenorTrombone.ff.Ab2.stereo_J_2']- Label : 3 Prediction : 4
+['BassTrombone.ff.D3.stereo_J_0']- Label : 4 Prediction : 3
+['BassTrombone.ff.D3.stereo_J_1']- Label : 4 Prediction : 3
+['BassTrombone.ff.D3.stereo_J_2']- Label : 4 Prediction : 3
+
+Data : Mgr_f1_j3_00101070707_SR44kHz_aqualynx: test set 1
+Majority Vote Score :0.736842105263
+
+Patience :10
+Batch Size :32
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32]
+filter_A :[3, 3, 3, 3, 3, 3]
+filter_B :[4, 4, 4, 4, 4, 4]
+filter_C :[5, 5, 5, 5, 5, 5]
+filter_D :[6, 6, 6, 6, 6, 6]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :6 min
+===================================================================
+
+Data : Mgr_f1_j3_00101070707_SR44kHz_aqualynx: test set 1
+
+Note : Valid set = Valid set version
+ Test score:0.481949001551
+ Test accuracy:0.894736842105
+
+Epoch :50
+List of the incorrect predictions 
+['Tuba.ff.Db3.stereo_J_1']- Label : 0 Prediction : 2
+['Trumpet.novib.ff.Db6.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Db6.stereo_J_1']- Label : 1 Prediction : 3
+['Trumpet.novib.ff.Db6.stereo_J_2']- Label : 1 Prediction : 3
+['Horn.ff.D2.stereo_J_0']- Label : 2 Prediction : 0
+['Horn.ff.D2.stereo_J_1']- Label : 2 Prediction : 0
+['Horn.ff.D2.stereo_J_2']- Label : 2 Prediction : 0
+
+Data : Mgr_f1_j3_00101070707_SR44kHz_aqualynx: test set 1
+Majority Vote Score :0.894736842105
+
+Patience :10
+Batch Size :32
+nb_epoch :50
+Last Node :1024
+Units :[32, 32, 32, 32, 32, 32]
+filter_A :[2, 2, 2, 2, 2, 2]
+filter_B :[4, 4, 4, 4, 4, 4]
+filter_C :[8, 8, 8, 8, 8, 8]
+filter_D :[16, 16, 16, 16, 16, 16]
+Optimizer :RMSprop
+
+The Elapsed Time for this test set :18 min
+===================================================================
+

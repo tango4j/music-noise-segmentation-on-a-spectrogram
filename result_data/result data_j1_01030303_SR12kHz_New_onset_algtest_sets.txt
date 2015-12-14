@@ -1,0 +1,55 @@
+Data : data_j1_01030303_SR12kHz_New_onset_alg: test set 1
+
+ Test score:0.124074841001
+ Test accuracy:0.955414012739
+
+Epoch :250
+List of the incorrect predictions 
+['Trumpet.novib.ff.F5.stereo_J_0']- Label : 1 Prediction : 3
+['Trumpet.vib.ff.Db5.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulG.A4.stereo_J_0']- Label : 2 Prediction : 0
+['Oboe.ff.Bb3.stereo_J_0']- Label : 3 Prediction : 1
+['Bassoon.ff.Eb2.stereo_J_0']- Label : 3 Prediction : 0
+['BassFlute.ff.Ab3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Ab6.stereo_J_0']- Label : 3 Prediction : 2
+
+ Majority Vote Score :0.955414012739
+===================================================================
+
+Data : data_j1_01030303_SR12kHz_New_onset_alg: test set 6
+
+ Test score:0.234215381968
+ Test accuracy:0.936708860759
+
+Epoch :250
+List of the incorrect predictions 
+['Violin.arco.ff.sulA.Gb6.stereo_J_0']- Label : 2 Prediction : 3
+['Violin.arco.ff.sulE.Ab6.stereo_J_0']- Label : 2 Prediction : 3
+['Viola.arco.ff.sulC.D4.stereo_J_0']- Label : 2 Prediction : 3
+['Cello.arco.ff.sulC.A3.stereo_J_0']- Label : 2 Prediction : 3
+['Bassoon.ff.B1.stereo_J_0']- Label : 3 Prediction : 0
+['AltoFlute.vib.ff.Ab5.stereo_J_0']- Label : 3 Prediction : 2
+['AltoFlute.vib.ff.Db6.stereo_J_0']- Label : 3 Prediction : 2
+['BassFlute.ff.C3.stereo_J_0']- Label : 3 Prediction : 2
+['Flute.vib.ff.Eb4.stereo_J_0']- Label : 3 Prediction : 2
+['BassClarinet.ff.Eb2.stereo_J_0']- Label : 3 Prediction : 1
+
+ Majority Vote Score :0.936708860759
+===================================================================
+
+Data : data_j1_01030303_SR12kHz_New_onset_alg: test set 9
+
+ Test score:0.142596915364
+ Test accuracy:0.95867768595
+
+Epoch :250
+List of the incorrect predictions 
+['Piano.pp.F5_J_0']- Label : 0 Prediction : 2
+['Tuba.ff.A3.stereo_J_0']- Label : 1 Prediction : 3
+['Violin.arco.ff.sulG.D4.stereo_J_0']- Label : 2 Prediction : 3
+['Bass.pizz.ff.sulG.G3.stereo_J_0']- Label : 2 Prediction : 0
+['Cello.arco.ff.sulC.E2.stereo_J_0']- Label : 2 Prediction : 0
+
+ Majority Vote Score :0.95867768595
+===================================================================
+
