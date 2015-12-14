@@ -4,7 +4,7 @@
 
 - The whole project is based on the Keras(Theano)
 
-- 
+- Python dependencies : matplotlib, scipy, numpy, pylab, librosa, pickle, scikits, keras, skimage
 
 - Must downloads : The learned weight of neural networks; Save this file into "pickel_folder"
 
